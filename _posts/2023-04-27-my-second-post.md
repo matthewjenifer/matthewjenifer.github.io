@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post2
 title: 04.27.23 | 002.Whats Next? 
 ---
 
