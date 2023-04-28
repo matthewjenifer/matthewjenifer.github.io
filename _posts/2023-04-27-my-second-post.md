@@ -1,5 +1,5 @@
 ---
-layout: post2
+layout: post
 title: 04.27.23 | 002.Whats Next? 
 url: /my-second-post/
 ---
