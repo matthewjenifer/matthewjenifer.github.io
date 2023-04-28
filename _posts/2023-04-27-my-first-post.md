@@ -1,6 +1,14 @@
 ---
 layout: post
-title: My First Post
+title: 04.27.23
 ---
 
-This is my first post on my new Jekyll blog. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis quam impedit ab ullam corrupti error quasi, obcaecati at magni accusantium, unde nihil molestias earum expedita dicta, numquam beatae quod nisi.
+### Post.001
+
+```
+{
+  "firstName": "Matthew",
+  "lastName": "Jenifer",
+  "age": 37
+}
+```
