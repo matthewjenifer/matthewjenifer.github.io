@@ -1,15 +1,14 @@
 ---
 layout: post
-title: 04.27.23 | 001.Hello_World 
-url: /my-first-post/
+title: "My First Blog Post"
+date: 2023-04-28
+categories: [blogging, jekyll, github pages]
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti amet sapiente earum quisquam incidunt voluptate aperiam provident, assumenda, iure delectus illo atque! Inventore eveniet repellendus recusandae veniam minus perferendis sequi.**Lorem** ipsum dolor sit amet consectetur adipisicing elit. Corrupti amet sapiente earum quisquam incidunt voluptate aperiam provident, assumenda, 
+Welcome to my first blog post! I'm excited to start sharing my thoughts and experiences with you all.
 
-1. First item
-2. Second item
-3. Third item
+As a Jr Dev, I'm still learning the ropes of web development and programming. But I'm eager to use this blog as a platform to showcase my skills and share what I've learned so far.
 
-### Link
+In future posts, I plan to write about my journey into software engineering, my experiences with different technologies, and my thoughts on the intersection of technology and society. I hope you'll join me for the ride!
 
-[Markdown Guide](https://www.markdownguide.org)
+Thanks for reading, and stay tuned for more updates.
