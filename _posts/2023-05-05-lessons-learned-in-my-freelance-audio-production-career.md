@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lessons Learned Building My Music Theory App"
-date: 2023-05-05
+date: 2023-04-30
 categories: [software engineering, music theory, app development]
 ---
 
