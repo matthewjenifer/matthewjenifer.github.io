@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes 2 Self
+title: EXPERIMENT IV
 subtitle: A Subtitle
 date: 2023-04-28
 last_modified_at: 2023-04-28
@@ -25,21 +25,21 @@ excerpt: This is an excerpt of the post that will be displayed on the homepage
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oKOmhHWFuB4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam, fugiat nihil vel tempore possimus fuga natus autem aspernatur assumenda neque officiis reprehenderit error eligendi earum, inventore, velit rerum et magni.</p>
+<p>Pergam et ero honestus, 64-82% huius diarii componetur et componetur ope chatbotarum et ai. non solum quia piger sum sed etiam quod videre cupio quis hoc legerit. quoniam in alia lingua. sed etiam inopinata expecta. multum futurae meae nuntia encryption includet quia cur non?</p>
 
 <p>How did you even get here ~~Sah~~ ..:</p>
 
 <ul>
-  <li>Item 1</li>
-  <li>Item 2</li>
-  <li>Item 3</li>
+  <li>Making Dubs</li>
+  <li>MIDI/Programming</li>
+  <li>A/V</li>
 </ul>
 
 <p>Are you even ~~Sah~~ ? ..:</p>
 
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+- [x] Random AF
+- [ ] Cryptic
+- [ ] Unique
 
 <p>Here are some tags for this post:</p>
 <ul>
