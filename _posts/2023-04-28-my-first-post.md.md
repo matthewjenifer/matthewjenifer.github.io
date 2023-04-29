@@ -23,7 +23,8 @@ excerpt: This is an excerpt of the post that will be displayed on the homepage
 <h2>The following song is not Hello Earth.</h2>
 
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/oKOmhHWFuB4" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" height="auto" src="https://www.youtube.com/embed/oKOmhHWFuB4?autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 </div>
 
 
