@@ -63,7 +63,7 @@ tags:
 <p>Ultimately, building a successful blog requires a combination of technical know-how, content creation, SEO optimization, and UI design. While it may seem daunting at first, there are many resources available online to help you get started. And you want to know a secret? That's part of the fun.
 </p>
 
-<!-- <img src="../images/bloggingthehardway.png"> -->
+<img src="https://raw.githubusercontent.com/matthewjenifer/matthewjenifer.github.io/main/images/bloggingthehardway.png">
 
 
 
