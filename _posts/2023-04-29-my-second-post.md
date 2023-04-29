@@ -15,7 +15,7 @@ tags:
   - UI Design
   - Github
   - Social Media Marketing
-image: ../images/oversimp.PNG
+image: ../images/oversimp.png
 ---
 
 <link rel="stylesheet" type="text/css" href="./_css/styles.css">
