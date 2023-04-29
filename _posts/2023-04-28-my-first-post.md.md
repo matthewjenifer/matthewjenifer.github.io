@@ -20,9 +20,9 @@ excerpt: This is an excerpt of the post that will be displayed on the homepage
 
 <p>I had a wordpress blog once and that was the opening post. I saw hello world and immediately heard Kate Bush's *"Hello Earth"* in my head.. so I suppose thats as good as any place to start..</p>
 
-<h2>Since 1999.</h2>
+<h2>The following song is not Hello Earth.</h2>
 
-<p>{% raw %}{% include youtube.html id="rpcUTWHlbvI" %}{% endraw %}</p>
+{% include youtube.html id="t4k4rIfBPQM" %}
 
 <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam, fugiat nihil vel tempore possimus fuga natus autem aspernatur assumenda neque officiis reprehenderit error eligendi earum, inventore, velit rerum et magni.</p>
 
