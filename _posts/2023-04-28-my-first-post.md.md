@@ -1,6 +1,6 @@
 ---
 layout: post           # The layout to use for the post (e.g., post, page)
-title: My Post         # The title of the post
+title: .dev         # The title of the post
 subtitle: A Subtitle   # A subtitle for the post
 date: 2023-04-28       # The date the post was published
 last_modified_at: 2023-04-28 # The date the post was last modified
