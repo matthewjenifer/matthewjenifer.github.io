@@ -4,13 +4,13 @@ title: .dev
 theme: jekyll-theme-tactile
 ---
 
-<link rel="stylesheet" type="text/css" href="./_css/styles.css">
+<link rel="stylesheet" type="text/css" href="{{ '/_css/styles.css' | relative_url }}">
 
 <!-- The main section of the page -->
 <main>
   
   <!-- Displays an image of Mr. Jenifer -->
-  <img src="./images/mrjenifer.png">
+  <img src="{{ '/images/mrjenifer.png' | relative_url }}" alt="Mr. Jenifer">
   
   <header>
     
@@ -29,7 +29,7 @@ theme: jekyll-theme-tactile
     <p>As a Jr Dev, this blog shall also serve to showcase my technical skills in static website building using Jekyll and GitHub Pages. The blog should demonstrate my ability to create clean and organized code, use version control, and optimize for search engines. It also showcases my writing skills, attention to detail, and passion for education, audio, and technology.</p>
     
     <!-- Displays an image with a signature -->
-    <img src="./images/sig.png" width="300" height="100">
+    <img src="{{ '/images/sig.png' | relative_url }}" width="300" height="100" alt="Signature">
   
   </section>
 
@@ -43,8 +43,10 @@ theme: jekyll-theme-tactile
     {% for post in site.posts %}
       <article>
 
-        <!-- Displays the thumbnail image for the post -->
-        <img src="{{ post.thumbnail }}" alt="{{ post.title }}">
+        {% if post.thumbnail %}
+          <!-- Displays the thumbnail image for the post -->
+          <img src="{{ post.thumbnail | relative_url }}" alt="{{ post.title }}">
+        {% endif %}
         
         <!-- Displays the date of the post in the format MM-DD-YY -->
         <p>{{ post.date | date: "%m-%d-%y" }}</p>
