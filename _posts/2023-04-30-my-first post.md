@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "My First Post"
-date: 2023-04-28
+title: My First Post
+theme: jekyll-theme-tactile
 ---
 
 <p>Welcome to my first post!</p>
