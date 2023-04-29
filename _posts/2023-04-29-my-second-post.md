@@ -20,7 +20,7 @@ image: ../images/oversimp.png
 
 <link rel="stylesheet" type="text/css" href="./_css/styles.css">
 
-<img src="https://raw.githubusercontent.com/matthewjenifer/matthewjenifer.github.io/main/images/oversimp.png">
+<img src="../images/oversimp.png">
 
 <h1>Yeah so..</h1>
 
