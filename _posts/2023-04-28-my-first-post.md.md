@@ -22,7 +22,9 @@ excerpt: This is an excerpt of the post that will be displayed on the homepage
 
 <h2>The following song is not Hello Earth.</h2>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oKOmhHWFuB4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/oKOmhHWFuB4" frameborder="0" allowfullscreen></iframe>
+</div>
 
 
 <p>Pergam et ero honestus, 64-82% huius diarii componetur et componetur ope chatbotarum et ai. non solum quia piger sum sed etiam quod videre cupio quis hoc legerit. quoniam in alia lingua. sed etiam inopinata expecta. multum futurae meae nuntia encryption includet quia cur non?</p>
@@ -49,3 +51,19 @@ excerpt: This is an excerpt of the post that will be displayed on the homepage
 </ul>
 
 <p><a href="/">Back to Home</a></p>
+
+<style>
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
