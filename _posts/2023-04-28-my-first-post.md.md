@@ -36,13 +36,14 @@ image: ../images/OIP.png
 <p>~</p>
 
 <img src="https://raw.githubusercontent.com/matthewjenifer/matthewjenifer.github.io/main/images/OIP.jpeg">
+
 <!-- <p>How did you even get here ~~Sah~~ ..:</p>
 
 <ul>
   <li>Making Dubs</li>
   <li>MIDI/Programming</li>
   <li>A/V</li>
-</ul> -->
+</ul>  -->
 
 <p>Here are some tags for this post:</p>
 <ul>
