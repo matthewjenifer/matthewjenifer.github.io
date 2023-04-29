@@ -2,6 +2,7 @@
 layout: post
 title: "My First Blog Post"
 date: 2023-04-30
+url: /my-first-post/
 categories: [blogging, jekyll, github pages]
 ---
 
