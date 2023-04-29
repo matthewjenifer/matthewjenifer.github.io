@@ -13,7 +13,6 @@ tags:
   - Tutorial
   - Example
 image: ./images/OIP.png
-excerpt: This is an excerpt of the post that will be displayed on the homepage
 ---
 
 <link rel="stylesheet" type="text/css" href="./_css/styles.css">
