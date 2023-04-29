@@ -27,6 +27,7 @@ excerpt: This is an excerpt of the post that will be displayed on the homepage
 
 </div>
 
+<br>
 
 <p>Pergam et ero honestus, 64-82% huius diarii componetur ope chatbotarum et ai. non solum quia piger sum sed etiam quod videre cupio quis hoc legerit. quoniam in alia lingua. sed etiam inopinata expecta. multum futurae meae nuntia encryption includet quia cur non?</p>
 
