@@ -37,20 +37,23 @@ theme: jekyll-theme-tactile
     
     <!-- Heading with the text 'Latest Posts' -->
     <h2>Latest Posts</h2>
-    
+      
     <!-- For loop that generates an article for each post on the site -->
     {% for post in site.posts %}
       <article>
-       
+        
+        <!-- Displays the date of the post in the format MM-DD-YY -->
+        <p>{{ post.date | date: "%m-%d-%y" }}</p>
+        
         <!-- Link to the post with the title of the post -->
         <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-        
+          
         <!-- Excerpt of the post -->
         <p>{{ post.content | strip_html | truncatewords:15 }}</p>
-     
+      
       </article>
     {% endfor %}
-  
+    
   </section>
 
 </main>
