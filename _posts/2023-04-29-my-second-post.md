@@ -2,6 +2,7 @@
 layout: post
 title: Overcomplicationalism
 subtitle: A Gentlemans Ode 
+image: ../images/oversimp-thumbnail.jpg
 date: 2023-04-29
 last_modified_at: 2023-04-29
 author: M. Jenifer
@@ -15,7 +16,6 @@ tags:
   - UI Design
   - Github
   - Social Media Marketing
-# image: ../images/oversimp.png
 ---
 
 <link rel="stylesheet" type="text/css" href="./_css/styles.css">

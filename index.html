@@ -42,6 +42,9 @@ theme: jekyll-theme-tactile
     <!-- For loop that generates an article for each post on the site -->
     {% for post in site.posts %}
       <article>
+
+        <!-- Displays the thumbnail image for the post -->
+        <img src="{{ post.thumbnail }}" alt="{{ post.title }}">
         
         <!-- Displays the date of the post in the format MM-DD-YY -->
         <p>{{ post.date | date: "%m-%d-%y" }}</p>
