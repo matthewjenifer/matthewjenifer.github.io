@@ -3,16 +3,16 @@ layout: post
 title: EXPERIMENT V
 subtitle: A Subtitle
 date: 2023-04-28
-last_modified_at: 2023-04-28
+last_modified_at: 2023-04-29
 author: M. Jenifer
 categories:
   - Programming
   - Web Development
 tags:
   - Jekyll
-  - Tutorial
-  - Example
-image: ./images/OIP.png
+  - Kate Bush
+  - Latin
+image: ../images/OIP.png
 ---
 
 <link rel="stylesheet" type="text/css" href="./_css/styles.css">
@@ -39,12 +39,6 @@ image: ./images/OIP.png
   <li>MIDI/Programming</li>
   <li>A/V</li>
 </ul> -->
-
-<p>..but am 👁️ even me then? ..:</p>
-
-- [x] Random AF
-- [x] Cryptic
-- [ ] "Genius"?
 
 <p>Here are some tags for this post:</p>
 <ul>

@@ -15,10 +15,12 @@ tags:
   - UI Design
   - Github
   - Social Media Marketing
-image: ./images/OIP.png
+image: ../images/oversimp.PNG
 ---
 
 <link rel="stylesheet" type="text/css" href="./_css/styles.css">
+
+<img src="../images/oversimp.PNG">
 
 <h1>Yeah so..</h1>
 
@@ -59,7 +61,6 @@ image: ./images/OIP.png
 <p>Ultimately, building a successful blog requires a combination of technical know-how, content creation, SEO optimization, and UI design. While it may seem daunting at first, there are many resources available online to help you get started. And you want to know a secret? That's part of the fun.
 </p>
 
-<p>Thank you for visiting.</p>
 
 
 <p>Here are some tags for this post:</p>
