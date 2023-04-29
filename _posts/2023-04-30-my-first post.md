@@ -1,15 +1,21 @@
 ---
 layout: post
-title: "My First Blog Post"
-date: 2023-04-30
-url: /my-first-post/
-categories: [blogging, jekyll, github pages]
+title: "My First Post"
+date: 2023-04-28
 ---
 
-Welcome to my first blog post! I'm excited to start sharing my thoughts and experiences with you all.
+<p>Welcome to my first post!</p>
 
-As a Jr Dev, I'm still learning the ropes of web development and programming. But I'm eager to use this blog as a platform to showcase my skills and share what I've learned so far.
+<p>This is an example of how to use Jekyll to create blog posts.</p>
 
-In future posts, I plan to write about my journey into software engineering, my experiences with different technologies, and my thoughts on the intersection of technology and society. I hope you'll join me for the ride!
+<h2>Subheading</h2>
 
-Thanks for reading, and stay tuned for more updates.
+<p>You can add as many headings and paragraphs as you like.</p>
+
+<p>Here's an example of a list:</p>
+
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+</ul>

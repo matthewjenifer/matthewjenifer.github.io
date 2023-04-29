@@ -1,28 +1,41 @@
+<!-- This is a Jekyll template file with the default layout -->
+
+<!-- Sets the title of the page to '.dev' -->
 ---
 layout: default
 title: .dev
 ---
 
+<!-- The main section of the page -->
 <main>
+  <!-- Displays an image of Mr. Jenifer -->
   <img src="./images/mrjenifer.png">
-    <header>
-      <h1>About Me.</h1>
-    </header>
+  <header>
+    <!-- Heading with the text 'About Me.' -->
+    <h1>About Me.</h1>
+  </header>
 
+  <!-- A section that contains paragraphs about the author's journey and skills -->
   <section>
     <p>In effort to document my journey from content producer to software engineer, this blog will feature updates on my music theory app - Groove Theory - as well as reflections on prior years in freelance audio production and lessons learned in my creative entrepreneurial efforts.</p>
-       <h2>Thank you for visiting.</h2>
-     <p>As a Jr Dev, this blog shall also serve to showcase my technical skills in static website building using Jekyll and GitHub Pages. The blog should demonstrate my ability to create clean and organized code, use version control, and optimize for search engines. It also showcases my writing skills, attention to detail, and passion for education, audio, and technology.</p>
+    <h2>Thank you for visiting.</h2>
+    <p>As a Jr Dev, this blog shall also serve to showcase my technical skills in static website building using Jekyll and GitHub Pages. The blog should demonstrate my ability to create clean and organized code, use version control, and optimize for search engines. It also showcases my writing skills, attention to detail, and passion for education, audio, and technology.</p>
+    <!-- Displays an image with a signature -->
     <img src="./images/sig.png" width="300" height="200">
   </section>
 
+  <!-- A section that contains the latest posts on the site, generated using a for loop -->
   <section>
+    <!-- Heading with the text 'Latest Posts' -->
     <h2>Latest Posts</h2>
+    <!-- For loop that generates an article for each post on the site -->
     {% for post in site.posts %}
-  <article>
-    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    <p>{{ post.excerpt }}</p>
-  </article>
-{% endfor %}
+      <article>
+        <!-- Link to the post with the title of the post -->
+        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        <!-- Excerpt of the post -->
+        <p>{{ post.excerpt }}</p>
+      </article>
+    {% endfor %}
   </section>
 </main>
