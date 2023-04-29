@@ -46,7 +46,7 @@ image: ../images/oversimp.png
 </ul>
 
 
-<p>Which brings me to my second point: creating content for a blog is not an easy task either. It's time consuming. It takes time and effort to come up with the ideas, research, write and edit the content.Fortunately for you and me "AI" is here. I put it in quotes for a multitude of reasons, but I'll save that for another post. One you'll probably never see if not for yet another important aspect: search engine optimization (SEO). This is crucial for driving traffic to the blog (which, reminds me.. I need to build RSS into this thing... 
+<p>Which brings me to my second point: creating content for a blog is not an easy task either. It's time consuming. It takes time and effort to come up with the ideas, research, write and edit the content. Fortunately for you and me "AI" is here. I put it in quotes for a multitude of reasons, but I'll save that for another post. One you'll probably never see if not for yet another important aspect: search engine optimization (SEO). This is crucial for driving traffic to the blog...which, reminds me.. I need to build RSS into this thing... 
 </p>
 
 <p>..might as well bring that check list back out:</p>
