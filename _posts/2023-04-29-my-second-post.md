@@ -45,6 +45,7 @@ tags:
 <li>I feel like Facebook and Twitter count technically (micro-blogging), but tbh I havent done too much of that in years unless you count my random non business related posts on Linkedin</li>
 </ul>
 
+<img src="https://starecat.com/content/wp-content/uploads/normal-people-adding-7-plus-6-equals-13-me-different-logic-family-guy.jpg">
 
 <p>Which brings me to my second point: creating content for a blog is not an easy task either. It's time consuming. It takes time and effort to come up with the ideas, research, write and edit the content. Fortunately for you and me "AI" is here. I put it in quotes for a multitude of reasons, but I'll save that for another post. One you'll probably never see if not for yet another important aspect: search engine optimization (SEO). This is crucial for driving traffic to the blog...which, reminds me.. I need to build RSS into this thing... 
 </p>
