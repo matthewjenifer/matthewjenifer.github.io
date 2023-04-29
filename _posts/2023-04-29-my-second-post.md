@@ -24,7 +24,7 @@ image: ../images/oversimp.png
 
 <h1>Yeah so..</h1>
 
-<p>I've been working on this blog for a total of 72 hours and I started thinking..building a blog from scratch and feel unnecessarily complicated. I say seem because right after that revelation was another one. And that one was purpose. There is so much more to building a blog "from scratch" then meets the eye. Allow me to outline a few of those things for you..</p>
+<p>I've been working on this blog for a total of 72 hours and I started thinking..building a blog from scratch can feel unnecessarily complicated. I say seem because right after that revelation was another one. And that one was purpose. There is so much more to building a blog "from scratch" then meets the eye. Allow me to outline a few of those things for you:</p>
 
 <p>Firstly, when you build a blog from scratch, you have to consider the technical aspects of it. This includes choosing a domain name, web hosting, and designing the layout of the blog. I decided to take the easy route and use Github. Because: Free. But honestly, it can be a bit overwhelming for someone who is not familiar with web development.</p>
 
