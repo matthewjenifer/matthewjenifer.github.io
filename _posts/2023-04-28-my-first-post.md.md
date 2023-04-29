@@ -43,7 +43,7 @@ excerpt: This is an excerpt of the post that will be displayed on the homepage
 
 - [x] Random AF
 - [x] Cryptic
-- [ ] "Genius"
+- [ ] "Genius"?
 
 <p>Here are some tags for this post:</p>
 <ul>
