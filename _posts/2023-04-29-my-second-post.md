@@ -20,7 +20,7 @@ image: ../images/oversimp.PNG
 
 <link rel="stylesheet" type="text/css" href="./_css/styles.css">
 
-<img src="../images/oversimp.png">
+<img src="../_images/oversimp.png">
 
 <h1>Yeah so..</h1>
 
