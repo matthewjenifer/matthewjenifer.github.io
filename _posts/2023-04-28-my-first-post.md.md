@@ -22,7 +22,7 @@ excerpt: This is an excerpt of the post that will be displayed on the homepage
 
 <h2>The following song is not Hello Earth.</h2>
 
-{% include youtube.html id="t4k4rIfBPQM" %}
+{% include youtube.html id="oKOmhHWFuB4" %}
 
 <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam, fugiat nihil vel tempore possimus fuga natus autem aspernatur assumenda neque officiis reprehenderit error eligendi earum, inventore, velit rerum et magni.</p>
 
@@ -34,7 +34,7 @@ excerpt: This is an excerpt of the post that will be displayed on the homepage
   <li>Item 3</li>
 </ul>
 
-<p>Where are you going ~~Sah~~ ..:</p>
+<p>Are you even ~~Sah~~ ? ..:</p>
 
 - [x] Write the press release
 - [ ] Update the website
