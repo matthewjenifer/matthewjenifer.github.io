@@ -1,6 +1,6 @@
 ---
 layout: post           # The layout to use for the post (e.g., post, page)
-title: .dev         # The title of the post
+title: First Post Title         # The title of the post
 subtitle: A Subtitle   # A subtitle for the post
 date: 2023-04-28       # The date the post was published
 last_modified_at: 2023-04-28 # The date the post was last modified
@@ -12,7 +12,7 @@ tags:                  # The tags for the post
   - Jekyll
   - Tutorial
   - Example
-image: /images/OIP.png # The main image for the post
+image: ./images/OIP.png # The main image for the post
 excerpt: This is an excerpt of the post that will be displayed on the homepage # The excerpt for the post
 ---
 
