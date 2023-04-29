@@ -16,6 +16,8 @@ image: ./images/OIP.png
 excerpt: This is an excerpt of the post that will be displayed on the homepage
 ---
 
+<link rel="stylesheet" type="text/css" href="./_css/styles.css">
+
 <p>Hello Earth.</p>
 
 <p>I had a wordpress blog once and that was the opening post. I saw hello world and immediately heard Kate Bush's *"Hello Earth"* in my head.. so I suppose thats as good as any place to start..</p>
@@ -53,19 +55,3 @@ excerpt: This is an excerpt of the post that will be displayed on the homepage
 </ul>
 
 <p><a href="/">Back to Home</a></p>
-
-<style>
-.video-container {
-  position: relative;
-  padding-bottom: 56.25%;
-  height: 0;
-}
-
-.video-container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-</style>
