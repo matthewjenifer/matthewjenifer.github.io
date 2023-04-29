@@ -2,6 +2,7 @@
 layout: post
 title: My First Post
 theme: jekyll-theme-tactile
+url: /my-first-post/
 ---
 
 <p>Welcome to my first post!</p>
