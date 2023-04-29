@@ -28,7 +28,7 @@ excerpt: This is an excerpt of the post that will be displayed on the homepage
 </div>
 
 
-<p>Pergam et ero honestus, 64-82% huius diarii componetur et componetur ope chatbotarum et ai. non solum quia piger sum sed etiam quod videre cupio quis hoc legerit. quoniam in alia lingua. sed etiam inopinata expecta. multum futurae meae nuntia encryption includet quia cur non?</p>
+<p>Pergam et ero honestus, 64-82% huius diarii componetur ope chatbotarum et ai. non solum quia piger sum sed etiam quod videre cupio quis hoc legerit. quoniam in alia lingua. sed etiam inopinata expecta. multum futurae meae nuntia encryption includet quia cur non?</p>
 
 <!-- <p>How did you even get here ~~Sah~~ ..:</p>
 
@@ -38,10 +38,10 @@ excerpt: This is an excerpt of the post that will be displayed on the homepage
   <li>A/V</li>
 </ul> -->
 
-<p>Are you even ~~Sah~~ ? ..:</p>
+<p>..but am 👁️ even me? ..:</p>
 
 - [x] Random AF
-- [ ] Cryptic
+- [x] Cryptic
 - [ ] Unique
 
 <p>Here are some tags for this post:</p>
