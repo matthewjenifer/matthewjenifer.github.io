@@ -39,7 +39,7 @@ excerpt: This is an excerpt of the post that will be displayed on the homepage
   <li>A/V</li>
 </ul> -->
 
-<p>..but am 👁️ even me? ..:</p>
+<p>..but am 👁️ even me then? ..:</p>
 
 - [x] Random AF
 - [x] Cryptic
