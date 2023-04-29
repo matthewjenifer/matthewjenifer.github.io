@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Overcomplicationism
+title: Overcomplicationalism
 subtitle: A Gentlemans Ode 
 date: 2023-04-29
 last_modified_at: 2023-04-29
@@ -20,7 +20,7 @@ image: ../images/oversimp.PNG
 
 <link rel="stylesheet" type="text/css" href="./_css/styles.css">
 
-<img src="../_images/oversimp.png">
+<img src="../images/oversimp.png">
 
 <h1>Yeah so..</h1>
 
