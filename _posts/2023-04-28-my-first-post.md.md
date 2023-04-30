@@ -17,7 +17,7 @@ image: ../images/OIP.png
 
 <link rel="stylesheet" type="text/css" href="./_css/styles.css">
 
-<p>Hello Earth.</p>
+<h1>Hello Earth.</h1>
 
 
 <p>I had a wordpress blog once and that was the opening post. I saw hello world and immediately heard Kate Bush's <em>"Hello Earth"</em> in my head.. so I suppose thats as good as any place to start..</p>
