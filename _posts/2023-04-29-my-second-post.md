@@ -30,8 +30,6 @@ tags:
 
 <h2>Here's a list of every blogging platform I've used before doing it this way (the ones I can remember at least..)</h2>
 
-<p>Let's see: </p>
-
 <ul>
   <li>Homestead</li>
   <li>BlackPlanet (that kinda counts right?)</li>
