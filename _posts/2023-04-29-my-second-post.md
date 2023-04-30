@@ -59,7 +59,7 @@ tags:
 - [ ] tag cloud??
 - [ ] ...
 
-<h1>Anyway,</h1><p> promoting the blog and growing a readership is probably the?(MY) biggest hurdle. Social media marketing, guest blogging, and networking with other bloggers...ok so yes that probably would increase exposure and engagement with the audience, but I'm exhausted just typing about thinking about it. Smdh. Case in point, it requires consistent effort and dedication to make a blog successful. Even if you get help from a chatbot or two.</p>
+<p>Anyway, promoting the blog and growing a readership is probably the?(MY) biggest hurdle. Social media marketing, guest blogging, and networking with other bloggers...ok so yes that probably would increase exposure and engagement with the audience, but I'm exhausted just typing about thinking about it. Smdh. Case in point, it requires consistent effort and dedication to make a blog successful. Even if you get help from a chatbot or two.</p>
 
 <p>Ultimately, building a successful blog requires a combination of technical know-how, content creation, SEO optimization, and UI design. While it may seem daunting at first, there are many resources available online to help you get started. And you want to know a secret? That's part of the fun.
 </p>
