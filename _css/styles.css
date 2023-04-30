@@ -11,3 +11,15 @@
     width: 100%;
     height: 100%;
 }
+
+/* Default font size */
+h1 {
+    font-size: 3rem;
+}
+
+  /* Media query for screens smaller than 600px */
+@media (max-width: 600px) {
+    h1 {
+    font-size: 2rem;
+    }
+}
