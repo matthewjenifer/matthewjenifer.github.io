@@ -22,7 +22,7 @@ image: ../images/OIP.png
 
 <p>I had a wordpress blog once and that was the opening post. I saw hello world and immediately heard Kate Bush's <em>"Hello Earth"</em> in my head.. so I suppose thats as good as any place to start..</p>
 
-<h2>The following song is not Hello Earth.</h2>
+<h3>The following song is not Hello Earth.</h3>
 
 <div class="video-container">
   <iframe width="100%" height="auto" src="https://www.youtube.com/embed/oKOmhHWFuB4?autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

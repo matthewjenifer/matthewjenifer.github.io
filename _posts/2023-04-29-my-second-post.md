@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Overcomplicationalism
-subtitle: A Gentlemans Ode 
+subtitle: A Gentleman's Ode 
 image: ../images/oversimp-thumbnail.jpg
 date: 2023-04-29
 last_modified_at: 2023-04-29
