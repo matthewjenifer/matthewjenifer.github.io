@@ -35,7 +35,7 @@ tags:
 </div>
 <h2>Key Features So Far</h2>
 
-<p> With the help of ChatGPT, I have made a lot of progress over the past few weeks, building this site from a basic idea. Here’s a summary of what we’ve done: </p> 
+<p> With the help of a coding asistant, I have made a lot of progress over the past few weeks, building this site from a basic idea. Here’s a summary of what we’ve done: </p> 
 <div style="text-align: center;">
 
 <img src="https://i.ibb.co/zsYF748/Progression-Frame-MAJ-MIN-w-Progkey.png" height=300>
