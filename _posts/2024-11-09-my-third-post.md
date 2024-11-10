@@ -55,9 +55,9 @@ tags:
 <div style="text-align: center;">
 <img src="https://i.ibb.co/smsN3Lv/modal-interchange.png">
 </div>
-<p><i>(above is a screencap from a thread on modal exchange I generated with NotebookLM, using the fixed chord sets, the circle of fifths and a book on Jazz. This should offer an example of of the kind of progressions users might use my tool to construct and why.).</i></p>
+<p><i>(above is a screencap from a thread on modal exchange I generated with NotebookLM. My sources were the previously stated fixed chord sets, the circle of fifths and a book on borrowing chords for Jazz compositions. This should offer you an example of of the kind of progressions users might use my tool to construct and why.).</i></p>
 <h3>2. Chord Cloning and Simplification</h3>
-<p>I created functions to simplify the transposed chords for use in the Cicrle of Fifths function I would build later. The code would mirror the simplified and complex versions of the new set of chords transposed according to root input, then provide relative chord information along side set and pad number for users to access easy like searching through the index of textbook. Written out like that it sounds pretty straightforward but the order of these functions took some time to develop.</p>
+<p>Next, I created functions to simplify the transposed chords for use in the Cicrle of Fifths function I knew I would implement later. When ran, this code would mirror the simplified and complex versions of the new set of chords (transposed according to root input), then provide relative chord information along side the chord set and pad number for users to access like searching through the index of a textbook. Written out this way it sounds pretty straightforward but the order of these functions took some time to develop if I'm honest.</p>
 
 <div style="text-align: center;">
 <img src="https://i.ibb.co/Xx8f4fY/chordsets3.png" >
