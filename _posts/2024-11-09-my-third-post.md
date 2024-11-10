@@ -50,13 +50,13 @@ tags:
 
 <p>Maschine's chord matrix consists of 192 hard-coded chord structures that transpose according to the root note or song key: sets MAJ1 to MAJ8 for major keys and MIN1 to MIN8 for minor keys. Each individual set has 12 chords that provide multiple options when building a progression, all based in the key of C. This makes it easier for users of the device to change keys later on if they want, and this is precisely where I began.</p>
 
+<div style="text-align: center;">
+<img src="https://i.ibb.co/xJd1GYf/chordcode.png" >
+</div>
 <h3>2. Chord Cloning and Simplification</h3>
 
 <p>One of the most important features is allowing users to easily change the key of the chord sets. Since I based this tool on a pre-existing device, I knew any app I developed would need to function similarly to the chord bank layout in Maschine. Instead of being stuck in one key, users can choose any starting note they like, so my tool needed to automatically adjust all 192 chords across the different sets. Admittedly, this had me stumped for the better part of a year, but sometimes it helps to put it aside and start from scratch. Once I had the logic to transpose across chord sets, the rest came (relatively) easily. I created functions to simplify the transposed chords for use in the Cicrle of Fifths function I would build later. The code would mirror the simplified and complex versions of the new set of chords transposed according to root input, then provide relative chord information along side set and pad number for users to access easy like searching through the index of textbook. Written out like that it sounds pretty straightforward but the order of these functions took some time to develop. </p>
 
-<div style="text-align: center;">
-<img src="https://i.ibb.co/xJd1GYf/chordcode.png" >
-</div>
 
 <h3>3. Identifying Relative and Neighboring Chord Matches</h3>
 
