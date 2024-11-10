@@ -38,7 +38,7 @@ tags:
 <p> With the help of a coding asistant, I have made a lot of progress over the past few weeks, building this site from a basic idea. Here’s a summary of what we’ve done: </p> 
 <div style="text-align: center;">
 
-<img src="https://i.ibb.co/zsYF748/Progression-Frame-MAJ-MIN-w-Progkey.png" height=300>
+<img src="https://i.ibb.co/zsYF748/Progression-Frame-MAJ-MIN-w-Progkey.png">
 </div>
 
 <h3>1. Chord Sets for Major and Minor Keys</h3>
