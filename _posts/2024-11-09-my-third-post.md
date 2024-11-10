@@ -26,6 +26,10 @@ tags:
 
 <p>In the past few weeks, I have been working on creating a music theory tool for Native Instruments Maschine users, especially those (like me) who get lost navigating the complex world of music theory. Hopefully, this tool will help people understand how chords work harmonically together and provide an easy, fun way to craft chord progressions, even if music theory feels intimidating or confusing. This is all en route to something much more functional and adaptive, but for starters, I made a vanilla JS tool called <a href="https://github.com/matthewjenifer/fif-finder-t2" target="_blank"><b>"Fif'Chord Finder"</b></a>.</p>
 
+<div style="text-align: center;">
+
+<img src="https://i.ibb.co/zsYF748/Progression-Frame-MAJ-MIN-w-Progkey.png">
+</div>
 
 <h2>Why Make This Tool?</h2>
 
@@ -36,9 +40,9 @@ tags:
 <h2>Key Features So Far</h2>
 
 <p> With the help of a coding asistant, I have made a lot of progress over the past few weeks, building this site from a basic idea. Here’s a summary of what we’ve done: </p> 
-<div style="text-align: center;">
 
-<img src="https://i.ibb.co/zsYF748/Progression-Frame-MAJ-MIN-w-Progkey.png">
+<div style="text-align: center;">
+<img src="https://i.ibb.co/pX8SkJW/chordsets2.png">
 </div>
 
 <h3>1. Transposable Chord Sets for Major and Minor Keys</h3>
