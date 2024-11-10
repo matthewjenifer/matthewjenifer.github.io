@@ -26,6 +26,8 @@ tags:
 
 <p>In the past few weeks, I have been working on creating a music theory tool for Native Instruments Maschine users, especially those (like me) who get lost navigating the complex world of music theory. Hopefully, this tool will help people understand how chords work harmonically together and provide an easy, fun way to craft chord progressions, even if music theory feels intimidating or confusing. This is all en route to something much more functional and adaptive, but for starters, I made a vanilla JS tool called <b>"Fif'Chord Finder"</b>.</p>
 
+<img src="https://raw.githubusercontent.com/matthewjenifer/fif-finder-t2/refs/heads/main/images/MK3_frame.png" height=300>
+
 <h2>Why Make This Tool?</h2>
 
 <p>I set out to create this simple app because of my own experiences speaking with many Maschine users who struggle with how exactly to use the infamous circle. Maschine is a tremendously powerful music production tool, and it offers a lot of assistance in the form of preset scales and modal chord banks, but without a basic understanding of music theory, figuring out which chords go well together can feel overwhelming. This tool aims to solve that problem by giving users an easy and interactive way to explore the harmonic relationship between chords and make creative choices on their Maschine hardware without needing to understand the theory required to read the Circle of Fifths.</p>
@@ -38,11 +40,16 @@ tags:
 
 <h3>1. Chord Sets for Major and Minor Keys</h3>
 
+
 <p>Maschine's chord matrix consists of 192 hard-coded chord structures that transpose according to the root note: MAJ1 to MAJ8 for major keys and MIN1 to MIN8 for minor keys. Each individual set has 12 chords that provide several options when building a progression, all starting in the key of C. This makes it easier for users of the device to change keys later on if they want, and this is precisely where I began.</p>
+
+<!-- <img src="https://cdn11.bigcommerce.com/s-luvfwivmyi/product_images/uploaded_images/240207-circle-fifths-02.jpg" height=300> -->
 
 <h3>2. Changing Keys Easily</h3>
 
 <p>One of the most important features is allowing users to easily change the key of the chord sets. Again, I based this tool on a pre-existing device, so I knew any app I developed would need to function similarly to the chord bank layout in Maschine. Instead of being stuck in one key, users can choose any starting note they like, so my tool needed to automatically adjust all 192 chords across the different sets. Admittedly, this had me stumped for the better part of a year, but sometimes it helps to put it aside and start from scratch. Once I had the logic to transpose across chord sets, the rest came (relatively) easily.</p>
+
+<img src="https://preview.redd.it/music-theory-app-sneak-peak-v0-9syeztns0sxd1.png?width=464&format=png&auto=webp&s=42f68b638ecb31f04a61e1f9cd87e6d62b098cfc" height=300>
 
 <h3>3. Understanding How Chords Work Together</h3>
 
@@ -51,6 +58,8 @@ tags:
 <p>For example, we fixed several problems concerning slash chords, `(V/V)` chords, and complex suffixes involving sharps and flats. At one point, there was an issue where the chord `'Bsus4'` would come up when it should have been `'D'`. Fixing simple errors like these made the tool more accurate and also taught me to truly take things step by step. Much like making music, building software requires a developer to get very specific (as opposed to aiming for the BIG "finished" picture—something I'm apt to do).</p>
 
 <p>Having a lot to recall about music theory and programming, it felt like forever when, in reality, the process of debugging and updating really only took 6-7 days! But once I had the script file down (13 versions in), I felt like I was walking on air. It was such a small breakthrough, but small breakthroughs count.</p>
+
+<!-- <img src="https://cdn11.bigcommerce.com/s-luvfwivmyi/product_images/uploaded_images/240207-circle-fifths-02.jpg" height=300> -->
 
 <h2>So...What’s Next?</h2>
 
