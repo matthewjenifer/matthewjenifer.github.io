@@ -22,11 +22,10 @@ tags:
 
 <link rel="stylesheet" type="text/css" href="./_css/styles.css">
 
-<!-- <img src="https://raw.githubusercontent.com/matthewjenifer/matthewjenifer.github.io/main/images/oversimp.png"> -->
+<img src="https://raw.githubusercontent.com/matthewjenifer/fif-finder-t2/refs/heads/main/images/MK3_frame.png" height=300>
 
 <p>In the past few weeks, I have been working on creating a music theory tool for Native Instruments Maschine users, especially those (like me) who get lost navigating the complex world of music theory. Hopefully, this tool will help people understand how chords work harmonically together and provide an easy, fun way to craft chord progressions, even if music theory feels intimidating or confusing. This is all en route to something much more functional and adaptive, but for starters, I made a vanilla JS tool called <b>"Fif'Chord Finder"</b>.</p>
 
-<img src="https://raw.githubusercontent.com/matthewjenifer/fif-finder-t2/refs/heads/main/images/MK3_frame.png" height=300>
 
 <h2>Why Make This Tool?</h2>
 
@@ -49,7 +48,6 @@ tags:
 
 <p>One of the most important features is allowing users to easily change the key of the chord sets. Again, I based this tool on a pre-existing device, so I knew any app I developed would need to function similarly to the chord bank layout in Maschine. Instead of being stuck in one key, users can choose any starting note they like, so my tool needed to automatically adjust all 192 chords across the different sets. Admittedly, this had me stumped for the better part of a year, but sometimes it helps to put it aside and start from scratch. Once I had the logic to transpose across chord sets, the rest came (relatively) easily.</p>
 
-<img src="https://preview.redd.it/music-theory-app-sneak-peak-v0-9syeztns0sxd1.png?width=464&format=png&auto=webp&s=42f68b638ecb31f04a61e1f9cd87e6d62b098cfc" height=300>
 
 <h3>3. Understanding How Chords Work Together</h3>
 
@@ -59,7 +57,7 @@ tags:
 
 <p>Having a lot to recall about music theory and programming, it felt like forever when, in reality, the process of debugging and updating really only took 6-7 days! But once I had the script file down (13 versions in), I felt like I was walking on air. It was such a small breakthrough, but small breakthroughs count.</p>
 
-<!-- <img src="https://cdn11.bigcommerce.com/s-luvfwivmyi/product_images/uploaded_images/240207-circle-fifths-02.jpg" height=300> -->
+<img src="https://preview.redd.it/music-theory-app-sneak-peak-v0-9syeztns0sxd1.png?width=464&format=png&auto=webp&s=42f68b638ecb31f04a61e1f9cd87e6d62b098cfc" height=300>
 
 <h2>So...What’s Next?</h2>
 
