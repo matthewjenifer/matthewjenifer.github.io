@@ -21,10 +21,8 @@ tags:
 ---
 
 <link rel="stylesheet" type="text/css" href="./_css/styles.css">
-<div style="text-align: center;">
 
-<img src="https://raw.githubusercontent.com/matthewjenifer/fif-finder-t2/refs/heads/main/images/MK3_frame.png" height=300>
-</div>
+<img src="https://raw.githubusercontent.com/matthewjenifer/fif-finder-t2/refs/heads/main/images/MK3_frame.png" height=300 style="display: block; margin: auto;">
 
 <p>In the past few weeks, I have been working on creating a music theory tool for Native Instruments Maschine users, especially those (like me) who get lost navigating the complex world of music theory. Hopefully, this tool will help people understand how chords work harmonically together and provide an easy, fun way to craft chord progressions, even if music theory feels intimidating or confusing. This is all en route to something much more functional and adaptive, but for starters, I made a vanilla JS tool called <b>"Fif'Chord Finder"</b>.</p>
 
@@ -32,10 +30,8 @@ tags:
 <h2>Why Make This Tool?</h2>
 
 <p>I set out to create this simple app because of my own experiences speaking with many Maschine users who struggle with how exactly to use the infamous circle. Maschine is a tremendously powerful music production tool, and it offers a lot of assistance in the form of preset scales and modal chord banks, but without a basic understanding of music theory, figuring out which chords go well together can feel overwhelming. This tool aims to solve that problem by giving users an easy and interactive way to explore the harmonic relationship between chords and make creative choices on their Maschine hardware without needing to understand the theory required to read the Circle of Fifths.</p>
-<div style="text-align: center;">
 
-<img src="https://cdn11.bigcommerce.com/s-luvfwivmyi/product_images/uploaded_images/240207-circle-fifths-02.jpg" height=300>
-</div>
+<img src="https://cdn11.bigcommerce.com/s-luvfwivmyi/product_images/uploaded_images/240207-circle-fifths-02.jpg" height=300 >
 
 <h2>Key Features So Far</h2>
 
