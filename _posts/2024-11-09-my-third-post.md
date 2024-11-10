@@ -37,7 +37,7 @@ tags:
 
 <p> With the help of ChatGPT, I have made a lot of progress over the past few weeks, building this site from a basic idea. Here’s a summary of what we’ve done: </p> 
 
-<img src="../images/Progression Frame MAJ_MIN_wProgkey.png" height=300>
+<img src="https://ibb.co/2qQSsk8" height=300>
 
 <h3>1. Chord Sets for Major and Minor Keys</h3>
 
