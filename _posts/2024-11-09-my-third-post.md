@@ -2,7 +2,7 @@
 layout: post
 title: Man V Maschine - Ch 1
 subtitle: This time, it's functional. 
-# image: ../images/placeholder.jpg
+image: ../images/success.jpg
 date: 2024-11-09
 last_modified_at: 2024-11-09
 author: M. Jenifer
