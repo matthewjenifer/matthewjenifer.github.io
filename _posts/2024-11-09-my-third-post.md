@@ -72,6 +72,10 @@ tags:
 
 <p>Even though I’ve definitely come a long way (hence choosing to commemorate with my first blog in a year), there’s still more to do. Throughout this project, I’ve learned a lot about how important it is to start with the smallest possible function and add from there when developing something for users. I'd heard this all throughout my learning journey, but it really didn't settle in until now. It was hard to explain an idea that made little sense to anyone. I had to build something to show what I meant—and finally, I have. But we're definitely not done yet. Moving forward, I want to create a full-stack React app that's mobile-responsive and has more than just this Fif'Chord Finder feature, but the plan is to keep improving this tool along the way. (For example, I started designing pad thumbnails to appear on hover and have a few other ideas in mind.)</p>
 
+<div style="text-align: center;">
+<img src="https://i.ibb.co/3r4b6WS/faceplates.png">
+</div>
+
 <p>My plan for the final app is to add a visual display that looks like the Maschine hardware so users can see and interact with the chords in a more natural way. This will make using the software and hardware together much more seamless. This is crucial when chasing inspiration—every second counts, and I want to free up some. For everybody.</p>
 
 <p>In the end, this tool is all about making it easier to bridge the gap between what you hear in your head and what you create on your Maschine. I want users to feel confident, inspired, and excited to explore all that theory has to offer. Most importantly, I want them to feel empowered to create their best music yet!</p>
