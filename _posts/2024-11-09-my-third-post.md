@@ -65,7 +65,7 @@ tags:
 <p>Having a lot to recall about music theory and programming, it felt like forever when, in reality, the process of debugging and updating really only took 6-7 days! But once I had the script file down (13 versions in), I felt like I was walking on air. It was such a small breakthrough, but small breakthroughs count.</p>
 <div style="text-align: center;">
 
-<img src="https://preview.redd.it/music-theory-app-sneak-peak-v0-9syeztns0sxd1.png?width=464&format=png&auto=webp&s=42f68b638ecb31f04a61e1f9cd87e6d62b098cfc" height=300>
+<img src="https://preview.redd.it/music-theory-app-sneak-peak-v0-9syeztns0sxd1.png?width=464&format=png&auto=webp&s=42f68b638ecb31f04a61e1f9cd87e6d62b098cfc">
 </div>
 
 <h2>So...What’s Next?</h2>
