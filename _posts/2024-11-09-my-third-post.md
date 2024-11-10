@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Man V Maschine
-subtitle: Chapter 1 
+title: Man V Maschine - Ch 1
+subtitle: This time, it's functional. 
 # image: ../images/placeholder.jpg
 date: 2024-11-09
 last_modified_at: 2024-11-09
@@ -24,7 +24,7 @@ tags:
 
 <img src="https://raw.githubusercontent.com/matthewjenifer/fif-finder-t2/refs/heads/main/images/MK3_frame.png" height=300 style="display: block; margin: auto;">
 
-<p>In the past few weeks, I have been working on creating a music theory tool for Native Instruments Maschine users, especially those (like me) who get lost navigating the complex world of music theory. Hopefully, this tool will help people understand how chords work harmonically together and provide an easy, fun way to craft chord progressions, even if music theory feels intimidating or confusing. This is all en route to something much more functional and adaptive, but for starters, I made a vanilla JS tool called <b>"Fif'Chord Finder"</b>.</p>
+<p>In the past few weeks, I have been working on creating a music theory tool for Native Instruments Maschine users, especially those (like me) who get lost navigating the complex world of music theory. Hopefully, this tool will help people understand how chords work harmonically together and provide an easy, fun way to craft chord progressions, even if music theory feels intimidating or confusing. This is all en route to something much more functional and adaptive, but for starters, I made a vanilla JS tool called <a href="https://fif-finder-t2.vercel.app" target="_blank"><b>"Fif'Chord Finder"</b></a>.</p>
 
 
 <h2>Why Make This Tool?</h2>
