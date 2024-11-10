@@ -24,7 +24,7 @@ tags:
 
 <img src="https://raw.githubusercontent.com/matthewjenifer/fif-finder-t2/refs/heads/main/images/MK3_frame.png" height=300 style="display: block; margin: auto;">
 
-<p>In the past few weeks, I have been working on creating a music theory tool for Native Instruments Maschine users, especially those (like me) who get lost navigating the complex world of music theory. Hopefully, this tool will help people understand how chords work harmonically together and provide an easy, fun way to craft chord progressions, even if music theory feels intimidating or confusing. This is all en route to something much more functional and adaptive, but for starters, I made a vanilla JS tool called <a href="https://fif-finder-t2.vercel.app" target="_blank"><b>"Fif'Chord Finder"</b></a>.</p>
+<p>In the past few weeks, I have been working on creating a music theory tool for Native Instruments Maschine users, especially those (like me) who get lost navigating the complex world of music theory. Hopefully, this tool will help people understand how chords work harmonically together and provide an easy, fun way to craft chord progressions, even if music theory feels intimidating or confusing. This is all en route to something much more functional and adaptive, but for starters, I made a vanilla JS tool called <a href="https://github.com/matthewjenifer/fif-finder-t2" target="_blank"><b>"Fif'Chord Finder"</b></a>.</p>
 
 
 <h2>Why Make This Tool?</h2>
@@ -70,7 +70,7 @@ tags:
 
 <h2>So...What’s Next?</h2>
 
-<p>Even though I’ve definitely come a long way (hence choosing to commemorate with my first blog in a year), there’s still more to do. Throughout this project, I’ve learned a lot about how important it is to start with the smallest possible function and add from there when developing something for users. I'd heard this all throughout my learning journey, but it really didn't settle in until now. It was hard to explain an idea that made little sense to anyone. I had to build something to show what I meant—and finally, I have. But we're definitely not done yet. Moving forward, I want to create a full-stack React app that's mobile-responsive and has more than just this <a href="https://github.com/matthewjenifer/fif-finder-t2" target="_blank"><b>'Fif'Chord Finder' feature.</b></a>, but the plan is to keep improving this tool along the way. (For example, I started designing pad thumbnails to appear on hover and have a few other ideas in mind.)</p>
+<p>Even though I’ve definitely come a long way (hence choosing to commemorate with my first blog in a year), there’s still more to do. Throughout this project, I’ve learned a lot about how important it is to start with the smallest possible function and add from there when developing something for users. I'd heard this all throughout my learning journey, but it really didn't settle in until now. It was hard to explain an idea that made little sense to anyone. I had to build something to show what I meant—and finally, I have. But we're definitely not done yet. Moving forward, I want to create a full-stack React app that's mobile-responsive and has more than just this <a href="https://fif-finder-t2.vercel.app" target="_blank"><b>'Fif'Chord Finder'</b></a> feature, but the plan is to keep improving this tool along the way. (For example, I started designing pad thumbnails to appear on hover and have a few other ideas in mind.)</p>
 
 <div style="text-align: center;">
 <img src="https://i.ibb.co/3r4b6WS/faceplates.png">
