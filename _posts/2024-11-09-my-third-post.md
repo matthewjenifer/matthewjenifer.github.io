@@ -78,6 +78,10 @@ tags:
 
 <p>My plan for the final app is to add a visual display that looks like the Maschine hardware so users can see and interact with the chords in a more natural way. This will make using the software and hardware together much more seamless. This is crucial when chasing inspiration—every second counts, and I want to free up some. For everybody.</p>
 
+<div style="text-align: center;">
+<img src="https://i.ibb.co/9cqxB28/theoryappfull.png" height=300>
+</div>
+
 <p>In the end, this tool is all about making it easier to bridge the gap between what you hear in your head and what you create on your Maschine. I want users to feel confident, inspired, and excited to explore all that theory has to offer. Most importantly, I want them to feel empowered to create their best music yet!</p>
 
 <p>Here are some tags for this post:</p>
