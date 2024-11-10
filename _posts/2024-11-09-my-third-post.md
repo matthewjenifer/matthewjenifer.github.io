@@ -49,7 +49,9 @@ tags:
 </div>
 
 
-<p>One of the most important features is allowing users to easily change the key of the chord sets. Since I based this tool on a pre-existing device, I knew any app I developed would need to function similarly to the chord bank layout in Maschine. Instead of being stuck in one key, users can choose any starting note they like, so my tool needed to automatically adjust all 192 chords across the different sets. Admittedly, this had me stumped for the better part of a year, but sometimes it helps to put it aside and start from scratch. Once I had the logic to transpose across chord sets, the rest came (relatively) easily (below is a screencap from a thread on modal exchange I generated with NotebookLM, using the fixed chord sets, the circle of fifths and a book on Jazz. This should offer an example of of the kind of progrssions users might use my tool to construct.). </p>
+<p>One of the most important features is allowing users to easily change the key of the chord sets. Since I based this tool on a pre-existing device, I knew any app I developed would need to function similarly to the chord bank layout in Maschine. Instead of being stuck in one key, users can choose any starting note they like, so my tool needed to automatically adjust all 192 chords across the different sets. Admittedly, this had me stumped for the better part of a year, but sometimes it helps to put it aside and start from scratch. Once I had the logic to transpose across chord sets, the rest came (relatively) easily </p>
+
+<p><i>(below is a screencap from a thread on modal exchange I generated with NotebookLM, using the fixed chord sets, the circle of fifths and a book on Jazz. This should offer an example of of the kind of progrssions users might use my tool to construct.).</i></p>
 
 <div style="text-align: center;">
 <img src="https://i.ibb.co/smsN3Lv/modal-interchange.png">
