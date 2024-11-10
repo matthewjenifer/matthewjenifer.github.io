@@ -77,13 +77,13 @@ tags:
 
 <h2>So...What’s Next?</h2>
 
-<p>Even though I’ve definitely come a long way (hence choosing to commemorate with my first blog in like a year), there’s still so much more to do. Throughout this small project, I’ve learned a lot about how important it is to start with the tiniest possible function and add from there when developing something for original. I'd heard this all throughout my compsci learning journey, but it really didn't settle in until now. It's been hard to articulate an idea that made little sense to anyone. I had to build something to show what I meant—and finally, I have. But we're definitely not done yet. Not by a long shot. Moving forward, I want to create a full-stack React app that's mobile-responsive and has more than just this <a href="https://fif-finder-t2.vercel.app" target="_blank"><b>'Chord Finder'</b></a> feature. That being said I still intend to update and keep improving this tool along the way. (For example, I started designing pad thumbnails to appear on hover and have a few other ideas in mind.)</p>
+<p>Even though I’ve definitely come a long way (hence choosing to commemorate with my first blog in like a year), there’s still so much more to do. Throughout this small project, I’ve learned a lot about how important it is to start with the tiniest possible function and add from there when developing something for original. I'd heard this all throughout my compsci learning journey, but it really didn't settle in until now. It's been hard to articulate an idea that made little sense to anyone. I had to build something to show what I meant—and finally, I have. But we're definitely not done yet. Moving forward, I want to create a React app version that's mobile-responsive and has more than just this <a href="https://fif-finder-t2.vercel.app" target="_blank"><b>'Chord Finder'</b></a> feature. That being said I still intend to update and keep improving this tool along the way. (For example, I started designing pad thumbnails to appear on hover and have a few other ideas in mind.)</p>
 
 <div style="text-align: center;">
 <img src="https://i.ibb.co/3r4b6WS/faceplates.png">
 </div>
 
-<p>The fully fleshed out final app will also have a visual display that looks like the Maschine hardware most users will have in front of them. This will make tandem use of the software and hardware much more seamless. I know better than most how crucial this is when chasing inspiration. Every second counts, and I aim to make extra time for everybody.</p>
+<p>The fully fleshed out app will also have a visual display that looks like the Maschine hardware most users will have in front of them. This will make tandem use of the software and hardware much more seamless. I know better than most how crucial this is when chasing inspiration. Every second counts, and I aim to make extra time for everybody.</p>
 
 <!-- <div style="text-align: center;">
 <img src="https://i.ibb.co/9cqxB28/theoryappfull.png" height=300>
