@@ -62,7 +62,7 @@ tags:
 
 <p>For example, we fixed several problems concerning slash chords, `(V/V)` chords, and complex suffixes involving sharps and flats. At one point, there was an issue where the chord `'Bsus4'` would come up when it should have been `'D'`. Fixing simple errors like these made the tool more accurate and also taught me to truly take things step by step. Much like making music, building software requires a developer to get very specific (as opposed to aiming for the BIG "finished" picture—something I'm apt to do).</p>
 
-<p>Having a lot to recall about music theory and programming, it felt like forever when, in reality, the process of debugging and updating really only took 6-7 days! But once I had the script file down (13 versions in), I felt like I was walking on air. It was such a small breakthrough, but small breakthroughs count.</p>
+<p>Having a lot to recall about music theory and programming, it felt like forever when, in reality, the process of debugging and updating really only took 6-7 days! But once I had the script file down (about 10 versions in), I felt like I was walking on air. It was such a small breakthrough, but small breakthroughs count.</p>
 <div style="text-align: center;">
 
 <img src="https://preview.redd.it/music-theory-app-sneak-peak-v0-9syeztns0sxd1.png?width=464&format=png&auto=webp&s=42f68b638ecb31f04a61e1f9cd87e6d62b098cfc">
