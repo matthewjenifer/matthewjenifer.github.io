@@ -46,12 +46,11 @@ tags:
 
 <p>Maschine's chord matrix consists of 192 hard-coded chord structures that transpose according to the root note or song key: sets MAJ1 to MAJ8 for major keys and MIN1 to MIN8 for minor keys. Each individual set has 12 chords that provide multiple options when building a progression, all based in the key of C. This makes it easier for users of the device to change keys later on if they want, and this is precisely where I began.</p>
 
-<p>I initially started with a simple set of arrays, with the plan to later update them to function as objects, each containing the set number, pad number, chord name, Roman numeral, and smart key (not yet featured in the current output). This approach allowed me to get a working prototype quickly while also keeping future scalability in mind. As this project evolved, I'm certain these objects will become crucial for adding more detailed information and improving the flexibility of the tool. The transition from arrays to objects was a key step in ensuring that the tool could handle more complex data moving beyond this initial feature buildout.</p>
-
 <div style="text-align: center;">
 <img src="https://i.ibb.co/pX8SkJW/chordsets2.png">
 </div>
 
+<p>I initially started with a simple set of arrays, with the plan to later update them to function as objects, each containing the set number, pad number, chord name, Roman numeral, and smart key (not yet featured in the current output). This approach allowed me to get a working prototype quickly while also keeping future scalability in mind. As this project evolved, I'm certain these objects will become crucial for adding more detailed information and improving the flexibility of the tool. The transition from arrays to objects was a key step in ensuring that the tool could handle more complex data moving beyond this initial feature buildout.</p>
 
 <p>One of the most important features is allowing users to easily change the key of the chord sets. Since I based this tool on a pre-existing device, I knew any app I developed would need to function similarly to the chord bank layout in Maschine. Instead of being stuck in one key, users can choose any starting note they like, so my tool needed to automatically adjust all 192 chords across the different sets. Admittedly, this had me stumped for the better part of a year, but sometimes it helps to put it aside and start from scratch. Once I had the logic to transpose across chord sets, the rest came (relatively) easily.</p>
 
