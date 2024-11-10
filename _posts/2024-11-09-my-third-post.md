@@ -60,7 +60,7 @@ tags:
 <p>I created functions to simplify the transposed chords for use in the Cicrle of Fifths function I would build later. The code would mirror the simplified and complex versions of the new set of chords transposed according to root input, then provide relative chord information along side set and pad number for users to access easy like searching through the index of textbook. Written out like that it sounds pretty straightforward but the order of these functions took some time to develop.</p>
 
 <div style="text-align: center;">
-<img src="https://i.ibb.co/xJd1GYf/chordcode.png" >
+<img src="https://i.ibb.co/Xx8f4fY/chordsets3.png" >
 </div>
 
 <h3>3. Identifying Relative and Neighboring Chord Matches</h3>
