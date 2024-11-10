@@ -21,8 +21,10 @@ tags:
 ---
 
 <link rel="stylesheet" type="text/css" href="./_css/styles.css">
+<div style="text-align: center;">
 
 <img src="https://raw.githubusercontent.com/matthewjenifer/fif-finder-t2/refs/heads/main/images/MK3_frame.png" height=300>
+</div>
 
 <p>In the past few weeks, I have been working on creating a music theory tool for Native Instruments Maschine users, especially those (like me) who get lost navigating the complex world of music theory. Hopefully, this tool will help people understand how chords work harmonically together and provide an easy, fun way to craft chord progressions, even if music theory feels intimidating or confusing. This is all en route to something much more functional and adaptive, but for starters, I made a vanilla JS tool called <b>"Fif'Chord Finder"</b>.</p>
 
@@ -30,14 +32,18 @@ tags:
 <h2>Why Make This Tool?</h2>
 
 <p>I set out to create this simple app because of my own experiences speaking with many Maschine users who struggle with how exactly to use the infamous circle. Maschine is a tremendously powerful music production tool, and it offers a lot of assistance in the form of preset scales and modal chord banks, but without a basic understanding of music theory, figuring out which chords go well together can feel overwhelming. This tool aims to solve that problem by giving users an easy and interactive way to explore the harmonic relationship between chords and make creative choices on their Maschine hardware without needing to understand the theory required to read the Circle of Fifths.</p>
+<div style="text-align: center;">
 
 <img src="https://cdn11.bigcommerce.com/s-luvfwivmyi/product_images/uploaded_images/240207-circle-fifths-02.jpg" height=300>
+</div>
 
 <h2>Key Features So Far</h2>
 
 <p> With the help of ChatGPT, I have made a lot of progress over the past few weeks, building this site from a basic idea. Here’s a summary of what we’ve done: </p> 
+<div style="text-align: center;">
 
 <img src="https://i.ibb.co/zsYF748/Progression-Frame-MAJ-MIN-w-Progkey.png" height=300>
+</div>
 
 <h3>1. Chord Sets for Major and Minor Keys</h3>
 
@@ -58,8 +64,10 @@ tags:
 <p>For example, we fixed several problems concerning slash chords, `(V/V)` chords, and complex suffixes involving sharps and flats. At one point, there was an issue where the chord `'Bsus4'` would come up when it should have been `'D'`. Fixing simple errors like these made the tool more accurate and also taught me to truly take things step by step. Much like making music, building software requires a developer to get very specific (as opposed to aiming for the BIG "finished" picture—something I'm apt to do).</p>
 
 <p>Having a lot to recall about music theory and programming, it felt like forever when, in reality, the process of debugging and updating really only took 6-7 days! But once I had the script file down (13 versions in), I felt like I was walking on air. It was such a small breakthrough, but small breakthroughs count.</p>
+<div style="text-align: center;">
 
 <img src="https://preview.redd.it/music-theory-app-sneak-peak-v0-9syeztns0sxd1.png?width=464&format=png&auto=webp&s=42f68b638ecb31f04a61e1f9cd87e6d62b098cfc" height=300>
+</div>
 
 <h2>So...What’s Next?</h2>
 
