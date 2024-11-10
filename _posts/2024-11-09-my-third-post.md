@@ -27,16 +27,17 @@ tags:
 <p>In the past few weeks, I have been working on creating a music theory tool for Native Instruments Maschine users, especially those (like me) who get lost navigating the complex world of music theory. Hopefully, this tool will help people understand how chords work harmonically together and provide an easy, fun way to craft chord progressions, even if music theory feels intimidating or confusing. This is all en route to something much more functional and adaptive, but for starters, I made a vanilla JS tool called <a href="https://github.com/matthewjenifer/fif-finder-t2" target="_blank"><b>"Fif'Chord Finder"</b></a>.</p>
 
 <div style="text-align: center;">
-
 <img src="https://i.ibb.co/zsYF748/Progression-Frame-MAJ-MIN-w-Progkey.png">
 </div>
 
 <h2>Why Make This Tool?</h2>
 
 <p>I set out to create this simple web app because of my own experiences speaking with many Maschine users who struggle with how exactly to use the infamous Circle of Fifths. Maschine is a tremendously powerful music production tool, and it offers a lot of assistance in the form of preset scales and modal chord banks, but without a basic understanding of music theory, figuring out which chords go well together can feel overwhelming. This tool aims to solve that problem by giving users an easy and conditional way to explore the harmonic relationship between chords and make creative choices on their Maschine hardware without needing to understand the theory required to read the circle.</p>
+
 <div style="text-align: center;">
 <img src="https://cdn11.bigcommerce.com/s-luvfwivmyi/product_images/uploaded_images/240207-circle-fifths-02.jpg" height=300 >
 </div>
+
 <h2>Key Features So Far</h2>
 
 <p> With the help of a coding asistant, I have made a lot of progress over the past few weeks, building this site from a basic idea. Here’s a summary of what we’ve done: </p> 
@@ -44,6 +45,7 @@ tags:
 <h3>1. Transposable Chord Sets for Major and Minor Keys</h3>
 
 <p>Maschine's chord matrix consists of 192 hard-coded chord structures that transpose according to the root note or song key: sets MAJ1 to MAJ8 for major keys and MIN1 to MIN8 for minor keys. Each individual set has 12 chords that provide multiple options when building a progression, all based in the key of C. This makes it easier for users of the device to change keys later on if they want, and this is precisely where I began.</p>
+
 <div style="text-align: center;">
 <img src="https://i.ibb.co/pX8SkJW/chordsets2.png">
 </div>
@@ -55,6 +57,7 @@ tags:
 <div style="text-align: center;">
 <img src="https://i.ibb.co/smsN3Lv/modal-interchange.png">
 </div>
+
 <p><i>(above is a screencap from a thread on modal exchange I generated with NotebookLM. My sources were the previously stated fixed chord sets, the circle of fifths and a book on borrowing chords for Jazz compositions. This should offer you an example of of the kind of progressions users might use my tool to construct and why.).</i></p>
 <h3>2. Chord Cloning and Simplification</h3>
 <p>Next, I created functions to simplify the transposed chords for use in the Cicrle of Fifths function I knew I would implement later. When ran, this code would mirror the simplified and complex versions of the new set of chords (transposed according to root input), then provide relative chord information along side the chord set and pad number for users to access like searching through the index of a textbook. Written out this way it sounds pretty straightforward but the order of these functions took some time to develop if I'm honest.</p>
@@ -67,11 +70,15 @@ tags:
 
 <p>The most important part of this tool's functionality was creating a logical Circle of Fifths function. In order to work properly these neighboring and relative relationships had to make sense. This involved a lot of cross-referencing, double- and triple-checking (at one point I had to compile and re compile chord lists to match with a fine toothed comb against pictures of the device on my phone), and many many errors and debugging console logs. In a way, I kind of built this tool by debugging to figure out my next step!</p>
 
+<div style="text-align: center;">
+<img src="https://i.ibb.co/zSPHmgg/chordsets4.png">
+</div>
+
 <p>For example, I encountered several problems concerning slash `(V/V)` chords, and complex suffixes involving sharps and flats like 'majb5#9'. At one point, there was a weird issue where the chord `'Bsus4'` would show up only when it should have been `'D'`. Fixing simple (and sometimes not so simple) errors like these ultimately served to make the tool more accurate and taught me to truly take things step by step. Much like composing notation, building software requires a developer to get very specific (as opposed to aiming for the BIG "finished" picture). To be honest, this is not something I'm apt to do.</p>
 
 <p>Having a lot to recall about music theory and programming syntax, it felt like forever when, in reality, the process of debugging and updating ultimately took about 5-6 days! But once I had the script logic down (about 10 iterations in), I felt like I was walking on air. It was such a small breakthrough, but small breakthroughs feel great as a novice dev.</p>
-<div style="text-align: center;">
 
+<div style="text-align: center;">
 <img src="https://preview.redd.it/music-theory-app-sneak-peak-v0-9syeztns0sxd1.png?width=464&format=png&auto=webp&s=42f68b638ecb31f04a61e1f9cd87e6d62b098cfc">
 </div>
 
