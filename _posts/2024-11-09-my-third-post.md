@@ -65,11 +65,11 @@ tags:
 
 <p>Next, I created functions to simplify the transposed chords for use in the Circle of Fifths function I knew I would implement later. When run, this code mirrors the simplified and complex versions of the new set of chords (transposed according to root input), then provides relative chord information alongside the chord set and pad number for users to access, like searching through the index of a textbook. Written out this way, it sounds pretty straightforward, but the order of these functions took some time to develop, if I'm honest.</p>
 
-<p>When looking at the Circle of Fifths, it was clear to me that all suffixes for complex chordal information should be identified separately, this way all chords could be broken down into a base format (major or minor). By simplifying the transposed chords, my Circle of Fifths function would simply need to match against the base format and return a corresponding key. This process helped me focus on efficiency and accuracy. The goal was to make harmonic exploration feel seamless, whether users wanted a quick reference or a deeper dive into chord relationships.</p>
-
 <div style="text-align: center;">
 <img src="https://i.ibb.co/Xx8f4fY/chordsets3.png" >
 </div>
+
+<p>When looking at the Circle of Fifths, it was clear to me that all suffixes for complex chordal information should be identified separately, this way all chords could be broken down into a base format (major or minor). By simplifying the transposed chords, my Circle of Fifths function would simply need to match against the base format and return a corresponding key. This process helped me focus on efficiency and accuracy. The goal was to make harmonic exploration feel seamless, whether users wanted a quick reference or a deeper dive into chord relationships.</p>
 
 <h3>3. Identifying Relative and Neighboring Chord Matches</h3>
 
