@@ -24,6 +24,7 @@ tags:
 
 <img src="https://raw.githubusercontent.com/matthewjenifer/fif-finder-t2/refs/heads/main/images/MK3_frame.png" style="display: block; margin: auto;">
 
+
 <p>In the past few weeks, I have been working on creating a music theory tool for Native Instruments Maschine users, especially those (like me) who get lost navigating the complex world of music theory. Hopefully, this tool will help people understand how chords work harmonically and provide an easy, fun way to craft satisfying chord progressions, even if music theory feels intimidating or confusing. This is all en route to something much more functional and adaptive, but for starters, I made a vanilla JS tool called <a href="https://github.com/matthewjenifer/fif-finder-t2" target="_blank"><b>"Fif'Chord Finder"</b></a>.</p>
 
 <div style="text-align: center;">
@@ -46,9 +47,27 @@ tags:
 
 <p>Maschine's chord matrix consists of 192 hard-coded chord structures that transpose according to the root note or song key: sets MAJ1 to MAJ8 for major keys and MIN1 to MIN8 for minor keys. Each individual set has 12 chords that provide multiple options when building a progression, all based in the key of C. This makes it easier for users of the device to change keys later on if they want, and this is precisely where I began.</p>
 
-<div style="text-align: center;">
-<img src="https://i.ibb.co/pX8SkJW/chordsets2.png">
-</div>
+```javascript
+// Established chord sets
+const chordSets = {
+    MAJ1: ['C', 'Emi', 'F', 'G', 'Ami', 'Esus4', 'Gadd9', 'Dmi', 'Fadd9', 'F6', 'Gsus4', 'G'],
+    MAJ2: ['C', 'C/B', 'C/A', 'C/G', 'Fadd9', 'Fmi', 'Csus4', 'Ami7', 'Emi', 'F', 'Gsus4', 'G6'],
+    MAJ3: ['C', 'Ami', 'Fma7', 'Gsus4', 'Ami add9', 'F6', 'Csus2', 'G', 'Dsus2', 'Bb add9', 'Gsus4', 'Fadd9'],
+    MAJ4: ['C', 'G', 'Ami', 'F6', 'F', 'Ami/E', 'Dmi7', 'Ami/C', 'Gadd9', 'Ami7', 'G/B', 'Dmi/G'],
+    MAJ5: ['C', 'D', 'F', 'C', 'Ab', 'Eb', 'Bb', 'F', 'G7sus4', 'Bb add9', 'F6', 'Cadd9'],
+    MAJ6: ['C', 'G', 'Dmi', 'Ami', 'F', 'G/F', 'C/E', 'Ami7', 'Dmi7', 'Emi7', 'C/F', 'Gsus4'],
+    MAJ7: ['C', 'G', 'Ami', 'Emi', 'F', 'C/E', 'Dmi', 'Dmi/C', 'G7/B', 'G', 'F/A', 'G7/B'],
+    MAJ8: ['Cma9', 'C#dim', 'Dmi9', 'D#dim7', 'Emi9', 'C9#5', 'Fma7(add13)', 'Bb9', 'Emi7', 'A9', 'Dmi11', 'G7(b9,b13)'],
+    MIN1: ['Cmi', 'Cmi/Eb', 'Fmi', 'G', 'Abma7', 'Eb', 'Gmi', 'Bb', 'F', 'Fmi/Ab', 'Cmi/G', 'G'],
+    MIN2: ['Cmi', 'G+/B', 'Cmi/Bb', 'Cmi/A', 'Abma7', 'Ebma7', 'Fmi', 'Bb7', 'Cmi', 'Bbadd9', 'Abadd9', 'G7sus4'],
+    MIN3: ['Cmi', 'Ab', 'Eb', 'Bb', 'F', 'Fmi', 'Cmi/G', 'Gsus4', 'Cmi', 'Cmi#5', 'Cmi6', 'Cmi7'],
+    MIN4: ['Cmi', 'Eb', 'Bb', 'F', 'Ab', 'Abma7', 'Abmi7', 'Ebma7', 'Dsus4', 'D', 'Fmi/G', 'G+'],
+    MIN5: ['Cmi', 'Bb', 'Ab6', 'Bb add9', 'Cmi', 'Dmi7', 'Cmi/Eb', 'Fmi', 'G', 'Ab ma7', 'B6/9', 'Csus4'],
+    MIN6: ['Cmi', 'Fmi', 'Bb', 'Eb', 'Ab', 'Dmi7(b5)', 'Gadd(b9)', 'G', 'Ab/G', 'G7', 'Cmi/G', 'G7(b9)'],
+    MIN7: ['Cmi9', 'Ab9', 'Cmi11', 'C7(#9,b13)', 'Fmi9', 'Ebma7/F', 'C11', 'Ami11', 'Ab7#11', 'G7#9', 'Cmiadd9', 'G7(b9,b13)'],
+    MIN8: ['Cmi6/9', 'Dmi7(b5)', 'Cmi11/G', 'Cmi9', 'Fmi9', 'Abmi7', 'Ebmi7', 'Bbmi7(b5)', 'Ami11', 'Abma7#5', 'G7(b9,b13)', 'Cmi9ma7'],
+};
+```
 
 <p>I initially started with a simple set of arrays, with the plan to later update them to function as objects, each containing the set number, pad number, chord name, Roman numeral, and smart key (not yet featured in the current output). This approach allowed me to get a working prototype quickly while also keeping future scalability in mind. As this project evolved, I'm certain these objects will become crucial for adding more detailed information and improving the flexibility of the tool. The transition from arrays to objects was a key step in ensuring that the tool could handle more complex data moving beyond this initial feature buildout.</p>
 
@@ -65,9 +84,27 @@ tags:
 
 <p>Next, I created functions to simplify the transposed chords for use in the Circle of Fifths function I knew I would implement later. When run, this code mirrors the simplified and complex versions of the new set of chords (transposed according to root input), then provides relative chord information alongside the chord set and pad number for users to access, like searching through the index of a textbook. Written out this way, it sounds pretty straightforward, but the order of these functions took some time to develop, if I'm honest.</p>
 
-<div style="text-align: center;">
-<img src="https://i.ibb.co/Xx8f4fY/chordsets3.png" >
-</div>
+```javascript
+function simplifyChord(chord) {
+    const rootMatch = chord.match(/^[A-G][b#]?/);
+    if (!rootMatch) return chord;
+
+    const root = rootMatch[0];
+    const isMinor = chord.includes('mi') && !chord.includes('maj');
+
+    specificSuffixes.forEach(suffix => {
+        const regex = new RegExp(suffix + '(?!\\w)', 'gi');
+        chord = chord.replace(regex, '');
+    });
+    
+
+    chord = chord.replace(/\/[A-G][b#]?/g, '');
+    const finalRoot = enharmonicMap[root] || root;
+
+    return isMinor ? `${finalRoot}mi` : finalRoot.trim();
+}
+```
+
 
 <p>When looking at the Circle of Fifths, it was clear to me that all suffixes for complex chordal information should be identified separately, this way all chords could be broken down into a base format (major or minor). By simplifying the transposed chords, my Circle of Fifths function would simply need to match against the base format and return a corresponding key. This process helped me focus on efficiency and accuracy. The goal was to make harmonic exploration feel seamless, whether users wanted a quick reference or a deeper dive into chord relationships.</p>
 
@@ -77,9 +114,27 @@ tags:
 
 <p>For example, I encountered several problems concerning slash `(V/V)` chords and complex suffixes involving sharps and flats like 'ma7b5#9'. At one point, there was a weird issue where the chord `'Bsus4'` would show up when it should have been `'D'`. </p>
 
-<div style="text-align: center;">
-<img src="https://i.ibb.co/zSPHmgg/chordsets4.png">
-</div>
+```javascript
+// Loop through the circle to find a match
+for (let i = 0; i < circle.length; i++) {
+    if (circle[i].major === simplifiedRoot || circle[i].enharmonicMajor === simplifiedRoot) {
+        currentKey = circle[i];
+        chordType = 'major';
+        // console.log('Found Major Match:', currentKey);
+        break;
+    } else if (circle[i].minor === simplifiedRoot || circle[i].enharmonicMinor === simplifiedRoot) {
+        currentKey = circle[i];
+        chordType = 'minor';
+        // console.log('Found Minor Match:', currentKey);
+        break;
+    }
+}
+if (!currentKey) {
+    console.log('Chord not found in the circle of fifths.');
+    return null;
+}
+```
+
 
 <p>Fixing simple (and sometimes not-so-simple) errors like these ultimately served to make the tool more accurate and taught me to truly take things step by step. Much like composing notation, building software requires a developer to get very specific (as opposed to aiming for the BIG "finished" picture). To be honest, this is not something I'm apt to do. Having a lot to recall about music theory and programming syntax, it felt like forever when, in reality, the process of debugging and updating ultimately took about 5-6 days! But once I had the script logic down (about 10 iterations in), I felt like I was walking on air. It was such a small breakthrough, but small breakthroughs feel great as a novice dev.</p>
 
