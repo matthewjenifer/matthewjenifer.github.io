@@ -79,7 +79,7 @@ const chordSets = {
 </div>
 
 <h6><em>(Above is a screencap from a thread on modal exchange I generated with NotebookLM. My sources were the previously stated fixed chord sets, the Circle of Fifths, and a book on borrowing chords for jazz compositions. This should offer you an example of the kind of progressions users might use my tool to construct and why.)</em></h6>
-
+<br>
 <h3>2. Chord Cloning and Simplification</h3>
 
 <p>Next, I created functions to simplify the transposed chords for use in the Circle of Fifths function I knew I would implement later. When run, this code mirrors the simplified and complex versions of the new set of chords (transposed according to root input), then provides relative chord information alongside the chord set and pad number for users to access, like searching through the index of a textbook. Written out this way, it sounds pretty straightforward, but the order of these functions took some time to develop, if I'm honest.</p>
