@@ -75,13 +75,13 @@ tags:
 
 <p>The most important part of this tool's functionality was creating a logical Circle of Fifths function. For it to work properly, these neighboring and relative relationships had to make sense. This involved a lot of cross-referencing, double- and triple-checking (at one point, I had to compile and recompile chord lists with a fine-toothed comb against pictures of the device on my phone), and many, many errors and debugging console logs. In a way, I kind of built this tool by debugging to figure out my next step!</p>
 
-<p>For example, I encountered several problems concerning slash `(V/V)` chords and complex suffixes involving sharps and flats like 'ma7b5#9'. At one point, there was a weird issue where the chord `'Bsus4'` would show up when it should have been `'D'`. Fixing simple (and sometimes not-so-simple) errors like these ultimately served to make the tool more accurate and taught me to truly take things step by step. Much like composing notation, building software requires a developer to get very specific (as opposed to aiming for the BIG "finished" picture). To be honest, this is not something I'm apt to do.</p>
+<p>For example, I encountered several problems concerning slash `(V/V)` chords and complex suffixes involving sharps and flats like 'ma7b5#9'. At one point, there was a weird issue where the chord `'Bsus4'` would show up when it should have been `'D'`. </p>
 
 <div style="text-align: center;">
 <img src="https://i.ibb.co/zSPHmgg/chordsets4.png">
 </div>
 
-<p>Having a lot to recall about music theory and programming syntax, it felt like forever when, in reality, the process of debugging and updating ultimately took about 5-6 days! But once I had the script logic down (about 10 iterations in), I felt like I was walking on air. It was such a small breakthrough, but small breakthroughs feel great as a novice dev.</p>
+<p>Fixing simple (and sometimes not-so-simple) errors like these ultimately served to make the tool more accurate and taught me to truly take things step by step. Much like composing notation, building software requires a developer to get very specific (as opposed to aiming for the BIG "finished" picture). To be honest, this is not something I'm apt to do. Having a lot to recall about music theory and programming syntax, it felt like forever when, in reality, the process of debugging and updating ultimately took about 5-6 days! But once I had the script logic down (about 10 iterations in), I felt like I was walking on air. It was such a small breakthrough, but small breakthroughs feel great as a novice dev.</p>
 
 <div style="text-align: center;">
 <img src="https://preview.redd.it/music-theory-app-sneak-peak-v0-9syeztns0sxd1.png?width=464&format=png&auto=webp&s=42f68b638ecb31f04a61e1f9cd87e6d62b098cfc">
