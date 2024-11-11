@@ -30,7 +30,7 @@ tags:
 <div style="text-align: center;">
 <img src="https://i.ibb.co/zsYF748/Progression-Frame-MAJ-MIN-w-Progkey.png">
 </div>
-
+<br>
 <h2>Why Make This Tool?</h2>
 
 <p>I set out to create this simple web app because of my experiences speaking with many Maschine users who struggle with utilizing the infamous Circle of Fifths. Maschine is a tremendously powerful music production tool, and it offers a lot of assistance in the form of preset scales and modal chord suggestions, but without a basic understanding of music theory, getting the best use of the device can feel overwhelming. This tool aims to solve that problem by giving users an easy and conditional way to explore the harmonic relationship between chords and make creative choices on their Maschine hardware without needing to understand the theory required to read the circle.</p>
@@ -38,7 +38,7 @@ tags:
 <div style="text-align: center;">
 <img src="https://cdn11.bigcommerce.com/s-luvfwivmyi/product_images/uploaded_images/240207-circle-fifths-02.jpg" height=300 >
 </div>
-
+<br>
 <h2>Key Features So Far</h2>
 
 <p> With the help of a coding assistant, I have made a lot of progress over the past few weeks, building this site from a basic idea. Here’s a summary of what we’ve done: </p> 
@@ -140,7 +140,7 @@ function simplifyChord(chord) {
 <div style="text-align: center;">
 <img src="https://preview.redd.it/music-theory-app-sneak-peak-v0-9syeztns0sxd1.png?width=464&format=png&auto=webp&s=42f68b638ecb31f04a61e1f9cd87e6d62b098cfc">
 </div>
-
+<br>
 <h2>So...What’s Next?</h2>
 
 <p>Even though I’ve definitely come a long way (hence choosing to commemorate with my first blog in like a year), there’s still so much more to do. Throughout this small project, I’ve learned a lot about how important it is to start with the tiniest possible function and add from there when developing something original. I'd heard this throughout my CompSci learning journey, but it really didn't settle in until now. It's been hard to articulate an idea that made little sense to anyone. I had to build something to show what I meant—and finally, I have. But we're definitely not done yet.</p>
