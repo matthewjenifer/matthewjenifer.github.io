@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Man V Maschine: Ch 1
+title: Man V Maschine_Ch 1
 subtitle: This time, it's functional. 
 image: ../images/success.jpg
 date: 2024-11-09
