@@ -85,36 +85,6 @@ const chordSets = {
 <p>Next, I created functions to simplify the transposed chords for use in the Circle of Fifths function I knew I would implement later. When run, this code mirrors the simplified and complex versions of the new set of chords (transposed according to root input), then provides relative chord information alongside the chord set and pad number for users to access, like searching through the index of a textbook. Written out this way, it sounds pretty straightforward, but the order of these functions took some time to develop, if I'm honest.</p>
 
 ```javascript
-function simplifyChord(chord) {
-    const rootMatch = chord.match(/^[A-G][b#]?/);
-    if (!rootMatch) return chord;
-
-    const root = rootMatch[0];
-    const isMinor = chord.includes('mi') && !chord.includes('maj');
-
-    specificSuffixes.forEach(suffix => {
-        const regex = new RegExp(suffix + '(?!\\w)', 'gi');
-        chord = chord.replace(regex, '');
-    });
-    
-
-    chord = chord.replace(/\/[A-G][b#]?/g, '');
-    const finalRoot = enharmonicMap[root] || root;
-
-    return isMinor ? `${finalRoot}mi` : finalRoot.trim();
-}
-```
-
-
-<p>When looking at the Circle of Fifths, it was clear to me that all suffixes for complex chordal information should be identified separately, this way all chords could be broken down into a base format (major or minor). By simplifying the transposed chords, my Circle of Fifths function would simply need to match against the base format and return a corresponding key. This process helped me focus on efficiency and accuracy. The goal was to make harmonic exploration feel seamless, whether users wanted a quick reference or a deeper dive into chord relationships.</p>
-
-<h3>3. Identifying Relative and Neighboring Chord Matches</h3>
-
-<p>The most important part of this tool's functionality was creating a logical Circle of Fifths function. For it to work properly, these neighboring and relative relationships had to make sense. This involved a lot of cross-referencing, double- and triple-checking (at one point, I had to compile and recompile chord lists with a fine-toothed comb against pictures of the device on my phone), and many, many errors and debugging console logs. In a way, I kind of built this tool by debugging to figure out my next step!</p>
-
-<p>For example, I encountered several problems concerning slash `(V/V)` chords and complex suffixes involving sharps and flats like 'ma7b5#9'. At one point, there was a weird issue where the chord `'Bsus4'` would show up when it should have been `'D'`. </p>
-
-```javascript
 // Loop through the circle to find a match
 for (let i = 0; i < circle.length; i++) {
     if (circle[i].major === simplifiedRoot || circle[i].enharmonicMajor === simplifiedRoot) {
@@ -135,6 +105,35 @@ if (!currentKey) {
 }
 ```
 
+
+<p>When looking at the Circle of Fifths, it was clear to me that all suffixes for complex chordal information should be identified separately, this way all chords could be broken down into a base format (major or minor). By simplifying the transposed chords, my Circle of Fifths function would simply need to match against the base format and return a corresponding key. This process helped me focus on efficiency and accuracy. The goal was to make harmonic exploration feel seamless, whether users wanted a quick reference or a deeper dive into chord relationships.</p>
+
+<h3>3. Identifying Relative and Neighboring Chord Matches</h3>
+
+<p>The most important part of this tool's functionality was creating a logical Circle of Fifths function. For it to work properly, these neighboring and relative relationships had to make sense. This involved a lot of cross-referencing, double- and triple-checking (at one point, I had to compile and recompile chord lists with a fine-toothed comb against pictures of the device on my phone), and many, many errors and debugging console logs. In a way, I kind of built this tool by debugging to figure out my next step!</p>
+
+<p>For example, I encountered several problems concerning slash `(V/V)` chords and complex suffixes involving sharps and flats like 'ma7b5#9'. At one point, there was a weird issue where the chord `'Bsus4'` would show up when it should have been `'D'`. </p>
+
+```javascript
+function simplifyChord(chord) {
+    const rootMatch = chord.match(/^[A-G][b#]?/);
+    if (!rootMatch) return chord;
+
+    const root = rootMatch[0];
+    const isMinor = chord.includes('mi') && !chord.includes('maj');
+
+    specificSuffixes.forEach(suffix => {
+        const regex = new RegExp(suffix + '(?!\\w)', 'gi');
+        chord = chord.replace(regex, '');
+    });
+    
+
+    chord = chord.replace(/\/[A-G][b#]?/g, '');
+    const finalRoot = enharmonicMap[root] || root;
+
+    return isMinor ? `${finalRoot}mi` : finalRoot.trim();
+}
+```
 
 <p>Fixing simple (and sometimes not-so-simple) errors like these ultimately served to make the tool more accurate and taught me to truly take things step by step. Much like composing notation, building software requires a developer to get very specific (as opposed to aiming for the BIG "finished" picture). To be honest, this is not something I'm apt to do. Having a lot to recall about music theory and programming syntax, it felt like forever when, in reality, the process of debugging and updating ultimately took about 5-6 days! But once I had the script logic down (about 10 iterations in), I felt like I was walking on air. It was such a small breakthrough, but small breakthroughs feel great as a novice dev.</p>
 
