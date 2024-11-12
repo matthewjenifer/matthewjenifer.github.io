@@ -108,6 +108,14 @@ if (!currentKey) {
 
 <p>When looking at the Circle, it was clear to me that all suffixes for complex chordal information should be identified separately, this way all chords could be broken down into a base format (major or minor). By simplifying the transposed chords, my Circle of Fifths function would only need to match against the base format and return a corresponding key. This process helped me focus on efficiency and accuracy. The goal was to make harmonic exploration feel seamless, whether users wanted a quick reference or a deeper dive into chord relationships.</p>
 
+<!-- ```javascript
+const specificSuffixes = [
+    'sus4', 'sus2', 'add9', 'addb9', 'ma7', 'ma7add13', 'ma9', 'ma7#5',
+    '6', '6/9', 'dim', 'dim7', '7', '7#9', '7b13', '7b9b13', '7#11',
+    '9', '9#5', '11', 'b13', 'addb13', 'aug'
+];
+``` -->
+
 <h3>3. Identifying Relative and Neighboring Chord Matches</h3>
 
 <p>The most important part of this tool's functionality was creating a logical Circle of Fifths. For it to work properly, these neighboring and relative relationships had to make sense. This involved a lot of cross-referencing, double- and triple-checking (at one point, I compared compiled chord lists with pictures of the device on my phone), and many, many errors and debugging console logs. In a way, I kind of built this tool by debugging to figure out my next step!</p>
