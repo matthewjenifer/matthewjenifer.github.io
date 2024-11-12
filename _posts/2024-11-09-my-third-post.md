@@ -145,7 +145,7 @@ function simplifyChord(chord) {
 
 <p>Even though I’ve definitely come a long way (hence choosing to commemorate with my first blog in like a year), there’s still more to do. Throughout this small project, I’ve learned a lot about how important it is to start with the tiniest possible function and add from there. I'd heard this throughout my CompSci learning journey, but it really didn't settle in until now. It's been hard to articulate an idea that made little sense to anyone. I had to build something to show what I meant—and finally, I have. But we're definitely not done yet.</p>
 
-<p> Moving forward, I want to create a React app version that's mobile-responsive and has more than just this <a href="https://fif-finder-t2.vercel.app" target="_blank"><b>'Chord Finder'</b></a>  feature. That being said, I still intend to update and keep improving this tool along the way (for example, I started designing pad thumbnails to appear on hover and have a few other ideas in mind).</p>
+<p> Moving forward, I intend to create a React app version that's mobile-responsive and has more than just this <a href="https://fif-finder-t2.vercel.app" target="_blank"><b>'Chord Finder'</b></a>  feature. That being said, I still intend to update and keep improving this tool along the way (for example, I started designing pad thumbnails to appear on hover and have a few other ideas in mind).</p>
 
 <div style="text-align: center;">
 <img src="https://i.ibb.co/3r4b6WS/faceplates.png">
