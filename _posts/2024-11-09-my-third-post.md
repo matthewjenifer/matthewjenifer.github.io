@@ -25,7 +25,9 @@ tags:
 <img src="https://raw.githubusercontent.com/matthewjenifer/fif-finder-t2/refs/heads/main/images/MK3_frame.png" style="display: block; margin: auto;">
 
 
-<h1>In the past few weeks</h1><p>I've been developing a music theory tool for Native Instruments Maschine users, especially for those (like me) who find music theory overwhelming. My goal is to help you understand chords and provide an easy, enjoyable way to create satisfying progressions—even if music theory feels intimidating. This tool, called <a href="https://github.com/matthewjenifer/fif-finder-t2" target="_blank"><b>"Fif'Chord Finder"</b></a> represents the beginning of a more advanced project that I plan to expand over time.</p>
+<h1>In the past few weeks</h1><p>I've been developing a music theory tool for Native Instruments Maschine users, especially for those (like me) who find music theory overwhelming. My goal is to help you understand chords and provide an easy, enjoyable way to create satisfying progressions—even if music theory feels intimidating.</p>
+
+<p> This tool, called <a href="https://github.com/matthewjenifer/fif-finder-t2" target="_blank"><b>"Fif'Chord Finder"</b></a> represents the beginning of a more advanced project that I plan to expand over time.</p>
 
 <div style="text-align: center;">
 <img src="https://i.ibb.co/zsYF748/Progression-Frame-MAJ-MIN-w-Progkey.png">
