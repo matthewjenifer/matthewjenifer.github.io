@@ -25,7 +25,7 @@ tags:
 <img src="https://raw.githubusercontent.com/matthewjenifer/fif-finder-t2/refs/heads/main/images/MK3_frame.png" style="display: block; margin: auto;">
 
 
-<h1>In the past few weeks</h1><p>I've been developing a music theory tool for Native Instruments Maschine users, especially for those (like me) who find music theory overwhelming. My goal is to help you understand chords and provide an easy, enjoyable way to create satisfying progressions—even if music theory feels intimidating.</p>
+<h1>In the past few weeks</h1><p>I've been developing a music theory tool for Native Instruments Maschine users, especially for those (like me) who find music theory overwhelming. My goal is to help users understand the harmonic relationship between chords and provide an easy, enjoyable way to create satisfying progressions—even if music theory feels intimidating.</p>
 
 <p> This tool, called <a href="https://github.com/matthewjenifer/fif-finder-t2" target="_blank"><b>"Fif'Chord Finder"</b></a> represents the beginning of a more advanced project that I plan to expand over time.</p>
 
@@ -35,7 +35,7 @@ tags:
 <br>
 <h2>Why Create This Tool?</h2>
 
-<p>Many Maschine users struggle with using the Circle of Fifths. While Maschine is a powerful tool that provides preset scales and modal chord suggestions, it can still be overwhelming without a foundational understanding of music theory. This tool offers an easy way to explore chord relationships, making creative choices on Maschine hardware feel less intimidating and more intuitive.</p>
+<p>Many Maschine users struggle with using the Circle of Fifths. While Maschine is a powerful tool that provides preset scales and modal chord suggestions, it can still be overwhelming without a foundational understanding of music theory. My tool offers an easy way to explore chord relationships, making creative choices with Maschine's chord mode feel less intimidating and more intuitive.</p>
 
 <div style="text-align: center;">
 <img src="https://cdn11.bigcommerce.com/s-luvfwivmyi/product_images/uploaded_images/240207-circle-fifths-02.jpg" height=300 >
@@ -43,11 +43,11 @@ tags:
 <br>
 <h2>Key Features So Far</h2>
 
-<p> With the assistance of a coding partner, I've made significant progress over the past few weeks: </p> 
+<p> With the assistance of a coding assisstant, I've made significant progress over the past few weeks: </p> 
 
 <h3>1. Transposable Chord Sets for Major and Minor Keys</h3>
 
-<p>Maschine's chord matrix has 192 chords that can be transposed by the root note: sets MAJ1 to MAJ8 for major keys and MIN1 to MIN8 for minor keys. Each set has 12 chords, all originally in the key of C, making it easier to change keys later. I began with simple arrays and planned to update them to objects that contain more details like pad number, chord name, and Roman numeral. Moving from arrays to objects ensures future scalability and flexibility.</p>
+<p>Maschine's chord matrix has 192 chords that can be transposed by the root note: sets MAJ1 to MAJ8 for major keys and MIN1 to MIN8 for minor keys. Each set has 12 chords, all originally in the key of C, making it easier to change keys later. I began with simple arrays and planning to update them to objects that contain more details like pad number, chord name, roman numeral, and smart key. Moving from arrays to objects ensures future scalability and flexibility in future versions of this tool.</p>
 
 ```javascript
 // Established chord sets
@@ -71,7 +71,7 @@ const chordSets = {
 };
 ```
 
-<p>To match Maschine's layout, I needed the tool to automatically adjust all 192 chords based on a given root input while maintaining the harmonic structure. This challenge stumped me for a while, but I eventually figured it out. Once I did, other parts of the project came together more easily.</p>
+<p>To match Maschine's layout, I needed the tool to automatically adjust all 192 chords based on a given song key while maintaining the the hard coded harmonic structure of every chord bank. This challenge stumped me for some time, but I eventually figured it out. Once I did, other parts of the project came together more easily.</p>
 
 <div style="text-align: center;">
 <img src="https://i.ibb.co/smsN3Lv/modal-interchange.png">
@@ -81,7 +81,7 @@ const chordSets = {
 <br>
 <h3>2. Chord Cloning and Simplification</h3>
 
-<p>I developed functions to simplify the transposed chords for use with the Circle of Fifths function. This way, you can see both simplified and more complex versions of the chords, along with relative chord information, making it easier to search and use the tool effectively. I also focused on efficiency by ensuring that my function only matched chords in their base format, which helped make harmonic exploration feel seamless.</p>
+<p>I then developed functions to simplify the transposed chords for use with the Circle of Fifths function I would later create. This way, with both simplified and more complex versions of the chords for reference makes it easier for the tool to search and provide harmonically sound suggestions. This led me to focus on efficiency to ensure my function only matched chords in their base format - 'Bbmi' as opposed to more complex chords like: 'Bbmi7b5#9'.</p>
 
 ```javascript
 // Loop through the circle to find a match
@@ -105,7 +105,7 @@ if (!currentKey) {
 ```
 
 
-<p>This process allowed me to maintain a balance between providing enough chord detail for advanced users while ensuring accessibility for those with less music theory experience. By simplifying complex chords and showing their base counterparts, users can experiment with different harmonic variations without feeling overwhelmed, fostering both creativity and learning.</p>
+<p>This attention to detail allowed me to maintain a balance between providing enough chord info for advanced users while ensuring accessibility for those with less music theory knowledge. By simplifying complex chords and mirroring their base counterparts, users can experiment with different variations without feeling overwhelmed, fostering both creativity and learning.</p>
 
 <!-- ```javascript
 const specificSuffixes = [
@@ -117,7 +117,7 @@ const specificSuffixes = [
 
 <h3>3. Identifying Relative and Neighboring Chord Matches</h3>
 
-<p>Creating a logical Circle of Fifths was crucial. I spent a lot of time cross-referencing, debugging, and iterating until I resolved issues like mismatched chord suffixes and incorrect slash chords. Fixing these problems taught me to take things step-by-step—an approach that was challenging for me but ultimately made the process smoother and more effective.</p>
+<p>Creating a logical Circle of Fifths was perhaps the most crucial part of building this tool. I spent a lot of time cross-referencing, debugging, and iterating until I resolved issues like mismatched suffixes and incorrect or misordered output. Fixing these problems taught me to take things step-by-step—an approach that was challenging for me but ultimately made for a smoother and more effective process.</p>
 
 ```javascript
 function simplifyChord(chord) {
@@ -140,7 +140,7 @@ function simplifyChord(chord) {
 }
 ```
 
-<p>Establishing these relationships between chords allowed for a more intuitive experience when using the Circle of Fifths. Users can easily find harmonically related chords and explore progression options, leading to smoother transitions and richer musical compositions. This functionality is key for enabling Maschine users to create complex progressions effortlessly.</p>
+<p>Establishing these relationships between chords allowed for a more intuitive way of accessing the Circle of Fifths without needing to know how to read it! With 'Fif Finder' users can easily find harmonically related chords and explore progression options, guaranteeing smoother transitions and richer musical compositions. </p>
 
 <div style="text-align: center;">
 <img src="https://preview.redd.it/music-theory-app-sneak-peak-v0-9syeztns0sxd1.png?width=464&format=png&auto=webp&s=42f68b638ecb31f04a61e1f9cd87e6d62b098cfc">
@@ -148,13 +148,13 @@ function simplifyChord(chord) {
 <br>
 <h2>So...What’s Next?</h2>
 
-<p>Although I’ve made significant progress, there's still more work ahead. Moving forward, I plan to create a mobile-responsive React version of the app, adding more features beyond the basic <a href="https://fif-finder-t2.vercel.app" target="_blank"><b>'Chord Finder'</b></a>. I want to include pad thumbnails that appear on hover and design a visual interface that mirrors Maschine hardware, making the app as user-friendly as possible.</p>
+<p>Although I’ve made significant progress, there's still more work ahead. Moving forward, I plan to create a mobile-responsive React app, with many more features beyond the basic <a href="https://fif-finder-t2.vercel.app" target="_blank"><b>'Chord Finder'</b></a> feature. For example, I'm considering including pad thumbnails that appear on hover and design a visual interface that mirrors Maschine hardware, making the experience as user-friendly as possible.</p>
 
 <div style="text-align: center;">
 <img src="https://i.ibb.co/3r4b6WS/faceplates.png">
 </div>
 
-<p>My ultimate goal is to bridge the gap between your musical ideas and what you create, making music theory more accessible and empowering you to explore your creativity!</p>
+<p>My ultimate goal is to bridge the gap between an artists musical ideas and what they record, not only making music theory more accessible, but empowering creativity for anyone else like me!</p>
 
 <!-- <div style="text-align: center;">
 <img src="https://i.ibb.co/9cqxB28/theoryappfull.png" height=300>
