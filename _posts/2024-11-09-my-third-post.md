@@ -140,7 +140,9 @@ if (!currentKey) {
 }
 ```
 
-<p>Reverse engineering these chord banks allowed me to create a more intuitive way of accessing the Circle of Fifths without needing to know how to read it! With 'Fif Finder' users can easily find harmonically related chords and explore progression options, guaranteeing smoother transitions and richer musical compositions. </p>
+<p>Reverse engineering these chord banks allowed me to create a more intuitive way of accessing the Circle of Fifths without needing to know how to read it! With</p>
+
+<p>'Fif Finder' users can easily find harmonically related chords and explore progression options, guaranteeing smoother transitions and richer musical compositions. </p>
 
 <div style="text-align: center;">
 <img src="https://preview.redd.it/music-theory-app-sneak-peak-v0-9syeztns0sxd1.png?width=464&format=png&auto=webp&s=42f68b638ecb31f04a61e1f9cd87e6d62b098cfc">
