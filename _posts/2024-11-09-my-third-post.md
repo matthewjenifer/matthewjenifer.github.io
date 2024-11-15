@@ -118,7 +118,7 @@ const specificSuffixes = [
 
 <h3>3. Identifying Relative and Neighboring Chord Matches</h3>
 
-<p>The most important part of this tool's functionality was creating a logical Circle of Fifths. For it to work properly, these neighboring and relative relationships had to make sense. This involved a lot of cross-referencing, double- and triple-checking (at one point, I compared compiled chord lists with pictures of the device on my phone), and many, many errors and debugging console logs. In a way, I kind of built this tool by debugging to figure out my next step!</p>
+<p>The most important part of this tool's functionality was creating a logical Circle of Fifths. For it to work properly, these neighboring and relative relationships had to harmonically make sense. This involved a lot of cross-referencing, double- and triple-checking (at one point, I compared compiled chord lists with pictures of the device on my phone), and many, many errors and debugging console logs. In a way, I kind of built this tool by debugging to figure out my next step!</p>
 
 <p>For example, I encountered several problems concerning slash `(V/V)` chords and complex suffixes involving sharps and flats like 'ma7b5#9'. At one point, there was a weird issue where the chord `'Bsus4'` would show up when it should have been `'D'`.. through trial and error, it all eventually came together. </p>
 
