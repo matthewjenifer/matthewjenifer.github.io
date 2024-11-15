@@ -84,23 +84,23 @@ const chordSets = {
 <p>I then developed functions to simplify the transposed chords for use with the Circle of Fifths function I would later create. This way, with both simplified and more complex versions of the chords for reference makes it easier for the tool to search and provide harmonically sound suggestions. This led me to focus on efficiency to ensure my function only matched chords in their base format - 'Bbmi' as opposed to more complex chords like: 'Bbmi7b5#9'.</p>
 
 ```javascript
-// Loop through the circle to find a match
-for (let i = 0; i < circle.length; i++) {
-    if (circle[i].major === simplifiedRoot || circle[i].enharmonicMajor === simplifiedRoot) {
-        currentKey = circle[i];
-        chordType = 'major';
-        // console.log('Found Major Match:', currentKey);
-        break;
-    } else if (circle[i].minor === simplifiedRoot || circle[i].enharmonicMinor === simplifiedRoot) {
-        currentKey = circle[i];
-        chordType = 'minor';
-        // console.log('Found Minor Match:', currentKey);
-        break;
-    }
-}
-if (!currentKey) {
-    console.log('Chord not found in the circle of fifths.');
-    return null;
+function simplifyChord(chord) {
+    const rootMatch = chord.match(/^[A-G][b#]?/);
+    if (!rootMatch) return chord;
+
+    const root = rootMatch[0];
+    const isMinor = chord.includes('mi') && !chord.includes('maj');
+
+    specificSuffixes.forEach(suffix => {
+        const regex = new RegExp(suffix + '(?!\\w)', 'gi');
+        chord = chord.replace(regex, '');
+    });
+    
+
+    chord = chord.replace(/\/[A-G][b#]?/g, '');
+    const finalRoot = enharmonicMap[root] || root;
+
+    return isMinor ? `${finalRoot}mi` : finalRoot.trim();
 }
 ```
 
@@ -120,23 +120,23 @@ const specificSuffixes = [
 <p>Creating a logical Circle of Fifths was perhaps the most crucial part of building this tool. I spent a lot of time cross-referencing, debugging, and iterating until I resolved issues like mismatched suffixes and incorrect or misordered output. Fixing these problems taught me to take things step-by-step—an approach that was challenging for me but ultimately made for a smoother and more effective process.</p>
 
 ```javascript
-function simplifyChord(chord) {
-    const rootMatch = chord.match(/^[A-G][b#]?/);
-    if (!rootMatch) return chord;
-
-    const root = rootMatch[0];
-    const isMinor = chord.includes('mi') && !chord.includes('maj');
-
-    specificSuffixes.forEach(suffix => {
-        const regex = new RegExp(suffix + '(?!\\w)', 'gi');
-        chord = chord.replace(regex, '');
-    });
-    
-
-    chord = chord.replace(/\/[A-G][b#]?/g, '');
-    const finalRoot = enharmonicMap[root] || root;
-
-    return isMinor ? `${finalRoot}mi` : finalRoot.trim();
+// Loop through the circle to find a match
+for (let i = 0; i < circle.length; i++) {
+    if (circle[i].major === simplifiedRoot || circle[i].enharmonicMajor === simplifiedRoot) {
+        currentKey = circle[i];
+        chordType = 'major';
+        // console.log('Found Major Match:', currentKey);
+        break;
+    } else if (circle[i].minor === simplifiedRoot || circle[i].enharmonicMinor === simplifiedRoot) {
+        currentKey = circle[i];
+        chordType = 'minor';
+        // console.log('Found Minor Match:', currentKey);
+        break;
+    }
+}
+if (!currentKey) {
+    console.log('Chord not found in the circle of fifths.');
+    return null;
 }
 ```
 
