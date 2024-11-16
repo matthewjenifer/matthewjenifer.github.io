@@ -24,9 +24,9 @@ tags:
 
 <h1>Yeah so..</h1>
 
-<p>I've been working on this blog for a total of 72 hours and I started thinking..building a blog from scratch can feel unnecessarily complicated. I say seem because right after that revelation was another one. And that one was purpose. There is so much more to building a blog "from scratch" then meets the eye. Allow me to outline a few of those things for you:</p>
+<p>I've been working on this blog for a total of 72 hours and I started thinking..building a blog from scratch can feel unnecessarily complicated.Right after realizing this, I understood why: purpose. There is so much more to building a blog from scratch than meets the eye. Here are some things to consider::</p>
 
-<p>Firstly, when you build a blog from scratch, you have to consider the technical aspects of it. This includes choosing a domain name, web hosting, and designing the layout of the blog. I decided to take the easy route and use Github. Because: Free. But honestly, it can be a bit overwhelming for someone who is not familiar with web development.</p>
+<p>Firstly, when you build a blog from scratch, you have to consider the technical aspects of it. Choosing a domain name, web hosting, and designing the layout are essential first steps. I opted for GitHub because it's free. However, for those unfamiliar with web development, this can feel overwhelming.</p>
 
 <h2>Here's a list of every blogging platform I've used before doing it this way (the ones I can remember at least..)</h2>
 
@@ -45,7 +45,7 @@ tags:
 
 <img src="https://starecat.com/content/wp-content/uploads/normal-people-adding-7-plus-6-equals-13-me-different-logic-family-guy.jpg">
 
-<p>Which brings me to my second point: creating content for a blog is not an easy task either. It's time consuming. It takes time and effort to come up with the ideas, research, write and edit the content. Fortunately for you and me "AI" is here. I put it in quotes for a multitude of reasons, but I'll save that for another post. One you'll probably never see if not for yet another important aspect: search engine optimization (SEO). This is crucial for driving traffic to the blog...which, reminds me.. I need to build RSS into this thing... 
+<p>Which brings me to my second point: Writing a blog is time-consuming. It takes effort to come up with ideas, research, write, and edit content. Luckily, AI is here to help. But without SEO—crucial for driving traffic—your post might never be seen. I still need to add RSS, which brings me to the checklist:
 </p>
 
 <h3>..might as well bring that check list back out:</h3>
@@ -57,10 +57,10 @@ tags:
 - [ ] tag cloud??
 - [ ] ...
 
-<p>Anyway, promoting the blog and growing a readership is probably the?(MY) biggest hurdle. Social media marketing, guest blogging, and networking with other bloggers...ok so yes that probably would increase exposure and engagement with the audience, but I'm exhausted just typing about thinking about it. Smdh. Case in point, it requires consistent effort and dedication to make a blog successful. Even if you get help from a chatbot or two.</p>
+<p>Anyway, promoting the blog and growing a readership is probably the?(MY) biggest hurdle. Techniques like social media marketing, guest blogging, and networking help with exposure, but it requires consistent effort, even with the assistance of a chatbot.</p>
 
 <img src="https://raw.githubusercontent.com/matthewjenifer/matthewjenifer.github.io/main/images/bloggingthehardway.png">
-<p>Ultimately, building a successful blog requires a combination of technical know-how, content creation, SEO optimization, and UI design. While it may seem daunting at first, there are many resources available online to help you get started. And you want to know a secret? That's part of the fun.
+<p>Ultimately, building a successful blog takes technical knowledge, content creation skills, SEO, and good design. It may seem daunting, but there are plenty of resources online to help. And that's part of the fun.
 </p>
 
 
