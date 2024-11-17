@@ -12,6 +12,11 @@
     height: 100%;
 }
 
+.underline {
+  text-decoration: underline;
+}
+
+
 /* Default font size */
 h1 {
     font-size: 3rem;
