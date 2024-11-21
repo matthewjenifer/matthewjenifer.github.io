@@ -81,7 +81,7 @@ const chordSets = {
 <br>
 <h3>2. Chord Cloning and Simplification</h3>
 
-<p>I then developed functions to simplify the transposed chords for use with the Circle of Fifths function I would later create. This way, with both simplified and more complex versions of the chords for reference makes it easier for the tool to search and provide harmonically sound suggestions. This led me to focus on efficiency to ensure my function only matched chords in their base format - 'Bbmi' as opposed to more complex chords like: 'Bbmi7b5#9'.</p>
+<p>I then developed functions to simplify the transposed chords for use with the Circle of Fifths function I would soon create. This way, with both simplified and more complex versions of the chords for reference makes it easier for the tool to search and provide harmonically sound suggestions. This led me to focus on efficiency to ensure my function only matched chords in their base format - 'Bbmi' as opposed to more complex chords like: 'Bbmi7b5#9'.</p>
 
 ```javascript
 function simplifyChord(chord) {
