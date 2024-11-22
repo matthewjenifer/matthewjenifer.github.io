@@ -43,7 +43,7 @@ tags:
 <br>
 <h2>Key Features So Far</h2>
 
-<p> With the assistance of a coding assisstant, I've made significant progress over the past few weeks: </p> 
+<p> With the help of a coding assisstant, I've made significant progress over the past few weeks: </p> 
 
 <h3>1. Transposable Chord Sets for Major and Minor Keys</h3>
 
