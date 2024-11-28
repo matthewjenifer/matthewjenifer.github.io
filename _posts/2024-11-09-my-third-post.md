@@ -34,14 +34,14 @@ tags:
 
 <p> This tool, called <a href="https://github.com/matthewjenifer/fif-finder-t2" target="_blank"><b>"Fif'Chord Finder"</b></a> represents the beginning of a more advanced project that I plan to expand over time.</p>
 
+<h2>Why Create This Tool?</h2>
+
+<p>Many Maschine users struggle with using the Circle of Fifths. While Maschine is a powerful tool that provides preset scales and modal chord suggestions, it can still be overwhelming without a foundational understanding of music theory. My tool offers an easy way to explore chord relationships, making creative choices with Maschine's chord mode feel less intimidating and more intuitive.</p>
+
 <div style="text-align: center;">
 <img src="https://i.ibb.co/zsYF748/Progression-Frame-MAJ-MIN-w-Progkey.png">
 </div>
 <br>
-
-<h2>Why Create This Tool?</h2>
-
-<p>Many Maschine users struggle with using the Circle of Fifths. While Maschine is a powerful tool that provides preset scales and modal chord suggestions, it can still be overwhelming without a foundational understanding of music theory. My tool offers an easy way to explore chord relationships, making creative choices with Maschine's chord mode feel less intimidating and more intuitive.</p>
 
 <div style="text-align: center;">
 <img src="https://i.ibb.co/smsN3Lv/modal-interchange.png">
