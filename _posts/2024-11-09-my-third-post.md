@@ -41,6 +41,14 @@ tags:
 <img src="https://cdn11.bigcommerce.com/s-luvfwivmyi/product_images/uploaded_images/240207-circle-fifths-02.jpg" height=300 >
 </div>
 <br>
+
+<div style="text-align: center;">
+<img src="https://i.ibb.co/smsN3Lv/modal-interchange.png">
+</div>
+
+<h6><em>(Above is a screencap from a thread on modal exchange I generated with NotebookLM. My sources were the previously stated (fixed) chord sets, the Circle of Fifths, and a book on borrowing chords for jazz compositions. This should offer you an example of the kind of progressions users might use my tool to construct and why.)</em></h6>
+<br>
+
 <h2>Key Features So Far</h2>
 
 <p> With the help of a coding assisstant, I've made significant progress over the past few weeks: </p> 
@@ -73,12 +81,32 @@ const chordSets = {
 
 <p>To match Maschine's layout, I needed the tool to automatically adjust all 192 chords based on a given song key while maintaining the the hard coded harmonic structure of every chord bank. This challenge stumped me for some time, but I eventually figured it out. Once I did, other parts of the project came together more easily.</p>
 
-<div style="text-align: center;">
-<img src="https://i.ibb.co/smsN3Lv/modal-interchange.png">
-</div>
+```javascript
+function transposeChord(chord, interval) {
+    const rootMatch = chord.match(/^[A-G][b#]?/);
+    if (!rootMatch) return chord;
 
-<h6><em>(Above is a screencap from a thread on modal exchange I generated with NotebookLM. My sources were the previously stated (fixed) chord sets, the Circle of Fifths, and a book on borrowing chords for jazz compositions. This should offer you an example of the kind of progressions users might use my tool to construct and why.)</em></h6>
-<br>
+    const root = rootMatch[0];
+    const originalNote = noteMap[root];
+    const transposedNote = (originalNote + interval + 12) % 12;
+    const transposedRoot = reverseNoteMap[transposedNote];
+    const finalRoot = enharmonicMap[transposedRoot] || transposedRoot;
+
+    if (chord.includes('/')) {
+        const slashMatch = chord.match(/\/([A-G][b#]?)/);
+        if (slashMatch) {
+            const slashNote = slashMatch[1];
+            const originalSlashNote = noteMap[slashNote];
+            const transposedSlashNote = (originalSlashNote + interval + 12) % 12;
+            const transposedSlash = reverseNoteMap[transposedSlashNote];
+            const finalSlash = enharmonicMap[transposedSlash] || transposedSlash;
+            return `${finalRoot}${chord.slice(root.length).split('/')[0]}/${finalSlash}`;
+        }
+    }
+
+    return chord.replace(root, finalRoot);
+}
+```
 <h3>2. Chord Cloning and Simplification</h3>
 
 <p>I then developed functions to simplify the transposed chords for use with the Circle of Fifths function I would soon create. This way, with both simplified and more complex versions of the chords for reference makes it easier for the tool to search and provide harmonically sound suggestions. This led me to focus on efficiency to ensure my function only matched chords in their base format - 'Bbmi' as opposed to more complex chords like: 'Bbmi7b5#9'.</p>
