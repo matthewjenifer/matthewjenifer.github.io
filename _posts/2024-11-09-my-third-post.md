@@ -175,7 +175,6 @@ if (!currentKey) {
 <div style="text-align: center;">
 <img src="https://preview.redd.it/music-theory-app-sneak-peak-v0-9syeztns0sxd1.png?width=464&format=png&auto=webp&s=42f68b638ecb31f04a61e1f9cd87e6d62b098cfc">
 </div>
-<br>
 <h2>So...What’s Next?</h2>
 
 <p>Although I’ve made significant progress, there's still more work ahead. Moving forward, I plan to create a mobile-responsive React app, with many more features beyond the basic <a href="https://fif-finder-t2.vercel.app" target="_blank"><b>'Chord Finder'</b></a> feature. For example, I'm considering including pad thumbnails that appear on hover and design a visual interface that mirrors Maschine hardware, making the experience as user-friendly as possible.</p>
