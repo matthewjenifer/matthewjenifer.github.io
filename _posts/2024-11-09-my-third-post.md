@@ -47,7 +47,7 @@ tags:
 <img src="https://i.ibb.co/smsN3Lv/modal-interchange.png">
 </div>
 
-<h6><em>(Above is a screencap from a thread on modal exchange I generated with NotebookLM. My sources were the previously stated (fixed) chord sets, the Circle of Fifths, and a book on borrowing chords for jazz compositions. This should offer you an example of the kind of progressions users might use my tool to construct and why.)</em></h6>
+<h6><em>(Above is a screencap from a thread on modal exchange I generated with NotebookLM. My sources were the previously stated [fixed] chord sets, the Circle of Fifths, and a book on borrowing chords for jazz compositions. This should offer you an example of the kind of progressions users might use my tool to construct and why.)</em></h6>
 <br>
 
 ```javascript
