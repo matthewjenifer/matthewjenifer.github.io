@@ -53,10 +53,6 @@ tags:
 
 <p> With the help of a coding assisstant, I've made significant progress over the past few weeks: </p> 
 
-<h3>1. Transposable Chord Sets for Major and Minor Keys</h3>
-
-<p>Maschine's chord matrix has 192 chords that can be transposed by the root note: sets MAJ1 to MAJ8 for major keys and MIN1 to MIN8 for minor keys. Each set has 12 chords, all originally in the key of C, making it easier to change keys later. I began with simple arrays planning to convert them at a later stage into objects that contain more details like pad number, chord name, roman numeral, and smart key. Moving from arrays to objects ensures future scalability and flexibility in any updated versions of this tool.</p>
-
 ```javascript
 // Established chord sets
 const chordSets = {
@@ -78,6 +74,10 @@ const chordSets = {
     MIN8: ['Cmi6/9', 'Dmi7(b5)', 'Cmi11/G', 'Cmi9', 'Fmi9', 'Abmi7', 'Ebmi7', 'Bbmi7(b5)', 'Ami11', 'Abma7#5', 'G7(b9,b13)', 'Cmi9ma7'],
 };
 ```
+
+<h3>1. Transposable Chord Sets for Major and Minor Keys</h3>
+
+<p>Maschine's chord matrix has 192 chords that can be transposed by the root note: sets MAJ1 to MAJ8 for major keys and MIN1 to MIN8 for minor keys. Each set has 12 chords, all originally in the key of C, making it easier to change keys later. I began with simple arrays planning to convert them at a later stage into objects that contain more details like pad number, chord name, roman numeral, and smart key. Moving from arrays to objects ensures future scalability and flexibility in any updated versions of this tool.</p>
 
 <p>To match Maschine's layout, I needed the tool to automatically adjust all 192 chords based on a given song key while maintaining the the hard coded harmonic structure of every chord bank. This challenge stumped me for some time, but I eventually figured it out. Once I did, other parts of the project came together more easily.</p>
 
