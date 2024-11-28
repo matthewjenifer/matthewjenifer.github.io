@@ -50,6 +50,10 @@ tags:
 <h6><em>(Above is a screencap from a thread on modal exchange I generated with NotebookLM. My sources were the previously stated [fixed] chord sets, the Circle of Fifths, and a book on borrowing chords for jazz compositions. This should offer you an example of the kind of progressions users might use my tool to construct and why.)</em></h6>
 <br>
 
+<h2>Key Features So Far</h2>
+
+<p> With the help of a coding assisstant, I've made significant progress over the past few weeks: </p> 
+
 ```javascript
 // Established chord sets
 const chordSets = {
@@ -71,9 +75,6 @@ const chordSets = {
     MIN8: ['Cmi6/9', 'Dmi7(b5)', 'Cmi11/G', 'Cmi9', 'Fmi9', 'Abmi7', 'Ebmi7', 'Bbmi7(b5)', 'Ami11', 'Abma7#5', 'G7(b9,b13)', 'Cmi9ma7'],
 };
 ```
-<h2>Key Features So Far</h2>
-
-<p> With the help of a coding assisstant, I've made significant progress over the past few weeks: </p> 
 
 <h3>1. Transposable Chord Sets for Major and Minor Keys</h3>
 
