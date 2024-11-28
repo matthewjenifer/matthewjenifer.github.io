@@ -27,12 +27,12 @@ tags:
 
 <h1>In the past few weeks</h1><p>I've been developing a music theory tool for Native Instruments Maschine users, especially for those (like me) who find music theory overwhelming. My goal is to help users understand the harmonic relationship between chords and provide an easy, enjoyable way to create satisfying progressions—even if music theory feels intimidating.</p>
 
-<p> This tool, called <a href="https://github.com/matthewjenifer/fif-finder-t2" target="_blank"><b>"Fif'Chord Finder"</b></a> represents the beginning of a more advanced project that I plan to expand over time.</p>
-
 <div style="text-align: center;">
 <img src="https://cdn11.bigcommerce.com/s-luvfwivmyi/product_images/uploaded_images/240207-circle-fifths-02.jpg" height=300 >
 </div>
 <br>
+
+<p> This tool, called <a href="https://github.com/matthewjenifer/fif-finder-t2" target="_blank"><b>"Fif'Chord Finder"</b></a> represents the beginning of a more advanced project that I plan to expand over time.</p>
 
 <div style="text-align: center;">
 <img src="https://i.ibb.co/zsYF748/Progression-Frame-MAJ-MIN-w-Progkey.png">
@@ -79,8 +79,6 @@ const chordSets = {
 
 <p>Maschine's chord matrix has 192 chords that can be transposed by the root note: sets MAJ1 to MAJ8 for major keys and MIN1 to MIN8 for minor keys. Each set has 12 chords, all originally in the key of C, making it easier to change keys later. I began with simple arrays planning to convert them at a later stage into objects that contain more details like pad number, chord name, roman numeral, and smart key. Moving from arrays to objects ensures future scalability and flexibility in any updated versions of this tool.</p>
 
-<p>To match Maschine's layout, I needed the tool to automatically adjust all 192 chords based on a given song key while maintaining the the hard coded harmonic structure of every chord bank. This challenge stumped me for some time, but I eventually figured it out. Once I did, other parts of the project came together more easily.</p>
-
 ```javascript
 function transposeChord(chord, interval) {
     const rootMatch = chord.match(/^[A-G][b#]?/);
@@ -107,6 +105,8 @@ function transposeChord(chord, interval) {
     return chord.replace(root, finalRoot);
 }
 ```
+<p>To match Maschine's layout, I needed the tool to automatically adjust all 192 chords based on a given song key while maintaining the the hard coded harmonic structure of every chord bank. This challenge stumped me for some time, but I eventually figured it out. Once I did, other parts of the project came together more easily.</p>
+
 <h3>2. Chord Cloning and Simplification</h3>
 
 <p>I then developed functions to simplify the transposed chords for use with the Circle of Fifths function I would soon create. This way, with both simplified and more complex versions of the chords for reference makes it easier for the tool to search and provide harmonically sound suggestions. This led me to focus on efficiency to ensure my function only matched chords in their base format - 'Bbmi' as opposed to more complex chords like: 'Bbmi7b5#9'.</p>
