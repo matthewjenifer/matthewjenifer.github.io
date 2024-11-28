@@ -33,14 +33,15 @@ tags:
 <img src="https://i.ibb.co/zsYF748/Progression-Frame-MAJ-MIN-w-Progkey.png">
 </div>
 <br>
-<h2>Why Create This Tool?</h2>
-
-<p>Many Maschine users struggle with using the Circle of Fifths. While Maschine is a powerful tool that provides preset scales and modal chord suggestions, it can still be overwhelming without a foundational understanding of music theory. My tool offers an easy way to explore chord relationships, making creative choices with Maschine's chord mode feel less intimidating and more intuitive.</p>
 
 <div style="text-align: center;">
 <img src="https://cdn11.bigcommerce.com/s-luvfwivmyi/product_images/uploaded_images/240207-circle-fifths-02.jpg" height=300 >
 </div>
 <br>
+
+<h2>Why Create This Tool?</h2>
+
+<p>Many Maschine users struggle with using the Circle of Fifths. While Maschine is a powerful tool that provides preset scales and modal chord suggestions, it can still be overwhelming without a foundational understanding of music theory. My tool offers an easy way to explore chord relationships, making creative choices with Maschine's chord mode feel less intimidating and more intuitive.</p>
 
 <div style="text-align: center;">
 <img src="https://i.ibb.co/smsN3Lv/modal-interchange.png">
