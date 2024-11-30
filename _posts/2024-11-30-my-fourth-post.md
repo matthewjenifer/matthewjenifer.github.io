@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My First $1,000 in Music Production Course Sales
+title: Improvising My First $1,000 in Music Production Sales
 subtitle: Not bad for First Timer. 
 image: ../images/facecard.png
 date: 2024-11-30
