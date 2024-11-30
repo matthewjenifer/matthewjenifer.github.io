@@ -36,7 +36,7 @@ tags:
 
 <p> I've been offering my services on Fiverr for the past nine years, mainly focusing on audio production like mixing, mastering, podcasts, audiobooks, sound effects, video editing, ad creation, and creative writing. Eventually, I moved into consulting for business owners in podcasting and audio production, which I really enjoy. Honestly, it has worked out even better than I expected. From the start, I had a unique challenge: I wanted to teach a course using my favorite device. If you've read my last blog, you might already know a bit about it.</p>
 
-<h2>How I Promote and Sell My Freestyle'd Maschine Music Production Course</h2>
+<h2>How I Promote and Sell My Freestyle'd Maschine Music Course</h2>
 
 <p>I update my Fiverr profile every few months. If you're not familiar with Fiverr, think of my profile as a landing page that brings in potential students. I've kept all the content short and simple, using the AIDA framework (Attention, Interest, Desire, Action) to attract people.</p>
 
@@ -50,7 +50,7 @@ tags:
 <img src="https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/177970014/original/38a455c42868c1277c8b216bb89f01b15fdd6e55.png" height=300 >
 </div>
 
-<h2>AMA-Style Zoom Meetings vs. The YouTube Academy Approach</h2>
+<h2>AMA-Style Zooms vs. The YouTube Academy Approach</h2>
 
 <p> Creating a detailed, pre-scripted course always felt overwhelming and time-consuming. So, when I launched this course, I chose to offer AMA-style consultations at $90 an hour ($75 after Fiverr's 20% cut). When I launched the gig, I knew I needed just one sale to prove my skills, so the video you see on my gig page is actually a <a href="https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/vpamnkcn4wgduskzasyt" target="_blank"><b>60-second clip from my first client's session</b></a>. Minimal editing— zero stress! These sessions are fully personalized and focus on what the student needs right then. By using this MVP (Minimum Viable Product) approach, I've avoided endless hours of scripting and pre/post production, which keeps me energized and ready to deliver great lessons. These days, I'm careful about avoiding burnout, and this approach has been so much more rewarding. </p> 
 
@@ -72,9 +72,9 @@ tags:
 <img src="https://i.ibb.co/R03BXvz/review.png" height=300 >
 </div>
 
-<p>This approach might not be for everyone, but for me, it's been both flexible and effective. I'm able to turn leads into real conversations and instantly create content from these sessions that that can be used for future promotions. Using a platform like Fiverr to host my course works well for me, helping me connect with students I wouldn't have met otherwise thanks to its built in marketplace. By applying what I've learned about copywriting and SEO, I've been able to find students who are truly on the same wavelength. A lot of people say you should start a YouTube channel and build a following, but sometimes taking a different approach can be more effective—and get you to "the bag" quicker.</p>
-
 <h3>Words to the Wise</h3>
+
+<p>This approach might not be for everyone, but for me, it's been both flexible and effective. I'm able to turn leads into real conversations and instantly create content from these sessions that that can be used for future promotions. Using a platform like Fiverr to host my course works well for me, helping me connect with students I wouldn't have met otherwise thanks to its built in marketplace. By applying what I've learned about copywriting and SEO, I've been able to find students who are truly on the same wavelength. A lot of people say you should start a YouTube channel and build a following, but sometimes taking a different approach can be more effective—and get you to "the bag" quicker.</p>
 
 <p>If you're thinking about selling your expertise online, I recommend giving this approach a shot—whether on Fiverr or another platform. I often meet people who want to start selling courses or making podcasts or other recordings but get overwhelmed or fall into debt before they even launch. Sometimes, all you need is a well-crafted landing page and the willingness to dive in. If you're curious enough, you can create something really rewarding.</p>
 
