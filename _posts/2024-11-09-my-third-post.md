@@ -114,21 +114,21 @@ return chord.replace(root, finalRoot); // If there is no slash notation, return 
 
 ```javascript
 function simplifyChord(chord) {
-const rootMatch = chord.match(/^[A-G][b#]?/); // Extract the root note (e.g., C, D#, Gb) from the beginning of the chord string
-if (!rootMatch) return chord; // If no root note is found, return the original chord as-is
+  const rootMatch = chord.match(/^[A-G][b#]?/); // Extract the root note (e.g., C, D#, Gb) from the beginning of the chord string
+  if (!rootMatch) return chord; // If no root note is found, return the original chord as-is
 
-const root = rootMatch[0]; // Assign the extracted root note to a variable
-const isMinor = chord.includes('mi') && !chord.includes('maj'); // Check if the chord is minor (contains 'mi' but not 'maj')
+  const root = rootMatch[0]; // Assign the extracted root note to a variable
+  const isMinor = chord.includes('mi') && !chord.includes('maj'); // Check if the chord is minor (contains 'mi' but not 'maj')
 
-specificSuffixes.forEach(suffix => { // Iterate over specific suffixes to remove them from the chord
+  specificSuffixes.forEach(suffix => { // Iterate over specific suffixes to remove them from the chord
     const regex = new RegExp(suffix + '(?!\w)', 'gi');  // Create a regular expression for the suffix and remove it from the chord
     chord = chord.replace(regex, '');
 });
 
-chord = chord.replace(/\/[A-G][b#]?/g, ''); // Remove any slash chords (e.g., /G, /Bb) from the chord
-const finalRoot = enharmonicMap[root] || root; // Map the root to its enharmonic equivalent if available, otherwise keep the root as-is
+  chord = chord.replace(/\/[A-G][b#]?/g, ''); // Remove any slash chords (e.g., /G, /Bb) from the chord
+  const finalRoot = enharmonicMap[root] || root; // Map the root to its enharmonic equivalent if available, otherwise keep the root as-is
 
-return isMinor ? `${finalRoot}mi${suffixMatch}` : `${finalRoot}${suffixMatch}`.trim();  // Return the simplified chord, appending 'mi' if it is a minor chord
+  return isMinor ? `${finalRoot}mi${suffixMatch}` : `${finalRoot}${suffixMatch}`.trim();  // Return the simplified chord, appending 'mi' if it is a minor chord
 }
 ```
 
