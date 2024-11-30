@@ -80,7 +80,10 @@ tags:
 
 <p>This approach might not be for everyone, but for me, it's been both flexible and effective. I'm able to turn leads into real conversations and instantly create content from these sessions that that can be used for future promotions. Using a platform like Fiverr to host my course works well for me, helping me connect with students I wouldn't have met otherwise thanks to its built in marketplace. By applying what I've learned about copywriting and SEO, I've been able to find students who are truly on the same wavelength. A lot of people say you should start a YouTube channel and build a following, but sometimes taking a different approach can be more effective—and get you to "the bag" quicker.</p>
 
-<!-- <iframe src="https://giphy.com/embed/d3mlE7uhX8KFgEmY" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/culture--think-hmm-d3mlE7uhX8KFgEmY">via GIPHY</a></p> -->
+<div style="text-align: center;">
+<img src="https://i.imgflip.com/1n11x2.jpg" height=300 >
+</div>
+<br>
 
 <p>If you're thinking about selling your expertise online, I recommend giving this approach a shot—whether on Fiverr or another platform. I often meet people who want to start selling courses or making podcasts or other recordings but get overwhelmed or fall into debt before they even launch. Sometimes, all you need is a well-crafted landing page and the willingness to dive in. If you're curious enough, you can create something really rewarding.</p>
 
