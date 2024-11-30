@@ -135,21 +135,12 @@ function simplifyChord(chord) {
 
 <p>This attention to detail allowed me to maintain a balance between providing enough chord info for advanced users while ensuring accessibility for those with less music theory knowledge. By simplifying complex chords and mirroring their base counterparts, users can experiment with different variations without feeling overwhelmed, fostering both creativity and learning.</p>
 
-<!-- ```javascript
-const specificSuffixes = [
-    'sus4', 'sus2', 'add9', 'addb9', 'ma7', 'ma7add13', 'ma9', 'ma7#5',
-    '6', '6/9', 'dim', 'dim7', '7', '7#9', '7b13', '7b9b13', '7#11',
-    '9', '9#5', '11', 'b13', 'addb13', 'aug'
-];
-``` -->
-
 <h3>3. Identifying Relative and Neighboring Chord Matches</h3>
 
 <p>Creating a logical Circle of Fifths was perhaps the most crucial part of building this tool. I spent a lot of time cross-referencing, debugging, and refactoring until I resolved issues like mismatched suffixes and incorrect or misordered output. Fixing these problems taught me to take things step-by-step—an approach that was challenging for me but ultimately made for a smoother and more effective process.</p>
 
 ```javascript
-// Loop through the circle to find a match
-for (let i = 0; i < circle.length; i++) { 
+for (let i = 0; i < circle.length; i++) {  // Loop through the circle to find a match 
     if (circle[i].major === simplifiedRoot || circle[i].enharmonicMajor === simplifiedRoot) {
         currentKey = circle[i];
         chordType = 'major';
