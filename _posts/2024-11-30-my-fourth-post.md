@@ -36,7 +36,7 @@ tags:
 
 <p> I've been offering my services on Fiverr for the past nine years, mainly focusing on audio production like mixing, mastering, podcasts, audiobooks, sound effects, video editing, ad creation, and creative writing. Eventually, I moved into consulting for business owners in podcasting and audio production, which I really enjoy. Honestly, it has worked out even better than I expected. From the start, I had a unique challenge: I wanted to teach a course using my favorite device. If you've read my last blog, you might already know a bit about it.</p>
 
-<h2>How I Promote and Sell My Freestyle'd Maschine Music Course</h2>
+<h2>How I Promote and Sell My Freestyle'd Maschine Course</h2>
 
 <p>I update my Fiverr profile every few months. If you're not familiar with Fiverr, think of my profile as a landing page that brings in potential students. I've kept all the content short and simple, using the AIDA framework (Attention, Interest, Desire, Action) to attract people.</p>
 
