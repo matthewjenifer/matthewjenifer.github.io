@@ -67,7 +67,7 @@ tags:
 </div>
 
 <br>
-<p>To help new students, I designed a Maschine session puzzle with <a href="https://www.youtube.com/watch?v=_1sxMt9sFWA" target="_blank"><b>accompanying solution video</b></a> to introduce my production/teaching style. This was also conceieved and shot as a single take. The link to the video is live but unlisted on YouTube  (visible only to students after they purchase) as optional pre-course material. This way, students can get hands-on with the device without having to read the manual or go through every button before we meet. This also allows them to potentially fix blocks early - leaving more room for our sessions to explore or re-enforce. </p>
+<p>To help new students, I designed a Maschine session puzzle with <a href="https://www.youtube.com/watch?v=_1sxMt9sFWA" target="_blank"><b>accompanying solution video</b></a> to introduce my production/teaching style. This was also conceieved and shot as a single take. The link to the video is live but unlisted on YouTube  (visible only to students after they purchase) as optional pre-course material. This way, students can get hands-on with the device without having to read the manual or go through every button before we meet. This also allows them to potentially fix blocks early - leaving more room for our sessions to explore or reinforce. </p>
 
 <div style="text-align: center;">
 <img src="https://i.ibb.co/BK31YRs/Screenshot-20241130-155422.png" >
@@ -90,12 +90,14 @@ tags:
 
 <p>Now this approach might not be for everyone, but for me, it's been both flexible and effective. I'm able to turn leads into real conversations and instantly create content from these sessions that that can be used for future promotions.</p>
 
-<p> Using a platform like Fiverr to host my course works well for me, helping me connect with students I wouldn't have met otherwise thanks to its built in marketplace. By applying what I've learned about copywriting and SEO, I've been able to find students who are truly on the same wavelength. A lot of people say you should start a YouTube channel and build a following, but sometimes taking a different approach can be more effective—and get you to "the bag" quicker.</p>
+<p> Using a platform like Fiverr to host my course works well for me, helping me connect with students I wouldn't have met otherwise thanks to its built in marketplace. By applying what I've learned about copywriting and SEO, I've been able to find students who are truly on the same wavelength.</p>
 
 <div style="text-align: center;">
 <img src="https://i.ibb.co/R03BXvz/review.png" >
 </div>
 <br>
+
+<p> A lot of people say you should start a YouTube channel and build a following, but sometimes taking a different approach can be more effective—and get you to "the bag" quicker.</p>
 
 <h3>Words to the Wise</h3>
 
