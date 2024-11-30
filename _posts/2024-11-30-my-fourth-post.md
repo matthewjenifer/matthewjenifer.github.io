@@ -2,7 +2,7 @@
 layout: post
 title: My First $1,000 from Music Production
 subtitle: Not bad for First Timer. 
-image: ../images/facecard.png
+image: ../images/facecard.PNG
 date: 2024-11-30
 last_modified_at: 2024-11-30
 author: M. Jenifer
