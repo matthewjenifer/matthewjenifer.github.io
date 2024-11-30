@@ -105,7 +105,7 @@ tags:
 
 <p> A lot of people say you should start a YouTube channel and build a following, but sometimes taking a different approach can be more effective—and get you to "the bag" quicker.</p>
 
-<h3>Words to the Wise</h3>
+<h3>Word to the Wise</h3>
 
 <p>If you're thinking about selling your expertise online, I recommend giving this approach a shot—whether on Fiverr or another platform. I often meet people who want to start selling courses or making podcasts or other recordings but get overwhelmed or fall into debt before they even launch. Sometimes, all you need is a well-crafted landing page and the willingness to dive in. If you're curious enough, you can create something really rewarding.</p>
 
