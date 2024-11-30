@@ -27,7 +27,7 @@ tags:
 
 <h2>Reaching an Important Milestone</h2>
 
-<p>I want to share something exciting: I just made my first $1,000 from online music production lessons! This is a big deal for me, especially since my highest earnings from an album featuring my production were only $40. The best part though? I did it without the long grind associated with making and selling lengthy video courses. As someone with a background in video and audio editing, I know how much work goes into creating a course. Imagine filming 10 hours of video, then editing it down to a 5-hour course that sells for $45 (or $19.99 on Udemy, which ends up being around $12 after the platform takes its cut). After years of doing this type of work, I wanted to take a different approach—one that felt easier, less mentally exhausting, and more affordable to produce.</p>
+<p>I want to share something exciting: I just made my first $1,000 from online music production! This is a big deal for me, especially since my highest earnings from an album featuring my production were only $40. The best part though? I did it without the long grind associated with making and selling lengthy video courses. As someone with a background in video and audio editing, I know how much work goes into creating a course. Imagine filming 10 hours of video, then editing it down to a 5-hour course that sells for $45 (or $19.99 on Udemy, which ends up being around $12 after the platform takes its cut). After years of doing this type of work, I wanted to take a different approach—one that felt easier, less mentally exhausting, and more affordable to produce.</p>
 
 <div style="text-align: center;">
 <img src="https://i.ibb.co/qRhWGcZ/mk3fiverr.png" height=300 >
