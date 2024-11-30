@@ -128,7 +128,7 @@ specificSuffixes.forEach(suffix => { // Iterate over specific suffixes to remove
 chord = chord.replace(/\/[A-G][b#]?/g, ''); // Remove any slash chords (e.g., /G, /Bb) from the chord
 const finalRoot = enharmonicMap[root] || root; // Map the root to its enharmonic equivalent if available, otherwise keep the root as-is
 
-return isMinor ? \`\${finalRoot}mi\` : finalRoot.trim(); // Return the simplified chord, appending 'mi' if it is a minor chord
+return isMinor ? `${finalRoot}mi${suffixMatch}` : `${finalRoot}${suffixMatch}`.trim();  // Return the simplified chord, appending 'mi' if it is a minor chord
 }
 ```
 
