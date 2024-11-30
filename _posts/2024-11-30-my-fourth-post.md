@@ -71,7 +71,7 @@ tags:
 <div style="text-align: center;">
 <img src="https://i.ibb.co/R03BXvz/review.png" height=300 >
 </div>
-
+<br>
 <h3>Words to the Wise</h3>
 
 <p>This approach might not be for everyone, but for me, it's been both flexible and effective. I'm able to turn leads into real conversations and instantly create content from these sessions that that can be used for future promotions. Using a platform like Fiverr to host my course works well for me, helping me connect with students I wouldn't have met otherwise thanks to its built in marketplace. By applying what I've learned about copywriting and SEO, I've been able to find students who are truly on the same wavelength. A lot of people say you should start a YouTube channel and build a following, but sometimes taking a different approach can be more effective—and get you to "the bag" quicker.</p>
