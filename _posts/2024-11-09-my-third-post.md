@@ -93,8 +93,8 @@ function transposeChord(chord, interval) {
 
     if (chord.includes('/')) { // Check if the chord contains a slash notation (e.g., /G, /Bb)
         const slashMatch = chord.match(/\/([A-G][b#]?)/); // Extract the note after the slash
-    if (slashMatch) { // Assign the extracted slash note to a variable
-        const slashNote = slashMatch[1];
+    if (slashMatch) { 
+        const slashNote = slashMatch[1]; // Assign the extracted slash note to a variable
         const originalSlashNote = noteMap[slashNote]; // Get the numeric representation of the slash note from the noteMap
         const transposedSlashNote = (originalSlashNote + interval + 12) % 12; // Calculate the transposed slash note value, wrapping around the 12-tone scale
         const transposedSlash = reverseNoteMap[transposedSlashNote];  // Get the note name for the transposed slash value from reverseNoteMap
