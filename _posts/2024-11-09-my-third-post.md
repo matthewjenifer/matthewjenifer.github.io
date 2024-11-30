@@ -183,26 +183,6 @@ function circleOfFifths(chordSet, currentChord) {
         return null;
     }
 
-    const relativeKey = chordType === 'major' ? currentKey.minor : currentKey.major;
-    const currentIndex = circle.findIndex(key => key.major === currentKey.major);
-    const neighboringKeys = [
-        circle[(currentIndex + 11) % 12],
-        circle[(currentIndex + 1) % 12]
-    ];
-
-    const neighboringMajorKeys = neighboringKeys.map(key => key.major);
-    const neighboringRelativeMinorKeys = neighboringKeys.map(key => key.minor);
-
-    console.log(`Relative Key: ${relativeKey}`);
-    console.log(`Neighboring Major Keys: ${neighboringMajorKeys.join(', ')}`);
-    console.log(`Neighboring Relative Minor Keys: ${neighboringRelativeMinorKeys.join(', ')}`);
-
-    return {
-        neighboringMajorKeys,
-        neighboringRelativeMinorKeys
-    };
-}
-
 ```
 
 <p>Reverse engineering these chord banks allowed me to create a more intuitive way of accessing the Circle of Fifths without needing to know how to read it!</p>
