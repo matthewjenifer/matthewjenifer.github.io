@@ -67,7 +67,7 @@ tags:
 </div>
 
 <br>
-<p>To help new students, I designed a Maschine session puzzle with <a href="https://www.youtube.com/watch?v=_1sxMt9sFWA" target="_blank"><b>accompnying solution video</b></a> to introduce my production/teaching style. The link to the video is live but unlisted on YouTube  (visible only to students after they purchase) as optional pre-course material. This way, students can get hands-on with the device without having to read the manual or go through every button before we meet. This also allows them to potentially fix blocks early - leaving more room for our sessions to explore or re-enforce. </p>
+<p>To help new students, I designed a Maschine session puzzle with <a href="https://www.youtube.com/watch?v=_1sxMt9sFWA" target="_blank"><b>accompnying solution video</b></a> to introduce my production/teaching style. This was also conceieved and shot as a single take. The link to the video is live but unlisted on YouTube  (visible only to students after they purchase) as optional pre-course material. This way, students can get hands-on with the device without having to read the manual or go through every button before we meet. This also allows them to potentially fix blocks early - leaving more room for our sessions to explore or re-enforce. </p>
 
 <p>All Fiverr gigs have a requirements section, so I utilize this as an onboarding form thanks to a couple well-thought-out questions. Even though each lesson is an hour, I've set the delivery time to 14 days—giving plenty of buffer time for rescheduling across time zones. This onboarding form also allows me to collect emails for future promotions and gather data to improve my buyer profile. </p>
 
