@@ -81,16 +81,17 @@ const chordSets = {
 
 ```javascript
 function transposeChord(chord, interval) {
-const rootMatch = chord.match(/^[A-G][b#]?/); // Extract the root note (e.g., C, D#, Gb) from the beginning of the chord string
-if (!rootMatch) return chord; // If no root note is found, return the original chord as-is
 
-const root = rootMatch[0]; // Assign the extracted root note to a variable
-const originalNote = noteMap[root]; // Get the numeric representation of the root note from the noteMap
-const transposedNote = (originalNote + interval + 12) % 12; // Calculate the transposed note value, wrapping around the 12-tone scale
-const transposedRoot = reverseNoteMap[transposedNote]; // Get the note name for the transposed value from reverseNoteMap
-const finalRoot = enharmonicMap[transposedRoot] || transposedRoot; // Map the transposed root to its enharmonic equivalent if available, otherwise keep it as-is
+  const rootMatch = chord.match(/^[A-G][b#]?/); // Extract the root note (e.g., C, D#, Gb) from the beginning of the chord string
+  if (!rootMatch) return chord; // If no root note is found, return the original chord as-is
 
-if (chord.includes('/')) { // Check if the chord contains a slash notation (e.g., /G, /Bb)
+  const root = rootMatch[0]; // Assign the extracted root note to a variable
+  const originalNote = noteMap[root]; // Get the numeric representation of the root note from the noteMap
+  const transposedNote = (originalNote + interval + 12) % 12; // Calculate the transposed note value, wrapping around the 12-tone scale
+  const transposedRoot = reverseNoteMap[transposedNote]; // Get the note name for the transposed value from reverseNoteMap
+  const finalRoot = enharmonicMap[transposedRoot] || transposedRoot; // Map the transposed root to its enharmonic equivalent if available, otherwise keep it as-is
+
+  if (chord.includes('/')) { // Check if the chord contains a slash notation (e.g., /G, /Bb)
     const slashMatch = chord.match(/\/([A-G][b#]?)/); // Extract the note after the slash
     if (slashMatch) { // Assign the extracted slash note to a variable
         const slashNote = slashMatch[1];
@@ -98,7 +99,7 @@ if (chord.includes('/')) { // Check if the chord contains a slash notation (e.g.
         const transposedSlashNote = (originalSlashNote + interval + 12) % 12; // Calculate the transposed slash note value, wrapping around the 12-tone scale
         const transposedSlash = reverseNoteMap[transposedSlashNote];  // Get the note name for the transposed slash value from reverseNoteMap
         const finalSlash = enharmonicMap[transposedSlash] || transposedSlash; // Map the transposed slash to its enharmonic equivalent if available, otherwise keep it as-is
-        return \`\${finalRoot}\${chord.slice(root.length).split('/')[0]}/\${finalSlash}\`; // Return the transposed chord with the transposed slash note
+        return \`\${finalRoot}\${chord.slice(root.length).split('/')[0]}/\${finalSlash}\`;  // Return the transposed chord with the transposed slash note
     }
 }
 
