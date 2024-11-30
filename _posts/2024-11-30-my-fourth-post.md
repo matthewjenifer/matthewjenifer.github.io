@@ -67,11 +67,13 @@ tags:
 </div>
 
 <br>
-<p>To help new students, I designed a Maschine session puzzle with <a href="https://www.youtube.com/watch?v=_1sxMt9sFWA" target="_blank"><b>accompanying solution video</b></a> to introduce my production/teaching style. This was also conceieved and shot as a single take. The link to the video is live but unlisted on YouTube  (visible only to students after they purchase) as optional pre-course material. This way, students can get hands-on with the device without having to read the manual or go through every button before we meet. This also allows them to potentially fix blocks early - leaving more room for our sessions to explore or reinforce. </p>
-
+<p>To help new students, I designed a Maschine session puzzle with <a href="https://www.youtube.com/watch?v=_1sxMt9sFWA" target="_blank"><b>accompanying solution video</b></a> to introduce my production/teaching style. This was also conceieved and shot as a single take. The link to the video is live but unlisted on YouTube  (visible only to students after they purchase) as optional pre-course material.</p>
 <div style="text-align: center;">
 <img src="https://i.ibb.co/BK31YRs/Screenshot-20241130-155422.png" >
 </div>
+
+<p> This way, students can get hands-on with the device without having to read the manual or go through every button before we meet. This also allows them to potentially fix blocks early - leaving more room for our sessions to explore or reinforce. </p>
+
 <div style="text-align: center;">
 <img src="https://i.ibb.co/pRgCRkQ/multiple-choice2.png" >
 </div>
