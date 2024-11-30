@@ -153,7 +153,7 @@ function circleOfFifths(chordSet, currentChord) {
         { major: 'A', minor: 'F#m', enharmonicMajor: null, enharmonicMinor: 'G#m' },
         { major: 'E', minor: 'C#m', enharmonicMajor: null, enharmonicMinor: 'Dbm' },
         { major: 'B', minor: 'G#m', enharmonicMajor: 'Cb', enharmonicMinor: 'Abm' },
-        { major: 'F#', minor: 'D#m', enharmonicMajor: 'Gb', enharmonicMinor: 'Ebm' }, // Updated for consistency
+        { major: 'F#', minor: 'D#m', enharmonicMajor: 'Gb', enharmonicMinor: 'Ebm' }, 
         { major: 'Db', minor: 'Bbm', enharmonicMajor: 'C#', enharmonicMinor: 'A#m' },
         { major: 'Ab', minor: 'Fm', enharmonicMajor: 'G#', enharmonicMinor: null },
         { major: 'Eb', minor: 'Cm', enharmonicMajor: 'D#', enharmonicMinor: null },
