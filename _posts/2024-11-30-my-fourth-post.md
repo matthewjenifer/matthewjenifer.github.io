@@ -60,13 +60,17 @@ tags:
 
 <p>To help new students, I created a Maschine session puzzle with a solution video to introduce them to my teaching style. The link to the video is unlisted on YouTube, visible only to students after they purchase, as optional pre-course material. This way, students can get hands-on with the device without having to read the manual or go through every button before we meet.</p>
 
-<p>All Fiverr gigs have a requirements section, so I turned this into an onboarding form with a few well-thought-out questions. Even though each lesson is an hour, I set the delivery time to 14 days—giving plenty of time for rescheduling across time zones. This onboarding form also allows me to collect emails for future promotions and gather data to improve my ideal student profile. </p>
-
 <div style="text-align: center;">
 <img src="https://i.ibb.co/pRgCRkQ/multiple-choice2.png" height=300 >
 </div>
 
-<p>Honestly, the best part of all this is that it feels like what I used to do as a teenager—working with someone to solve problems and create something cool. When someone reaches out, I have a simple 1-2-3 approach: I ask two pre-qualifying questions (Are you a PC or Mac user? How long have you been producing?) and then make a standard offer. My current conversion rate is 4%—which might not sound like much, but according to recent analytics, I'm doing better than 77% of other sellers in my subcategory. </p>
+<p>All Fiverr gigs have a requirements section, so I turned this into an onboarding form with a few well-thought-out questions. Even though each lesson is an hour, I set the delivery time to 14 days—giving plenty of time for rescheduling across time zones. This onboarding form also allows me to collect emails for future promotions and gather data to improve my ideal student profile. </p>
+
+<div style="text-align: center;">
+<img src="https://i.ibb.co/MRZdh85/Screenshot-20241130-070908.png" height=300 >
+</div>
+
+<p> When someone reaches out, I have a simple 1-2-3 approach: I ask two pre-qualifying questions (Are you a PC or Mac user? How long have you been producing?) and then make a standard offer. My current conversion rate is 4%—which might not sound like much, but according to recent analytics, I'm doing better than 77% of other sellers in my subcategory. And honestly, the best part of all this is that it feels like what I used to do as a teenager—working with someone to solve problems and create something cool. </p>
 
 <div style="text-align: center;">
 <img src="https://i.ibb.co/R03BXvz/review.png" height=300 >
