@@ -67,13 +67,13 @@ tags:
 <p>All Fiverr gigs have a requirements section, so I turned this into an onboarding form with a few well-thought-out questions. Even though each lesson is an hour, I set the delivery time to 14 days—giving plenty of time for rescheduling across time zones. This onboarding form also allows me to collect emails for future promotions and gather data to improve my ideal student profile. </p>
 
 <div style="text-align: center;">
-<img src="https://i.ibb.co/K2Xdhnw/half123.png" height=300 >
+<img src="https://i.ibb.co/K2Xdhnw/half123.png" >
 </div>
 
 <p> When someone reaches out, I have a simple 1-2-3 approach: I ask two pre-qualifying questions (Are you a PC or Mac user? How long have you been producing?) and then make a standard offer. My current conversion rate is 4%—which might not sound like much, but according to recent analytics, I'm doing better than 77% of other sellers in my subcategory. And honestly, the best part of all this is that it feels like what I used to do as a teenager—working with someone to solve problems and create something cool. </p>
 
 <div style="text-align: center;">
-<img src="https://i.ibb.co/R03BXvz/review.png" height=300 >
+<img src="https://i.ibb.co/R03BXvz/review.png" >
 </div>
 <br>
 <h3>Words to the Wise</h3>
