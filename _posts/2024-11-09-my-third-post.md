@@ -99,7 +99,7 @@ function transposeChord(chord, interval) {
         const transposedSlashNote = (originalSlashNote + interval + 12) % 12; // Calculate the transposed slash note value, wrapping around the 12-tone scale
         const transposedSlash = reverseNoteMap[transposedSlashNote];  // Get the note name for the transposed slash value from reverseNoteMap
         const finalSlash = enharmonicMap[transposedSlash] || transposedSlash; // Map the transposed slash to its enharmonic equivalent if available, otherwise keep it as-is
-        return `\${finalRoot}\${chord.slice(root.length).split('/')[0]}/\${finalSlash}\`;  // Return the transposed chord with the transposed slash note
+        return `${finalRoot}${chord.slice(root.length).split('/')[0]}/${finalSlash}`;  // Return the transposed chord with the transposed slash note
     }
 }
 
