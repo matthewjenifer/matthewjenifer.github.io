@@ -83,7 +83,7 @@ tags:
 </div>
 <br>
 
-<p>Now this approach might not be for everyone, but for me, it's been both flexible and effective. I'm able to turn leads into real conversations and instantly create content from these sessions that that can be used for future promotions.</p>
+<p><h1>Now this approach might not be for everyone,</h1> but for me, it's been both flexible and effective. I'm able to turn leads into real conversations and instantly create content from these sessions that that can be used for future promotions.</p>
 
 <p> Using a platform like Fiverr to host my course works well for me, helping me connect with students I wouldn't have met otherwise thanks to its built in marketplace. By applying what I've learned about copywriting and SEO, I've been able to find students who are truly on the same wavelength. A lot of people say you should start a YouTube channel and build a following, but sometimes taking a different approach can be more effective—and get you to "the bag" quicker.</p>
 
