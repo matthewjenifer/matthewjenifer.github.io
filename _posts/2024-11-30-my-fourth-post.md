@@ -32,7 +32,7 @@ tags:
 <p> As someone with a background in video and audio editing, I know how much work goes into creating a course. Imagine filming 10 hours of video, then editing it down to a 5-hour course that sells for $45 (or $19.99 on Udemy, which ends up being around $12 after the platform takes its cut). After years of doing this type of work, I wanted to take a different approach—one that felt easier, less mentally exhausting, and virtually free to produce.</p>
 
 <div style="text-align: center;">
-<img src="https://i.ibb.co/nfYNq3t/faceplate.png" >
+<img src="https://i.ibb.co/qRhWGcZ/mk3fiverr.png" >
 </div>
 <br>
 
