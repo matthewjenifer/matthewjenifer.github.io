@@ -42,7 +42,7 @@ tags:
 
 <h2>How I Promote and Sell My Freestyle'd Maschine Course</h2>
 
-<p>I update my Fiverr profile every few months. If you're not familiar with Fiverr, think of my profile as a landing page that brings in potential students. I've kept all the content short and simple, using the AIDA framework (Attention, Interest, Desire, Action) to attract people.</p>
+<p>I update <a href="https://www.fiverr.com/buddha_meansbiz" target="_blank"><b>my Fiverr profile</b><a> every few months. If you're not familiar with Fiverr, think of my profile as a landing page that brings in potential students. I've kept all the content short and simple, using the AIDA framework (Attention, Interest, Desire, Action) to attract people.</p>
 
 <div style="text-align: center;">
 <img src="https://i.ibb.co/gZNF1qG/gig-bio3.png" >
