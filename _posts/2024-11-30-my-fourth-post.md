@@ -81,13 +81,14 @@ tags:
 </div>
 <br>
 
+<h3>Words to the Wise</h3>
+
+<p>If you're thinking about selling your expertise online, I recommend giving this approach a shot—whether on Fiverr or another platform. I often meet people who want to start selling courses or making podcasts or other recordings but get overwhelmed or fall into debt before they even launch. Sometimes, all you need is a well-crafted landing page and the willingness to dive in. If you're curious enough, you can create something really rewarding.</p>
+
 <div style="text-align: center;">
 <img src="https://i.imgflip.com/1n11x2.jpg" height=300 >
 </div>
 <br>
-<h3>Words to the Wise</h3>
-
-<p>If you're thinking about selling your expertise online, I recommend giving this approach a shot—whether on Fiverr or another platform. I often meet people who want to start selling courses or making podcasts or other recordings but get overwhelmed or fall into debt before they even launch. Sometimes, all you need is a well-crafted landing page and the willingness to dive in. If you're curious enough, you can create something really rewarding.</p>
 
 <p>Here are some tags for this post:</p>
 <ul>
