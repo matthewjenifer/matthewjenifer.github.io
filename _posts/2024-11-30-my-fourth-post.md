@@ -56,7 +56,7 @@ tags:
 <br>
 <p> AI is especially good at symmetry - which is naturally attractive to the eye. This is enough to get people's attention and make them feel confident they're working with an expert they can trust. I also optimize everything for SEO so the right students—beginners or new users of the device who need real, hands-on help—can easily find me.</p>
 
-<h2>AMA-Style Zooms vs. The YouTube Academy Approach</h2>
+<h2>AMA-Style Zoom Meetings vs. The YouTube Academy Approach</h2>
 
 <p> Creating a detailed, pre-scripted course always felt overwhelming and time-consuming. So, when I launched this course, I chose to offer AMA-style consultations at $90 an hour ($72 after Fiverr's 20% cut). When I launched the gig, I knew I needed just one sale to prove my skills, so the video you see on my gig page is actually a <a href="https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/vpamnkcn4wgduskzasyt" target="_blank"><b>60-second clip from my first client's session</b></a>. Minimal editing— zero stress!</p>
 
