@@ -105,7 +105,7 @@ tags:
 <img src="https://i.imgflip.com/1n11x2.jpg" >
 </div> -->
 
-![My GIF]([https://media.giphy.com/media/d3mlE7uhX8KFgEmY/giphy.gif)
+![My GIF](https://media.giphy.com/media/d3mlE7uhX8KFgEmY/giphy.gif)
 <br>
 
 <p>Here are some tags for this post:</p>
