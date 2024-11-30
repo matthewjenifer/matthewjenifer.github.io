@@ -60,29 +60,29 @@ tags:
 
 <p> Creating a detailed, pre-scripted course always felt overwhelming and time-consuming. So, when I launched this course, I chose to offer AMA-style consultations at $90 an hour ($72 after Fiverr's 20% cut). When I launched the gig, I knew I needed just one sale to prove my skills, so the video you see on my gig page is actually a <a href="https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/vpamnkcn4wgduskzasyt" target="_blank"><b>60-second clip from my first client's session</b></a>. Minimal editing— zero stress!</p>
 
-<p> These sessions are fully personalized and focus on what the student needs right then. By using this MVP (Minimum Viable Product) approach, I've avoided endless hours of scripting and pre/post production, which keeps me energized and ready to deliver great lessons. These days, I'm careful about avoiding burnout, and this approach has been so much more rewarding. </p> 
+<p> These sessions are fully personalized and focus on what the student needs right then. By using this MVP (Minimum Viable Product) approach, I've avoided endless hours of scripting and pre/post production, which keeps me energized and ready to deliver great lessons. These days, I'm careful about avoiding burnout, and this approach has been so much more manageable and equally rewarding. </p> 
 
 <div style="text-align: center;">
 <img src="https://i.ibb.co/SXw7sCT/COURSE-GRAPHICS.png" >
 </div>
 <br>
-<p>To help new students, I created a Maschine session puzzle with a solution video to introduce them to my teaching style. The link to the video is unlisted on YouTube, visible only to students after they purchase, as optional pre-course material. This way, students can get hands-on with the device without having to read the manual or go through every button before we meet.</p>
+<p>To help new students, I designed a Maschine session puzzle with accompnying solution video to introduce my production/teaching style. The link to the video is live but unlisted on YouTube  (visible only to students after they purchase) as optional pre-course material. This way, students can get hands-on with the device without having to read the manual or go through every button before we meet. This also allows them to potentially fix blocks early - leaving more room for our sessions to explore or re-enforce. </p>
 
-<p>All Fiverr gigs have a requirements section, so I turned this into an onboarding form with a few well-thought-out questions. Even though each lesson is an hour, I set the delivery time to 14 days—giving plenty of time for rescheduling across time zones. This onboarding form also allows me to collect emails for future promotions and gather data to improve my ideal student profile. </p>
+<p>All Fiverr gigs have a requirements section, so I utilize this as an onboarding form thanks to a couple well-thought-out questions. Even though each lesson is an hour, I've set the delivery time to 14 days—giving plenty of buffer time for rescheduling across time zones. This onboarding form also allows me to collect emails for future promotions and gather data to improve my buyer profile. </p>
 
 <div style="text-align: center;">
 <img src="https://i.ibb.co/pRgCRkQ/multiple-choice2.png" >
 </div>
 <br>
 
-<p> When someone reaches out, I have a simple 1-2-3 approach: I ask two pre-qualifying questions (Are you a PC or Mac user? How long have you been producing?) and then make a standard offer. My current conversion rate is 4%—which might not sound like much, but according to recent analytics, I'm doing better than 77% of other sellers in my subcategory. </p>
+<p> When someone reaches out, I have a simple 1-2-3 approach: I ask two pre-qualifying questions (Are you a PC or Mac user? How long have you been producing?) and then make my standard offer. My current conversion rate is 4%—which might not sound like much, but according to recent analytics, I'm doing better than 77% of other sellers in my subcategory. </p>
 
 <div style="text-align: center;">
 <img src="https://i.ibb.co/K2Xdhnw/half123.png" >
 </div>
 <br>
 
-<p>This approach might not be for everyone, but for me, it's been both flexible and effective. I'm able to turn leads into real conversations and instantly create content from these sessions that that can be used for future promotions.</p>
+<p>Now this approach might not be for everyone, but for me, it's been both flexible and effective. I'm able to turn leads into real conversations and instantly create content from these sessions that that can be used for future promotions.</p>
 
 <p> Using a platform like Fiverr to host my course works well for me, helping me connect with students I wouldn't have met otherwise thanks to its built in marketplace. By applying what I've learned about copywriting and SEO, I've been able to find students who are truly on the same wavelength. A lot of people say you should start a YouTube channel and build a following, but sometimes taking a different approach can be more effective—and get you to "the bag" quicker.</p>
 
