@@ -81,28 +81,28 @@ const chordSets = {
 
 ```javascript
 function transposeChord(chord, interval) {
-    const rootMatch = chord.match(/^[A-G][b#]?/);
-    if (!rootMatch) return chord;
+const rootMatch = chord.match(/^[A-G][b#]?/); // Extract the root note (e.g., C, D#, Gb) from the beginning of the chord string
+if (!rootMatch) return chord; // If no root note is found, return the original chord as-is
 
-    const root = rootMatch[0];
-    const originalNote = noteMap[root];
-    const transposedNote = (originalNote + interval + 12) % 12;
-    const transposedRoot = reverseNoteMap[transposedNote];
-    const finalRoot = enharmonicMap[transposedRoot] || transposedRoot;
+const root = rootMatch[0]; // Assign the extracted root note to a variable
+const originalNote = noteMap[root]; // Get the numeric representation of the root note from the noteMap
+const transposedNote = (originalNote + interval + 12) % 12; // Calculate the transposed note value, wrapping around the 12-tone scale
+const transposedRoot = reverseNoteMap[transposedNote]; // Get the note name for the transposed value from reverseNoteMap
+const finalRoot = enharmonicMap[transposedRoot] || transposedRoot; // Map the transposed root to its enharmonic equivalent if available, otherwise keep it as-is
 
-    if (chord.includes('/')) {
-        const slashMatch = chord.match(/\/([A-G][b#]?)/);
-        if (slashMatch) {
-            const slashNote = slashMatch[1];
-            const originalSlashNote = noteMap[slashNote];
-            const transposedSlashNote = (originalSlashNote + interval + 12) % 12;
-            const transposedSlash = reverseNoteMap[transposedSlashNote];
-            const finalSlash = enharmonicMap[transposedSlash] || transposedSlash;
-            return `${finalRoot}${chord.slice(root.length).split('/')[0]}/${finalSlash}`;
-        }
+if (chord.includes('/')) { // Check if the chord contains a slash notation (e.g., /G, /Bb)
+    const slashMatch = chord.match(/\/([A-G][b#]?)/); // Extract the note after the slash
+    if (slashMatch) { // Assign the extracted slash note to a variable
+        const slashNote = slashMatch[1];
+        const originalSlashNote = noteMap[slashNote]; // Get the numeric representation of the slash note from the noteMap
+        const transposedSlashNote = (originalSlashNote + interval + 12) % 12; // Calculate the transposed slash note value, wrapping around the 12-tone scale
+        const transposedSlash = reverseNoteMap[transposedSlashNote];  // Get the note name for the transposed slash value from reverseNoteMap
+        const finalSlash = enharmonicMap[transposedSlash] || transposedSlash; // Map the transposed slash to its enharmonic equivalent if available, otherwise keep it as-is
+        return \`\${finalRoot}\${chord.slice(root.length).split('/')[0]}/\${finalSlash}\`; // Return the transposed chord with the transposed slash note
     }
+}
 
-    return chord.replace(root, finalRoot);
+return chord.replace(root, finalRoot); // If there is no slash notation, return the chord with the transposed root note
 }
 ```
 <p>To match Maschine's layout, I needed the tool to automatically adjust all 192 chords based on a given song key while maintaining the the hard coded harmonic structure of every chord bank. This challenge stumped me for some time, but I eventually figured it out. Once I did, other parts of the project came together more easily.</p>
@@ -113,22 +113,21 @@ function transposeChord(chord, interval) {
 
 ```javascript
 function simplifyChord(chord) {
-    const rootMatch = chord.match(/^[A-G][b#]?/);
-    if (!rootMatch) return chord;
+const rootMatch = chord.match(/^[A-G][b#]?/); // Extract the root note (e.g., C, D#, Gb) from the beginning of the chord string
+if (!rootMatch) return chord; // If no root note is found, return the original chord as-is
 
-    const root = rootMatch[0];
-    const isMinor = chord.includes('mi') && !chord.includes('maj');
+const root = rootMatch[0]; // Assign the extracted root note to a variable
+const isMinor = chord.includes('mi') && !chord.includes('maj'); // Check if the chord is minor (contains 'mi' but not 'maj')
 
-    specificSuffixes.forEach(suffix => {
-        const regex = new RegExp(suffix + '(?!\\w)', 'gi');
-        chord = chord.replace(regex, '');
-    });
-    
+specificSuffixes.forEach(suffix => { // Iterate over specific suffixes to remove them from the chord
+    const regex = new RegExp(suffix + '(?!\w)', 'gi');  // Create a regular expression for the suffix and remove it from the chord
+    chord = chord.replace(regex, '');
+});
 
-    chord = chord.replace(/\/[A-G][b#]?/g, '');
-    const finalRoot = enharmonicMap[root] || root;
+chord = chord.replace(/\/[A-G][b#]?/g, ''); // Remove any slash chords (e.g., /G, /Bb) from the chord
+const finalRoot = enharmonicMap[root] || root; // Map the root to its enharmonic equivalent if available, otherwise keep the root as-is
 
-    return isMinor ? `${finalRoot}mi` : finalRoot.trim();
+return isMinor ? \`\${finalRoot}mi\` : finalRoot.trim(); // Return the simplified chord, appending 'mi' if it is a minor chord
 }
 ```
 
@@ -149,7 +148,7 @@ const specificSuffixes = [
 
 ```javascript
 // Loop through the circle to find a match
-for (let i = 0; i < circle.length; i++) {
+for (let i = 0; i < circle.length; i++) { 
     if (circle[i].major === simplifiedRoot || circle[i].enharmonicMajor === simplifiedRoot) {
         currentKey = circle[i];
         chordType = 'major';
