@@ -62,12 +62,10 @@ tags:
 
 <p> These sessions are fully personalized and focus on what the student needs right then. By using this MVP (Minimum Viable Product) approach, I've avoided endless hours of scripting and pre/post production, which keeps me energized and ready to deliver great lessons. These days, I'm careful about avoiding burnout, and this approach has been so much more manageable and equally rewarding. </p> 
 
-<div class="video-container">
-  <iframe width="100%" height="auto" src="https://www.youtube.com/watch?v=_1sxMt9sFWA?autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<div style="text-align: center;">
+<img src="https://i.ibb.co/SXw7sCT/COURSE-GRAPHICS.png" >
 </div>
 
-<br>
 <br>
 <p>To help new students, I designed a Maschine session puzzle with accompnying solution video to introduce my production/teaching style. The link to the video is live but unlisted on YouTube  (visible only to students after they purchase) as optional pre-course material. This way, students can get hands-on with the device without having to read the manual or go through every button before we meet. This also allows them to potentially fix blocks early - leaving more room for our sessions to explore or re-enforce. </p>
 
