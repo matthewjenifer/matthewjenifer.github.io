@@ -42,7 +42,7 @@ tags:
 
 <h2>How I Promote and Sell My Freestyle'd Maschine Course</h2>
 
-<p>I update <a href="https://www.fiverr.com/buddha_meansbiz" target="_blank"><b>my Fiverr profile</b><a> every few months. If you're not familiar with Fiverr, think of my profile as a landing page that brings in potential students. I've kept all the content short and simple, using the AIDA framework (Attention, Interest, Desire, Action) to attract people.</p>
+<p>I update <a href="https://www.fiverr.com/buddha_meansbiz" target="_blank"><b>my Fiverr profile</b></a> every few months. If you're not familiar with Fiverr, think of my profile as a landing page that brings in potential students. I've kept all the content short and simple, using the AIDA framework (Attention, Interest, Desire, Action) to attract people.</p>
 
 <div style="text-align: center;">
 <img src="https://i.ibb.co/gZNF1qG/gig-bio3.png" >
@@ -83,7 +83,7 @@ tags:
 </div>
 <br>
 
-<p><h1>Now this approach might not be for everyone,</h1> but for me, it's been both flexible and effective. I'm able to turn leads into real conversations and instantly create content from these sessions that that can be used for future promotions.</p>
+<p>Now this approach might not be for everyone, but for me, it's been both flexible and effective. I'm able to turn leads into real conversations and instantly create content from these sessions that that can be used for future promotions.</p>
 
 <p> Using a platform like Fiverr to host my course works well for me, helping me connect with students I wouldn't have met otherwise thanks to its built in marketplace. By applying what I've learned about copywriting and SEO, I've been able to find students who are truly on the same wavelength. A lot of people say you should start a YouTube channel and build a following, but sometimes taking a different approach can be more effective—and get you to "the bag" quicker.</p>
 
