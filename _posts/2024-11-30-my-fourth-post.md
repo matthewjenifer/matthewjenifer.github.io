@@ -38,7 +38,7 @@ tags:
 
 <p> I've been offering my services on Fiverr for the past nine years, mainly focusing on audio production like mixing, mastering, podcasts, audiobooks, sound effects, video editing, graphic design, web design, ad creation, and creative writing. Eventually, I moved into consulting for business owners in podcasting and audio production, which I truly do enjoy.</p>
 
-<p> Honestly, it has worked out even better than I expected. From the start, I had a unique challenge: I wanted to teach a course using my favorite device. If you've read my last blog, you might already know a bit about it.</p>
+<p> Honestly, it has worked out even better than I expected. From the start, I had a unique challenge: I wanted to teach a music production course but exclusively featuring my preferred device. If you've read my last blog, you might already know a bit about it.</p>
 
 <h2>How I Promote and Sell My Freestyle'd Maschine Course</h2>
 
