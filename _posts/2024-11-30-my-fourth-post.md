@@ -66,14 +66,14 @@ tags:
 <img src="https://i.ibb.co/SXw7sCT/COURSE-GRAPHICS.png" >
 </div> -->
 
+<div style="position: relative; width: 100%; max-width: 100%; overflow: hidden; height: 0; padding-bottom: 56.25%;">
+  <iframe src="https://www.youtube.com/embed/_1sxMt9sFWA?si=V7HVZxfv-EdrPJVX" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 <div style="text-align: center;">
 <img src="https://i.ibb.co/9srF4S8/Read-Me.png" >
 </div>
 <br>
 <p>To help new students, I also designed a Maschine session puzzle with accompanying solution video to introduce my production/teaching style. This too was initally conceieved and shot as a single take to conserve time and energy. The link to the video is live but unlisted on YouTube  (visible only to students after they purchase) as optional pre-course material.</p>
-<div style="position: relative; width: 100%; max-width: 100%; overflow: hidden; height: 0; padding-bottom: 56.25%;">
-  <iframe src="https://www.youtube.com/embed/_1sxMt9sFWA?si=V7HVZxfv-EdrPJVX" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 <div style="text-align: center;">
 <img src="https://i.ibb.co/RvXgNGd/cropped-menu.png" >
 </div>
