@@ -75,7 +75,7 @@ tags:
 <img src="https://i.ibb.co/RvXgNGd/cropped-menu.png" >
 </div>
 
-<p> This way, eager students can get hands-on with the device without having to read the manual or go through every button before we meet. This also allows them to potentially fix blocks early - leaving more room for our sessions to explore or reinforce. </p>
+<p> This way, eager students can get hands-on with the device without having to read the manual or go through every button before we meet. This also allows them to potentially address the fundamentals early - leaving more room for our sessions to explore or reinforce. </p>
 
 <div style="text-align: center;">
 <img src="https://i.ibb.co/pRgCRkQ/multiple-choice2.png" >
