@@ -60,14 +60,14 @@ tags:
 
 <p> Creating a detailed, pre-scripted course always felt overwhelming and time-consuming to me. So, when I set about launching this course, I chose to offer AMA-style consultations at $90 an hour ($72 after Fiverr's 20% cut). At the start, I knew I needed just one sale to prove my skills, so the video you see on my gig page is actually a <a href="https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/vpamnkcn4wgduskzasyt" target="_blank"><b>60-second clip from my first client's session</b></a>. Minimal editing— zero stress!</p>
 
-<p> These sessions are fully personalized and focus on what the student needs right then. By taking this MVP (Minimum Viable Product) approach, I've avoided endless hours of scripting and pre/post production, which frees me to focus on delivering 5 star lessons. These days, I'm very careful about avoiding burnout, and this approach has been so much more manageable and equally rewarding.. </p> 
+<p> These sessions are fully personalized and focus on what the student needs right then. By taking this MVP (Minimum Viable Product) approach, I've avoided endless hours of scripting and pre/post production, which frees me to focus on delivering 5 star lessons. These days, I'm very careful about avoiding burnout, and this approach has been so much more manageable and equally rewarding. </p> 
 
 <!-- <div style="text-align: center;">
 <img src="https://i.ibb.co/SXw7sCT/COURSE-GRAPHICS.png" >
 </div> -->
 
-<div class="video-container">
-  <iframe width="100%" height="auto" src="https://www.youtube.com/embed/_1sxMt9sFWA?si=V7HVZxfv-EdrPJVX" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position: relative; width: 100%; max-width: 100%; overflow: hidden; height: 0; padding-bottom: 56.25%;">
+  <iframe src="https://www.youtube.com/embed/_1sxMt9sFWA?si=V7HVZxfv-EdrPJVX" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <br>
