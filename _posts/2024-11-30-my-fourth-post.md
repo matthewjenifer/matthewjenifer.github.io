@@ -73,7 +73,7 @@ tags:
 <br>
 <p>To help new students, I also designed a Maschine session puzzle with accompanying solution video to introduce my production/teaching style. This too was initally conceieved and shot as a single take to conserve time and energy. The link to the video is live but unlisted on YouTube  (visible only to students after they purchase) as optional pre-course material.</p>
 <div style="text-align: center;">
-<img src="https://i.ibb.co/BK31YRs/Screenshot-20241130-155422.png" >
+<img src="https://i.ibb.co/RvXgNGd/cropped-menu.png" >
 </div>
 
 <p> This way, eager students can get hands-on with the device without having to read the manual or go through every button before we meet. This also allows them to potentially fix blocks early - leaving more room for our sessions to explore or reinforce. </p>
