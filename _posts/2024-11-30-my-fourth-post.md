@@ -96,7 +96,8 @@ tags:
 <img src="https://i.ibb.co/K2Xdhnw/half123.png" >
 </div>
 
-<p>Now this approach might not be for everyone, but for me, it's allowed me to be both flexible and effective. I'm able to turn leads into real conversations and instantly create content from these meetings to be used for future promotions. Using a platform like Fiverr to host my course connects me with students I wouldn't have met otherwise thanks to its built in marketplace. By applying what I've learned about copywriting and SEO, I've been able to attract students who are truly on the same wavelength. The combination of well-crafted gig descriptions, optimized keywords, and strategic engagement has allowed me to steadily grow my student base. Additionally, every interaction helps me fine-tune my messaging to attract more of the right kind of learners, making my Fiverr gig more successful over time.</p>
+<p>Now this approach might not be for everyone, but for me, it's allowed me to be both flexible and effective. I'm able to turn leads into real conversations and instantly create content from these meetings to be used for future promotions. Using a platform like Fiverr to host my course connects me with students I wouldn't have met otherwise thanks to its built in marketplace.</p>
+<p> By applying what I've learned about copywriting and SEO, I've been able to attract students who are truly on the same wavelength. The combination of well-crafted gig descriptions, optimized keywords, and strategic engagement has allowed me to steadily grow my student base. Additionally, every interaction helps me fine-tune my messaging to attract more of the right kind of learners, making my Fiverr gig more successful over time.</p>
 <div style="text-align: center;">
 <img src="https://i.ibb.co/R03BXvz/review.png" >
 </div>
