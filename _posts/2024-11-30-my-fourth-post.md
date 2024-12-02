@@ -85,18 +85,18 @@ tags:
 </div>
 <h6><em>(The map above is not correlated to my Fiverr sales but is sourced from a Udemy page hosting my self paced puzzle video as a free offer. I use this both as an ad for my Fiverr offer, as well as a target map for future buyers. As you can see at least 66 countries [316 students] have express interest in what I intend to teach!)</em></h6>
 <br>
-<p>All Fiverr gigs have a requirements section, so I've utilized this as an onboarding form thanks to a couple well-thought-out questions. Although each lesson is an hour, I've set the delivery time to 14 days—giving plenty of buffer time for rescheduling across time zones. This onboarding approach also allows me to collect emails for future promotions and gather data to improve my target buyer profile. </p>
+<p>All Fiverr gigs have a requirements section, so I've utilized this as an onboarding form thanks to a couple well-thought-out questions. Although each lesson is an hour, I've set the delivery time to 14 days—giving plenty of buffer time for rescheduling across time zones. This onboarding approach also allows me to collect emails for future promotions and gather data to improve my target buyer profile. This information has proven invaluable, giving me a much clearer understanding of who my ideal students are and what they're looking for in a course. Additionally, the extra time cushion helps me accommodate any unexpected changes, making the process smoother for both me and the students. </p>
 <div style="text-align: center;">
 <img src="https://i.ibb.co/pRgCRkQ/multiple-choice2.png" >
 </div>
 
-<p> When someone reaches out, I have a simple 1-2-3 approach: I ask two pre-qualifying questions (Are you a PC or Mac user? How long have you been producing?) and then make my standard offer. My current conversion rate is 4%—which might not sound like much, but according to recent analytics, I'm doing better than 77% of other sellers in my subcategory. </p>
+<p> When someone reaches out, I have a simple 1-2-3 approach: I ask two pre-qualifying questions (Are you a PC or Mac user? How long have you been producing?) and then make my standard offer. My current conversion rate is 4%—which might not sound like much, but according to recent analytics, I'm doing better than 77% of other sellers in my subcategory. This data has reinforced the effectiveness of my approach, and I've learned that being consistent in my outreach and transparent with potential students makes a huge difference. The pre-qualifying questions help me determine if we're a good fit, and they also serve to start a productive conversation that is tailored to their needs. </p>
 
 <div style="text-align: center;">
 <img src="https://i.ibb.co/K2Xdhnw/half123.png" >
 </div>
 
-<p>Now this approach might not be for everyone, but for me, it's allowed me to be both flexible and effective. I'm able to turn leads into real conversations and instantly create content from these meetings to be used for future promotions. Using a platform like Fiverr to host my course connects me with students I wouldn't have met otherwise thanks to its built in marketplace. By applying what I've learned about copywriting and SEO, I've been able to attract students who are truly on the same wavelength.</p>
+<p>Now this approach might not be for everyone, but for me, it's allowed me to be both flexible and effective. I'm able to turn leads into real conversations and instantly create content from these meetings to be used for future promotions. Using a platform like Fiverr to host my course connects me with students I wouldn't have met otherwise thanks to its built in marketplace. By applying what I've learned about copywriting and SEO, I've been able to attract students who are truly on the same wavelength. The combination of well-crafted gig descriptions, optimized keywords, and strategic engagement has allowed me to steadily grow my student base. Additionally, every interaction helps me fine-tune my messaging to attract more of the right kind of learners, making my Fiverr gig more successful over time.</p>
 <div style="text-align: center;">
 <img src="https://i.ibb.co/R03BXvz/review.png" >
 </div>
