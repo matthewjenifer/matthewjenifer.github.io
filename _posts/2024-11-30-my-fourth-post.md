@@ -79,7 +79,7 @@ tags:
 
 <p> This way, eager students can get hands-on with the device without having to read the manual or go through every button before we meet. This also allows them to potentially address the fundamentals early - leaving more room for our sessions to explore or reinforce. </p>
 
-<h2>My "One Size Fits All" Course Design</h2>
+<h2>Data Scraping & Closing in 3 Steps</h2>
 <div style="text-align: center;">
 <img src="https://i.ibb.co/hVZ117X/udemy-map.png" >
 </div>
