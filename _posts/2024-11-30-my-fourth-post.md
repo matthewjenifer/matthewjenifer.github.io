@@ -98,11 +98,11 @@ tags:
 
 <p>Now this approach might not be for everyone, but for me, it's allowed me to be both flexible and effective. I'm able to turn leads into real conversations and instantly create content from these meetings that that can be used for future promotions.</p>
 
-<p> Using a platform like Fiverr to host my course connects me with students I wouldn't have met otherwise thanks to its built in marketplace. By applying what I've learned about copywriting and SEO, I've been able to attract students who are truly on the same wavelength.</p>
-
 <div style="text-align: center;">
 <img src="https://i.ibb.co/R03BXvz/review.png" >
 </div>
+<p> Using a platform like Fiverr to host my course connects me with students I wouldn't have met otherwise thanks to its built in marketplace. By applying what I've learned about copywriting and SEO, I've been able to attract students who are truly on the same wavelength.</p>
+
 <br>
 <h3>Word to the Wise</h3>
 
