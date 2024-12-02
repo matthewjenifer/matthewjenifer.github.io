@@ -86,12 +86,12 @@ tags:
 <img src="https://i.ibb.co/hVZ117X/udemy-map.png" >
 </div>
 <h6><em>(The map above is not correlated to my Fiverr sales but is sourced from a Udemy page hosting my self paced puzzle video as a free offer. I use this both as an ad for my Fiverr offer, as well as a target map for future buyers. As you can see at least 66 countries [316 students] have express interest in what I intend to teach!)</em></h6>
+
+<p>All Fiverr gigs have a requirements section, so I've utilized this as an onboarding form thanks to a couple well-thought-out questions. Although each lesson is an hour, I've set the delivery time to 14 days—giving plenty of buffer time for rescheduling across time zones. This onboarding approach also allows me to collect emails for future promotions and gather data to improve my target buyer profile. </p>
 <div style="text-align: center;">
 <img src="https://i.ibb.co/pRgCRkQ/multiple-choice2.png" >
 </div>
 <br>
-
-<p>All Fiverr gigs have a requirements section, so I've utilized this as an onboarding form thanks to a couple well-thought-out questions. Although each lesson is an hour, I've set the delivery time to 14 days—giving plenty of buffer time for rescheduling across time zones. This onboarding approach also allows me to collect emails for future promotions and gather data to improve my target buyer profile. </p>
 
 <p> When someone reaches out, I have a simple 1-2-3 approach: I ask two pre-qualifying questions (Are you a PC or Mac user? How long have you been producing?) and then make my standard offer. My current conversion rate is 4%—which might not sound like much, but according to recent analytics, I'm doing better than 77% of other sellers in my subcategory. </p>
 
