@@ -90,9 +90,9 @@ tags:
 <img src="https://i.ibb.co/pRgCRkQ/multiple-choice2.png" >
 </div>
 
-<p> When someone reaches out, I have a simple 1-2-3 approach: I ask two pre-qualifying questions (Are you a PC or Mac user? How long have you been producing?) and then make my standard offer. My current conversion rate is 4%—which might not sound like much, but according to recent analytics, I'm doing better than 77% of other sellers in my subcategory.</p>
+<p> This data has reinforced the effectiveness of my approach, and I've learned that being intentional about my line of questioning - before any order takes place - makes a world of difference. The pre-qualifying questions help me determine what if any of my page needs to tweaked, and also serves to start a productive conversation that is tailored to their needs. </p>
 
-<p> This data has reinforced the effectiveness of my approach, and I've learned that being consistent in my outreach and transparent with potential students makes a huge difference. The pre-qualifying questions help me determine if we're a good fit, and they also serve to start a productive conversation that is tailored to their needs. </p>
+<p> When someone reaches out, I have a simple 1-2-3 approach: I ask two pre-qualifying questions (Are you a PC or Mac user? How long have you been producing?) and then make my standard offer. My current conversion rate is 4%—which might not sound like much, but according to recent analytics, I'm doing better than 77% of other sellers in my subcategory.</p>
 
 <div style="text-align: center;">
 <img src="https://i.ibb.co/K2Xdhnw/half123.png" >
