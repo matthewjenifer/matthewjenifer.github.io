@@ -101,9 +101,9 @@ tags:
 <div style="text-align: center;">
 <img src="https://i.ibb.co/R03BXvz/review.png" >
 </div>
+<br>
 <p> Using a platform like Fiverr to host my course connects me with students I wouldn't have met otherwise thanks to its built in marketplace. By applying what I've learned about copywriting and SEO, I've been able to attract students who are truly on the same wavelength.</p>
 
-<br>
 <h3>Word to the Wise</h3>
 
 <p> A lot of people say you should start a YouTube channel and build a following, but sometimes taking a different approach can cut through the nosie —and get you to "the bag" - quicker.</p>
