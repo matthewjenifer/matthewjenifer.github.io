@@ -96,12 +96,10 @@ tags:
 <img src="https://i.ibb.co/K2Xdhnw/half123.png" >
 </div>
 
-<p>Now this approach might not be for everyone, but for me, it's allowed me to be both flexible and effective. I'm able to turn leads into real conversations and instantly create content from these meetings to be used for future promotions.</p>
-
+<p>Now this approach might not be for everyone, but for me, it's allowed me to be both flexible and effective. I'm able to turn leads into real conversations and instantly create content from these meetings to be used for future promotions. Using a platform like Fiverr to host my course connects me with students I wouldn't have met otherwise thanks to its built in marketplace. By applying what I've learned about copywriting and SEO, I've been able to attract students who are truly on the same wavelength.</p>
 <div style="text-align: center;">
 <img src="https://i.ibb.co/R03BXvz/review.png" >
 </div>
-<p> Using a platform like Fiverr to host my course connects me with students I wouldn't have met otherwise thanks to its built in marketplace. By applying what I've learned about copywriting and SEO, I've been able to attract students who are truly on the same wavelength.</p>
 
 <h3>Word to the Wise</h3>
 
