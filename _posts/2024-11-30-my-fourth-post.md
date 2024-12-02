@@ -101,7 +101,6 @@ tags:
 <div style="text-align: center;">
 <img src="https://i.ibb.co/R03BXvz/review.png" >
 </div>
-<br>
 <p> Using a platform like Fiverr to host my course connects me with students I wouldn't have met otherwise thanks to its built in marketplace. By applying what I've learned about copywriting and SEO, I've been able to attract students who are truly on the same wavelength.</p>
 
 <h3>Word to the Wise</h3>
@@ -113,6 +112,7 @@ tags:
 <img src="https://cdn.prod.website-files.com/63ff7c6ecc83f9ec7ffe916b/67103bc8a9f809ffbb0e17c8_65eba5a047a3cbb50b1ece41_V1.png" >
 </div>
 <h6><em>(For reference: my aforementioned "pre course" youtube video is currently sitting at 147 veiws)</em></h6>
+<br>
 
 <p>If you're considering about selling your expertise online, I recommend giving this MVP approach a shot—whether on Fiverr or another platform. I often meet people who want to start selling courses or making podcasts or videos but get overwhelmed or fall into debt before they even start. Sometimes, all you need is a well-crafted landing page and the willingness to dive in.. If you're curious enough, you can create something really rewarding.</p>
 
