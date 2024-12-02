@@ -81,6 +81,8 @@ tags:
 
 <p> This way, eager students can get hands-on with the device without having to read the manual or go through every button before we meet. This also allows them to potentially address the fundamentals early - leaving more room for our sessions to explore or reinforce. </p>
 
+<h2>My "One Size Fits All" Course Design</h2>
+
 <div style="text-align: center;">
 <img src="https://i.ibb.co/pRgCRkQ/multiple-choice2.png" >
 </div>
@@ -109,6 +111,7 @@ tags:
 <img src="https://i.ibb.co/R03BXvz/review.png" >
 </div>
 <br>
+<h3>Word to the Wise</h3>
 
 <p> A lot of people say you should start a YouTube channel and build a following, but sometimes taking a different approach can cut through the nosie —and get you to "the bag" - quicker.</p>
 
@@ -118,7 +121,6 @@ tags:
 </div>
 <h6><em>(For reference: my aforementioned "pre course" youtube video is currently sitting at 147 veiws)</em></h6>
 <br>
-<h3>Word to the Wise</h3>
 
 <p>If you're considering about selling your expertise online, I recommend giving this MVP approach a shot—whether on Fiverr or another platform. I often meet people who want to start selling courses or making podcasts or videos but get overwhelmed or fall into debt before they even start. Sometimes, all you need is a well-crafted landing page and the willingness to dive in.. If you're curious enough, you can create something really rewarding.</p>
 
