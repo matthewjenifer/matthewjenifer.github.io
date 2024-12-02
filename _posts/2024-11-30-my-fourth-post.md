@@ -58,7 +58,7 @@ tags:
 
 <p> Creating a detailed, pre-scripted course always felt overwhelming and time-consuming to me. So, when I set about launching this course, I chose to offer AMA-style consultations at $90 an hour ($72 after Fiverr's 20% cut). At the start, I knew I needed just one sale to prove my skills, so the video you see on my gig page is actually a <a href="https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/vpamnkcn4wgduskzasyt" target="_blank"><b>60-second clip from my first client's session</b></a>. Minimal editing— zero stress!</p>
 
-<p> These sessions are fully personalized and focus on what the student needs right then. By taking this MVP (Minimum Viable Product) approach, I've avoided endless hours of scripting and pre/post production, which frees me to focus on delivering 5 star lessons. These days, I'm very careful about avoiding burnout, and this approach has been so much more manageable and equally rewarding. </p> 
+<p> All sessions are fully personalized and focus on what the student needs right then. By taking this MVP (Minimum Viable Product) approach, I've avoided endless hours of scripting and pre/post production, which frees me to focus on delivering 5 star lessons. These days, I'm very careful about avoiding burnout, and this approach has been so much more manageable and equally rewarding. </p> 
 
 <!-- <div style="text-align: center;">
 <img src="https://i.ibb.co/SXw7sCT/COURSE-GRAPHICS.png" >
@@ -96,7 +96,7 @@ tags:
 <img src="https://i.ibb.co/K2Xdhnw/half123.png" >
 </div>
 
-<p>Now this approach might not be for everyone, but for me, it's allowed me to be both flexible and effective. I'm able to turn leads into real conversations and instantly create content from these meetings that that can be used for future promotions.</p>
+<p>Now this approach might not be for everyone, but for me, it's allowed me to be both flexible and effective. I'm able to turn leads into real conversations and instantly create content from these meetings to be used for future promotions.</p>
 
 <div style="text-align: center;">
 <img src="https://i.ibb.co/R03BXvz/review.png" >
@@ -109,9 +109,8 @@ tags:
 
 <div style="text-align: center;">
 <img src="https://cdn.sanity.io/images/7g6d2cj1/production/4fbdc257347e087624e46d86b727e33948118eb9-1280x720.jpg" >
-<img src="https://cdn.prod.website-files.com/63ff7c6ecc83f9ec7ffe916b/67103bc8a9f809ffbb0e17c8_65eba5a047a3cbb50b1ece41_V1.png" >
 </div>
-<h6><em>(For reference: my aforementioned "pre course" youtube video is currently sitting at 147 veiws)</em></h6>
+<h6><em>(To generate the $29.79 payout above, a Youtube video would need at least 1000 veiws. For reference: my aforementioned "pre course" youtube video is currently sitting at 147 veiws)</em></h6>
 <br>
 
 <p>If you're considering about selling your expertise online, I recommend giving this MVP approach a shot—whether on Fiverr or another platform. I often meet people who want to start selling courses or making podcasts or videos but get overwhelmed or fall into debt before they even start. Sometimes, all you need is a well-crafted landing page and the willingness to dive in.. If you're curious enough, you can create something really rewarding.</p>
