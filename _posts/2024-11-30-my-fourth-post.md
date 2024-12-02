@@ -82,17 +82,17 @@ tags:
 <p> This way, eager students can get hands-on with the device without having to read the manual or go through every button before we meet. This also allows them to potentially address the fundamentals early - leaving more room for our sessions to explore or reinforce. </p>
 
 <h2>My "One Size Fits All" Course Design</h2>
-
+<br>
 <div style="text-align: center;">
 <img src="https://i.ibb.co/pRgCRkQ/multiple-choice2.png" >
+</div>
+<div style="text-align: center;">
+<img src="https://i.ibb.co/hVZ117X/udemy-map.png" >
 </div>
 <br>
 
 <p>All Fiverr gigs have a requirements section, so I've utilized this as an onboarding form thanks to a couple well-thought-out questions. Although each lesson is an hour, I've set the delivery time to 14 days—giving plenty of buffer time for rescheduling across time zones. This onboarding approach also allows me to collect emails for future promotions and gather data to improve my target buyer profile. </p>
 
-<div style="text-align: center;">
-<img src="https://i.ibb.co/hVZ117X/udemy-map.png" >
-</div>
 <h6><em>(The map above is not correlated to my Fiverr sales but is sourced from a Udemy page hosting my self paced puzzle video as a free offer. I use this both as an ad for my Fiverr offer, as well as a target map for future buyers. As you can see at least 66 countries [316 students] have express interest in what I intend to teach!)</em></h6>
 <br>
 
@@ -120,7 +120,6 @@ tags:
 <img src="https://cdn.prod.website-files.com/63ff7c6ecc83f9ec7ffe916b/67103bc8a9f809ffbb0e17c8_65eba5a047a3cbb50b1ece41_V1.png" >
 </div>
 <h6><em>(For reference: my aforementioned "pre course" youtube video is currently sitting at 147 veiws)</em></h6>
-<br>
 
 <p>If you're considering about selling your expertise online, I recommend giving this MVP approach a shot—whether on Fiverr or another platform. I often meet people who want to start selling courses or making podcasts or videos but get overwhelmed or fall into debt before they even start. Sometimes, all you need is a well-crafted landing page and the willingness to dive in.. If you're curious enough, you can create something really rewarding.</p>
 
