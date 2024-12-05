@@ -140,12 +140,16 @@ function simplifyChord(chord) {
 <p>Creating a logical Circle of Fifths was perhaps the most crucial part of building this tool. I spent a lot of time cross-referencing, debugging, and refactoring until I resolved issues like mismatched suffixes and incorrect or misordered output. Fixing these problems taught me to take things step-by-step—an approach that was challenging for me but ultimately made for a smoother and more effective process.</p>
 
 ```javascript
+// Function to find a chord in the Circle of Fifths
 function circleOfFifths(chordSet, currentChord) {
+
+    // Check if a chord is provided, if not log a message and return null
     if (!currentChord) {
         console.log('No chord provided.');
         return null;
     }
 
+    // Define the Circle of Fifths with major, minor, and enharmonic equivalents
     const circle = [
         { major: 'C', minor: 'Am', enharmonicMajor: 'B#', enharmonicMinor: null },
         { major: 'G', minor: 'Em', enharmonicMajor: null, enharmonicMinor: null },
@@ -153,7 +157,7 @@ function circleOfFifths(chordSet, currentChord) {
         { major: 'A', minor: 'F#m', enharmonicMajor: null, enharmonicMinor: 'G#m' },
         { major: 'E', minor: 'C#m', enharmonicMajor: null, enharmonicMinor: 'Dbm' },
         { major: 'B', minor: 'G#m', enharmonicMajor: 'Cb', enharmonicMinor: 'Abm' },
-        { major: 'F#', minor: 'D#m', enharmonicMajor: 'Gb', enharmonicMinor: 'Ebm' }, 
+        { major: 'F#', minor: 'D#m', enharmonicMajor: 'Gb', enharmonicMinor: 'Ebm' },
         { major: 'Db', minor: 'Bbm', enharmonicMajor: 'C#', enharmonicMinor: 'A#m' },
         { major: 'Ab', minor: 'Fm', enharmonicMajor: 'G#', enharmonicMinor: null },
         { major: 'Eb', minor: 'Cm', enharmonicMajor: 'D#', enharmonicMinor: null },
@@ -161,16 +165,19 @@ function circleOfFifths(chordSet, currentChord) {
         { major: 'F', minor: 'Dm', enharmonicMajor: 'E#', enharmonicMinor: null }
     ];
 
+    // Extract the root note of the current chord (e.g., 'C' from 'Cmaj7')
     const simplifiedRoot = currentChord.match(/^[A-Ga-g][b#]?/)[0];
     let currentKey = null;
     let chordType = '';
 
-    // Loop through the circle to find a match
+    // Loop through the Circle of Fifths to find a matching key
     for (let i = 0; i < circle.length; i++) {
+        // Check if the chord is a major or its enharmonic equivalent
         if (circle[i].major === simplifiedRoot || circle[i].enharmonicMajor === simplifiedRoot) {
             currentKey = circle[i];
             chordType = 'major';
             break;
+        // Check if the chord is a minor or its enharmonic equivalent
         } else if (circle[i].minor === simplifiedRoot || circle[i].enharmonicMinor === simplifiedRoot) {
             currentKey = circle[i];
             chordType = 'minor';
@@ -178,10 +185,13 @@ function circleOfFifths(chordSet, currentChord) {
         }
     }
 
+    // If no matching key is found, log a message and return null
     if (!currentKey) {
         console.log('Chord not found in the circle of fifths.');
         return null;
     }
+}
+
 
 ```
 
