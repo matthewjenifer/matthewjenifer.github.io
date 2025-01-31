@@ -84,6 +84,7 @@ tags:
 <img src="https://i.ibb.co/hVZ117X/udemy-map.png" >
 </div>
 <h6><em>(The map above is not correlated to my Fiverr sales but is sourced from a Udemy page hosting my self paced puzzle video as a free offer. I use this both as an ad for my Fiverr offer, as well as a target map for future buyers. As you can see at least 66 countries [316 students] have expressed interest in what I teach!)</em></h6>
+<img src="https://i.ibb.co/Jwv91Ntf/review5.png" >
 <br>
 <p>All Fiverr gigs have a requirements section, so I've utilized this as an onboarding form thanks to a couple well-thought-out questions. Although each lesson is limited to an hour, I've set the delivery time to 14 days—giving plenty of buffer time for rescheduling across time zones. This onboarding approach also allows me to collect emails for future promotions and gather data to improve my target buyer profile. This information has proven invaluable, giving me a much clearer understanding of who my ideal students are and what they're looking for in any future course. Additionally, the extra time cushion helps me accommodate any unexpected changes, making the process smoother for both me and the students. </p>
 <div style="text-align: center;">
