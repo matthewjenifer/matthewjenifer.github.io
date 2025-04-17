@@ -25,8 +25,8 @@ tags:
 
 <h2>FM2D [RED]: THE HIDDEN BACKSTORY REVEALED</h2>
 
-<p>Twenty years ago, I recorded what I would later come to consider my debut album. The other day, I was listening to it again and realized it's some of the most creative work I've ever done. But there's a bit of backstory I never really shared. So here goes.
-</p>
+<em>Twenty years ago, I recorded what I would later come to consider my debut album. The other day, I was listening to it again and realized it's some of the most creative work I've ever done. But there's a bit of backstory I never really shared. So here goes:
+</em>
 
 <br>
 <div style="text-align: center;">
