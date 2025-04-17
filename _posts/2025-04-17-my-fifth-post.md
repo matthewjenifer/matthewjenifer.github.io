@@ -34,7 +34,7 @@ tags:
 <br>
 
 
-<p> The title of the album was *Follow Me to Die: Harmonic Distress Pt. 6*. The “Part 6” was because it was my sixth attempt at what was originally going to be called *Harmonic Distress*. Up until that point, I had never made it as far as actually finishing the project. All I could muster were various iterations of cover art -whipped up between jotting rhymes in my stereotypical composition notebook and learning how to make beats. The "Follow Me" part had a dual meaning: in one sense, my Christ complex was peeking through. I'd recently heard the call to follow Christ being interpreted by early adherents as an invitation to die. I kinda dug that. I also hoped whoever heard the project would stick around for whatever I recorded beyond this release, en route to what would one day be my inevitable death. Hence the title. It didn’t hurt that it had a haunting effect either -one reminiscent of Pac and Big. *The 7 Day Theory* was deep in rotation at the time. As was *Ready to Die*, among other classics.</p>
+<p> The title of the album was <h2>Follow Me to Die: Harmonic Distress Pt. 6</h2>. The “Part 6” was because it was my sixth attempt at what was originally going to be called "Harmonic Distress". Up until that point, I had never made it as far as actually finishing the project. All I could muster were various iterations of cover art -whipped up between jotting rhymes in my stereotypical composition notebook and learning how to make beats. The "Follow Me" part had a dual meaning: in one sense, my Christ complex was peeking through. I'd recently heard the call to follow Christ being interpreted by early adherents as an invitation to die. I kinda dug that. I also hoped whoever heard the project would stick around for whatever I recorded beyond this release, en route to what would one day be my inevitable death. Hence the title. It didn’t hurt that it had a haunting effect either -one reminiscent of Pac and Big. The 7 Day Theory was deep in rotation at the time. As was Ready to Die, among other classics.</p>
 
 <br>
 <div style="text-align: center;">
@@ -88,7 +88,7 @@ tags:
 <div style="text-align: center;">
 <img src="https://i.ibb.co/9srF4S8/Read-Me.png" >
 </div> -->
-<p>(New cover art courtesy of ChatGPT. Inspired by… take a wild guess.)</p>
+<em>(New cover art courtesy of ChatGPT. Inspired by… take a wild guess.)</em>
 
 <!-- ![My GIF](https://media.giphy.com/media/d3mlE7uhX8KFgEmY/giphy.gif)
 <br> -->
