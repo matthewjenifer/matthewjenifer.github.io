@@ -36,14 +36,13 @@ tags:
 
 <p> The title of the album was <em>"Follow Me to Die: Harmonic Distress Pt. 6"</em>. The “Part 6” was because it was my sixth attempt at what was originally going to be called <em>"Harmonic Distress"</em>. Up until that point, I had never made it as far as actually finishing the project. All I could muster were various iterations of cover art -whipped up between jotting rhymes in my stereotypical composition notebook and learning how to make beats. The "Follow Me" part had a dual meaning: in one sense, my messiah complex was peeking through. I'd recently heard the call to follow Christ being interpreted by early adherents as an invitation to die. I kinda dug that. I also hoped whoever heard the project would stick around for whatever I recorded beyond this release, en route to what would one day be my inevitable death. Hence the title. It didn’t hurt that it had a haunting effect either -one reminiscent of Pac and Big. The 7 Day Theory was deep in rotation at the time. As was Ready to Die, among other classics.</p>
 
+<p> At the time, I was at Miles College in Alabama, during what should’ve been my freshman year. But I never went to class. I was too depressed-for multiple reasons, but mainly because my high school sweetheart was sleeping with my best friend-the other half of what could’ve been a Brick City version of OutKast. Before this came to pass, we were kinda like Ken and Ryu. And when they weren’t fucking each other or taking drugs, they’d call me for advice on their complex affair. After all, I knew both of them better than they knew each other. At the time, I thought being a good friend (not to mention a forgiving Christian) meant being a good listener. I’d given them both the green light to hang out anyway. And I knew she would fuck. Him too, for that matter.</p>
+
 <br>
 <div style="text-align: center;">
 <img src="https://i.ibb.co/hFq0f3Gz/Chat-GPT-Image-Apr-17-2025-02-41-31-PM.png" width="75%" >
 </div>
 <br>
-
-
-<p> At the time, I was at Miles College in Alabama, during what should’ve been my freshman year. But I never went to class. I was too depressed-for multiple reasons, but mainly because my high school sweetheart was sleeping with my best friend-the other half of what could’ve been a Brick City version of OutKast. Before this came to pass, we were kinda like Ken and Ryu. And when they weren’t fucking each other or taking drugs, they’d call me for advice on their complex affair. After all, I knew both of them better than they knew each other. At the time, I thought being a good friend (not to mention a forgiving Christian) meant being a good listener. I’d given them both the green light to hang out anyway. And I knew she would fuck. Him too, for that matter.</p>
 
 <p> So there I was, a million miles away, taking blunts to the face when I wasn’t writing and drinking MD 20/20. Back then I used to dip my blunts in Robitussin and dry them on the radiator, looking for an edge to my high. My dreams were often in black and white, with occasional bursts of red- like something out of a Rolling Stones tune. One dream had a gigantic dog and a frightened child. Another had a fancy restaurant with a label rep and a disturbing music video (<em>track 8</em>) playing in the background. The weirdest one? A house with a man by the doorway who told me I’d be a great boxer one day as I entered (<em>track 6</em>). Inside were three boys in red shorts with no faces. A little girl ran up to me and hugged my legs, begging me not to look in the door with the red “E” on it.
 </p>
@@ -70,25 +69,18 @@ tags:
 <p>I remember multiple listeners at the time saying I sounded possessed. A few friends back home were palpably suspicious of my motives when they first heard it. Others said it sounded like I was fighting a demon- and maybe I was. Or maybe that was just Abrahamic paranoia on their part. But truthfully? I was the demon. And even though I couldn’t really face it then, in some deep way-I always knew. That’s exactly why I had to die.
 </p>
 
+<div style="position: relative; width: 100%; max-width: 100%; overflow: hidden; height: 0; padding-bottom: 56.25%;">
+  <iframe src="https://www.youtube.com/embed/c-oV327TXm0?si=mqR0aCeU7wm2weVJ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<em>(New cover art courtesy of ChatGPT. Inspired by… take a wild guess.)</em>
+
 <p>As mentioned earlier, I never told anyone the true backstory, so I doubt the album made much sense even to those in that circle of friends. I went on to record seven more projects- eight, depending on how you count-but traces of that original concept (pain) were always in there. By 2011, I resurrected the execution motif. <a href="https://brownbuddha.bandcamp.com/track/fulfillingness-final-farewell-murder-the-myth" target="_blank"><b>Track 1</b></a> and the visual art around <a href="https://open.spotify.com/album/4yRJjirrU4ffwenkxy7Tah" target="_blank"><b>BWTPI3</b></a> form a symbolic bookend-if you know what to listen for-but that’s another breakdown for another day.
 </p>
 
 <p>If you made it this far, you’re probably the type to spare 30 minutes to listen to a moment in time. So if you do, maybe you can get a glimpse of how this all felt. I can’t promise this will stay online forever, but now you can’t say I never told you the story-because I just did.
 </p>
 
-
-<!-- <div style="text-align: center;">
-<img src="https://i.ibb.co/SXw7sCT/COURSE-GRAPHICS.png" >
-</div> -->
-
-<div style="position: relative; width: 100%; max-width: 100%; overflow: hidden; height: 0; padding-bottom: 56.25%;">
-  <iframe src="https://www.youtube.com/embed/c-oV327TXm0?si=mqR0aCeU7wm2weVJ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-<!-- <br>
-<div style="text-align: center;">
-<img src="https://i.ibb.co/9srF4S8/Read-Me.png" >
-</div> -->
-<em>(New cover art courtesy of ChatGPT. Inspired by… take a wild guess.)</em>
 
 <!-- ![My GIF](https://media.giphy.com/media/d3mlE7uhX8KFgEmY/giphy.gif)
 <br> -->
