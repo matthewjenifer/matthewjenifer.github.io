@@ -36,6 +36,13 @@ tags:
 
 <p> The title of the album was *Follow Me to Die: Harmonic Distress Pt. 6*. The “Part 6” was because it was my sixth attempt at what was originally going to be called *Harmonic Distress*. Up until that point, I had never made it as far as actually finishing the project. All I could muster were various iterations of cover art -whipped up between jotting rhymes in my stereotypical composition notebook and learning how to make beats. The "Follow Me" part had a dual meaning: in one sense, my Christ complex was peeking through. I'd recently heard the call to follow Christ being interpreted by early adherents as an invitation to die. I kinda dug that. I also hoped whoever heard the project would stick around for whatever I recorded beyond this release, en route to what would one day be my inevitable death. Hence the title. It didn’t hurt that it had a haunting effect either -one reminiscent of Pac and Big. *The 7 Day Theory* was deep in rotation at the time. As was *Ready to Die*, among other classics.</p>
 
+<br>
+<div style="text-align: center;">
+<img src="https://i.ibb.co/hFq0f3Gz/Chat-GPT-Image-Apr-17-2025-02-41-31-PM.png" width="50%" >
+</div>
+<br>
+
+
 <p> At the time, I was at Miles College in Alabama, during what should’ve been my freshman year. But I never went to class. I was too depressed-for multiple reasons, but mainly because my high school sweetheart was sleeping with my best friend-the other half of what could’ve been a Brick City version of OutKast. Before this came to pass, we were kinda like Ken and Ryu. And when they weren’t fucking each other or taking drugs, they’d call me for advice on their complex affair. After all, I knew both of them better than they knew each other. At the time, I thought being a good friend (not to mention a forgiving Christian) meant being a good listener. I’d given them both the green light to hang out anyway. And I knew she would fuck. Him too, for that matter.</p>
 
 <p> So there I was, a million miles away, taking blunts to the face when I wasn’t writing and drinking MD 20/20. Back then I used to dip my blunts in Robitussin and dry them on the radiator, looking for an edge to my high. My dreams were often in black and white, with occasional bursts of red- like something out of a Rolling Stones tune. One dream had a gigantic dog and a frightened child. Another had a fancy restaurant with a label rep and a disturbing music video (<em>track 8</em>) playing in the background. The weirdest one? A house with a man by the doorway who told me I’d be a great boxer one day as I entered (<em>track 6</em>). Inside were three boys in red shorts with no faces. A little girl ran up to me and hugged my legs, begging me not to look in the door with the red “E” on it.
@@ -69,7 +76,6 @@ tags:
 <p>If you made it this far, you’re probably the type to spare 30 minutes to listen to a moment in time. So if you do, maybe you can get a glimpse of how this all felt. I can’t promise this will stay online forever, but now you can’t say I never told you the story-because I just did.
 </p>
 
-<p>(New cover art courtesy of ChatGPT. Inspired by… take a wild guess.)</p>
 
 <!-- <div style="text-align: center;">
 <img src="https://i.ibb.co/SXw7sCT/COURSE-GRAPHICS.png" >
@@ -82,6 +88,7 @@ tags:
 <div style="text-align: center;">
 <img src="https://i.ibb.co/9srF4S8/Read-Me.png" >
 </div> -->
+<p>(New cover art courtesy of ChatGPT. Inspired by… take a wild guess.)</p>
 
 <!-- ![My GIF](https://media.giphy.com/media/d3mlE7uhX8KFgEmY/giphy.gif)
 <br> -->
