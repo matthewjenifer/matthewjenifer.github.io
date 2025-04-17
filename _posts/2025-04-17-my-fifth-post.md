@@ -22,20 +22,19 @@ tags:
 
 <link rel="stylesheet" type="text/css" href="./_css/styles.css">
 
+<h2>FOLLOW ME TO DIE: A BACKSTORY</h2>
+
 <!-- <div style="text-align: center;">
 <img src="https://i.ibb.co/SXw7sCT/COURSE-GRAPHICS.png" >
 </div> -->
 
 <div style="position: relative; width: 100%; max-width: 100%; overflow: hidden; height: 0; padding-bottom: 56.25%;">
-  <iframe src="https://www.youtube.com/embed/_1sxMt9sFWA?si=V7HVZxfv-EdrPJVX" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/c-oV327TXm0?si=mqR0aCeU7wm2weVJ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <!-- <br>
 <div style="text-align: center;">
 <img src="https://i.ibb.co/9srF4S8/Read-Me.png" >
 </div> -->
-
-
-<h2>FOLLOW ME TO DIE: A BACKSTORY</h2>
 
 <p>Twenty years ago, I recorded what I would later come to consider my debut album. The other day, I was listening to it again and realized it's some of the most creative work I've ever done. But there's a bit of backstory I never really shared. So here goes.
 </p>
