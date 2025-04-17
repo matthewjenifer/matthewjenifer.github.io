@@ -26,7 +26,7 @@ tags:
 
 <br>
 <div style="text-align: center;">
-<img src="https://i.ibb.co/1FdX1Jj/Chat-GPT-Image-Apr-16-2025-10-24-56-PM.png" >
+<img src="https://i.ibb.co/qFWRPmJw/Chat-GPT-Image-Apr-16-2025-10-37-30-PM.png" >
 </div>
 <br>
 
