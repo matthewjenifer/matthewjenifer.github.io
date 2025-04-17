@@ -16,6 +16,7 @@ tags:
   - Unreleased Music
   - Mental Health
   - FL Studio
+  - Cool Edit Pro
   - Dream Symbolism
   - Indie Rap
 ---
