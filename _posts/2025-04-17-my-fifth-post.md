@@ -28,7 +28,6 @@ tags:
 <em>Twenty years ago, I recorded what I would later come to consider my debut album. The other day, I was listening to it again and realized it's some of the most creative work I've ever done. But there's a bit of backstory I never really shared. So here goes:
 </em>
 
-<br>
 <div style="text-align: center;">
 <img src="https://i.ibb.co/qFWRPmJw/Chat-GPT-Image-Apr-16-2025-10-37-30-PM.png" >
 </div>
@@ -45,7 +44,6 @@ tags:
 
 <p> At the time, I was at Miles College in Alabama, during what should’ve been my freshman year. But I never went to class. I was too depressed-for multiple reasons, but mainly because my high school sweetheart was sleeping with my best friend-the other half of what could’ve been a Brick City version of OutKast. Before this came to pass, we were kinda like Ken and Ryu. And when they weren’t fucking each other or taking drugs, they’d call me for advice on their complex affair. After all, I knew both of them better than they knew each other. At the time, I thought being a good friend (not to mention a forgiving Christian) meant being a good listener. I’d given them both the green light to hang out anyway. And I knew she would fuck. Him too, for that matter.</p>
 
-<br>
 <div style="text-align: center;">
 <img src="https://i.ibb.co/hFq0f3Gz/Chat-GPT-Image-Apr-17-2025-02-41-31-PM.png" width="75%" >
 </div>
