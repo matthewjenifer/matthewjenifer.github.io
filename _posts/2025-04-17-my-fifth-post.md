@@ -39,7 +39,7 @@ tags:
 
 <br>
 <div style="text-align: center;">
-<img src="https://i.ibb.co/hJDmXRv8/11119777-732898020170007-8142953936133466584-o.jpg" width="50%" >
+<img src="https://i.ibb.co/hJDmXRv8/11119777-732898020170007-8142953936133466584-o.jpg" width="75%" >
 </div>
 <br>
 
