@@ -24,17 +24,11 @@ tags:
 
 <h2>FOLLOW ME TO DIE: A BACKSTORY</h2>
 
-<!-- <div style="text-align: center;">
-<img src="https://i.ibb.co/SXw7sCT/COURSE-GRAPHICS.png" >
-</div> -->
-
-<div style="position: relative; width: 100%; max-width: 100%; overflow: hidden; height: 0; padding-bottom: 56.25%;">
-  <iframe src="https://www.youtube.com/embed/c-oV327TXm0?si=mqR0aCeU7wm2weVJ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-<!-- <br>
+<br>
 <div style="text-align: center;">
 <img src="https://i.ibb.co/9srF4S8/Read-Me.png" >
-</div> -->
+</div>
+<br>
 
 <p>Twenty years ago, I recorded what I would later come to consider my debut album. The other day, I was listening to it again and realized it's some of the most creative work I've ever done. But there's a bit of backstory I never really shared. So here goes.
 </p>
@@ -70,6 +64,17 @@ tags:
 
 <p>(New cover art courtesy of ChatGPT. Inspired by… take a wild guess.)</p>
 
+<!-- <div style="text-align: center;">
+<img src="https://i.ibb.co/SXw7sCT/COURSE-GRAPHICS.png" >
+</div> -->
+
+<div style="position: relative; width: 100%; max-width: 100%; overflow: hidden; height: 0; padding-bottom: 56.25%;">
+  <iframe src="https://www.youtube.com/embed/c-oV327TXm0?si=mqR0aCeU7wm2weVJ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<!-- <br>
+<div style="text-align: center;">
+<img src="https://i.ibb.co/9srF4S8/Read-Me.png" >
+</div> -->
 
 <!-- ![My GIF](https://media.giphy.com/media/d3mlE7uhX8KFgEmY/giphy.gif)
 <br> -->
