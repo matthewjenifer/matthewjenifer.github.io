@@ -22,7 +22,10 @@ tags:
 
 <link rel="stylesheet" type="text/css" href="./_css/styles.css">
 
-<h2>FOLLOW ME TO DIE: A BACKSTORY</h2>
+<h2>FOLLOW ME TO DIE [RED]: THE HIDDEN BACKSTORY REVEALED</h2>
+
+<p>Twenty years ago, I recorded what I would later come to consider my debut album. The other day, I was listening to it again and realized it's some of the most creative work I've ever done. But there's a bit of backstory I never really shared. So here goes.
+</p>
 
 <br>
 <div style="text-align: center;">
@@ -30,8 +33,6 @@ tags:
 </div>
 <br>
 
-<p>Twenty years ago, I recorded what I would later come to consider my debut album. The other day, I was listening to it again and realized it's some of the most creative work I've ever done. But there's a bit of backstory I never really shared. So here goes.
-</p>
 
 <p> The title of the album was *Follow Me to Die: Harmonic Distress Pt. 6*. The “Part 6” was because it was my sixth attempt at what was originally going to be called *Harmonic Distress*. Up until that point, I had never made it as far as actually finishing the project. All I could muster were various iterations of cover art -whipped up between jotting rhymes in my stereotypical composition notebook and learning how to make beats. The "Follow Me" part had a dual meaning: in one sense, my Christ complex was peeking through. I'd recently heard the call to follow Christ being interpreted by early adherents as an invitation to die. I kinda dug that. I also hoped whoever heard the project would stick around for whatever I recorded beyond this release, en route to what would one day be my inevitable death. Hence the title. It didn’t hurt that it had a haunting effect either -one reminiscent of Pac and Big. *The 7 Day Theory* was deep in rotation at the time. As was *Ready to Die*, among other classics.</p>
 
