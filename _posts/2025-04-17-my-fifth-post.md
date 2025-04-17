@@ -47,7 +47,7 @@ tags:
 <p> So there I was, a million miles away, taking blunts to the face when I wasn’t writing and drinking MD 20/20. Back then I used to dip my blunts in Robitussin and dry them on the radiator, looking for an edge to my high. My dreams were often in black and white, with occasional bursts of red- like something out of a Rolling Stones tune. One dream had a gigantic dog and a frightened child. Another had a fancy restaurant with a label rep and a disturbing music video (<em>track 8</em>) playing in the background. The weirdest one? A house with a man by the doorway who told me I’d be a great boxer one day as I entered (<em>track 6</em>). Inside were three boys in red shorts with no faces. A little girl ran up to me and hugged my legs, begging me not to look in the door with the red “E” on it.
 </p>
 
-<p>I didn’t listen.</p>
+<h6>I didn’t listen.</h6>
 
 <p> Behind the door was a scene that could make Caligula blush. I now realize this symbolized the many experiences I had during my high school years. After getting an eyeful, I stepped into the nearby bathroom and saw a slightly older version of myself stepping out of a shower. And when I looked in the mirror, my face was aged beyond recognition, like an elderly man. My teeth were crumbling like chalk and my hair fell from my head, sticking to my face like tar. There’s more I remember about that dream, as well as a few my ex was having at the time: dead bodies being weighed on scales like the one Anubis carries on the Day of Coming Forth ..but I’ll leave it there for now.
 </p>
@@ -61,7 +61,7 @@ tags:
 <p> When I listen back to this project, I can still feel the tension in my bones as I made beats and recorded the rhymes. The weed smoke amplified things into a sort of hood-emo quasi-suicidal ideation (<em>track 3</em>)-one born of repressed rage, juvenile ego, and latent fantasies of revenge. I listened to the album over and over before deciding to add and remove a lot from the original concept. The first tracklist played like I was planning to murder my friends. What ultimately resulted after numerous redactions was a muddled storyline about killing myself off before I ever got the chance to kill my homeboy-or provoke him to murder me. The ad-libs in the background reflected voices I would admittedly hallucinate at the time (<em>track 7</em>), even when I wasn't high. Arguments from down the hall that honestly aren’t too dissimilar from... you know what... forget that part. I just needed it to sound as crowded as my thoughts were at the time, so the headphone bleed and sound overlap was heavy.
 </p>
 
-<p>Moving on.</p>
+<h6>Moving on.</h6>
 
 <p>For one song, I imitated my own execution and literally recorded the sound of my body hitting the dorm floor (<em>track 4</em>). I remember doing this multiple times, as I insisted on capturing the precise thud that should logistically follow a singular shot to the head. I hadn’t gone to engineering school yet, so the mix was buried and distorted-ironically reflecting the haze I recorded it in.
 </p>
