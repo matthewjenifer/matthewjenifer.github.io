@@ -7,17 +7,17 @@ date: 2025-04-17
 last_modified_at: 2025-04-17
 author: M. Jenifer
 categories:
-  - Fiverr
+  - Recording
   - Music Production
 tags:
-  - Music Production
-  - Online Course Sales
-  - Fiverr
-  - SEO Optimization
-  - Landing Page Design
-  - Copywriting
-  - Native Instruments
-  - Maschine MK3
+  - Memoir
+  - Creative Process
+  - Concept Album
+  - Unreleased Music
+  - Mental Health
+  - FL Studio
+  - Dream Symbolism
+  - Indie Rap
 ---
 
 <link rel="stylesheet" type="text/css" href="./_css/styles.css">
