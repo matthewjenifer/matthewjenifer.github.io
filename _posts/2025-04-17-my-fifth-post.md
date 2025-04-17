@@ -48,6 +48,7 @@ tags:
 </p>
 
 <h6>I didn’t listen.</h6>
+<br>
 
 <p> Behind the door was a scene that could make Caligula blush. I now realize this symbolized the many experiences I had during my high school years. After getting an eyeful, I stepped into the nearby bathroom and saw a slightly older version of myself stepping out of a shower. And when I looked in the mirror, my face was aged beyond recognition, like an elderly man. My teeth were crumbling like chalk and my hair fell from my head, sticking to my face like tar. There’s more I remember about that dream, as well as a few my ex was having at the time: dead bodies being weighed on scales like the one Anubis carries on the Day of Coming Forth ..but I’ll leave it there for now.
 </p>
@@ -62,6 +63,7 @@ tags:
 </p>
 
 <h6>Moving on.</h6>
+<br>
 
 <p>For one song, I imitated my own execution and literally recorded the sound of my body hitting the dorm floor (<em>track 4</em>). I remember doing this multiple times, as I insisted on capturing the precise thud that should logistically follow a singular shot to the head. I hadn’t gone to engineering school yet, so the mix was buried and distorted-ironically reflecting the haze I recorded it in.
 </p>
