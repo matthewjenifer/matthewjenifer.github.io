@@ -38,7 +38,7 @@ tags:
 
 <br>
 <div style="text-align: center;">
-<img src="https://i.ibb.co/hFq0f3Gz/Chat-GPT-Image-Apr-17-2025-02-41-31-PM.png" width="50%" >
+<img src="https://i.ibb.co/hFq0f3Gz/Chat-GPT-Image-Apr-17-2025-02-41-31-PM.png" width="75%" >
 </div>
 <br>
 
