@@ -47,6 +47,7 @@ tags:
 <p> So there I was, a million miles away, taking blunts to the face when I wasn’t writing and drinking MD 20/20. Back then I used to dip my blunts in Robitussin and dry them on the radiator, looking for an edge to my high. My dreams were often in black and white, with occasional bursts of red- like something out of a Rolling Stones tune. One dream had a gigantic dog and a frightened child. Another had a fancy restaurant with a label rep and a disturbing music video (<em>track 8</em>) playing in the background. The weirdest one? A house with a man by the doorway who told me I’d be a great boxer one day as I entered (<em>track 6</em>). Inside were three boys in red shorts with no faces. A little girl ran up to me and hugged my legs, begging me not to look in the door with the red “E” on it.
 </p>
 
+<br>
 <h6>I didn’t listen.</h6>
 <br>
 
@@ -62,6 +63,7 @@ tags:
 <p> When I listen back to this project, I can still feel the tension in my bones as I made beats and recorded the rhymes. The weed smoke amplified things into a sort of hood-emo quasi-suicidal ideation (<em>track 3</em>)-one born of repressed rage, juvenile ego, and latent fantasies of revenge. I listened to the album over and over before deciding to add and remove a lot from the original concept. The first tracklist played like I was planning to murder my friends. What ultimately resulted after numerous redactions was a muddled storyline about killing myself off before I ever got the chance to kill my homeboy-or provoke him to murder me. The ad-libs in the background reflected voices I would admittedly hallucinate at the time (<em>track 7</em>), even when I wasn't high. Arguments from down the hall that honestly aren’t too dissimilar from... you know what... forget that part. I just needed it to sound as crowded as my thoughts were at the time, so the headphone bleed and sound overlap was heavy.
 </p>
 
+<br>
 <h6>Moving on.</h6>
 <br>
 
