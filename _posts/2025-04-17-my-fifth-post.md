@@ -45,6 +45,12 @@ tags:
 <p> Behind the door was a scene that could make Caligula blush. I now realize this symbolized the many experiences I had during my high school years. After getting an eyeful, I stepped into the nearby bathroom and saw a slightly older version of myself stepping out of a shower. And when I looked in the mirror, my face was aged beyond recognition, like an elderly man. My teeth were crumbling like chalk and my hair fell from my head, sticking to my face like tar. There’s more I remember about that dream, as well as a few my ex was having at the time: dead bodies being weighed on scales like the one Anubis carries on the Day of Coming Forth ..but I’ll leave it there for now.
 </p>
 
+<br>
+<div style="text-align: center;">
+<img src="https://i.ibb.co/cSzK0gkz/Chat-GPT-Image-Apr-17-2025-02-16-14-PM.png" >
+</div>
+<br>
+
 <p> When I listen back to this project, I can still feel the tension in my bones as I made beats and recorded the rhymes. The weed smoke amplified things into a sort of hood-emo quasi-suicidal ideation (track 3)-one born of repressed rage, juvenile ego, and latent fantasies of revenge. I listened to the album over and over before deciding to add and remove a lot from the original concept. The first tracklist played like I was planning to murder my friends. What ultimately resulted after numerous redactions was a muddled storyline about killing myself off before I ever got the chance to kill my homeboy-or provoke him to murder me. The ad-libs in the background reflected voices I would admittedly hallucinate at the time (track 7), even when I wasn't high. Arguments from down the hall that honestly aren’t too dissimilar from... you know what... forget that part. I just needed it to sound as crowded as my thoughts were at the time, so the headphone bleed and sound overlap was heavy.
 </p>
 
