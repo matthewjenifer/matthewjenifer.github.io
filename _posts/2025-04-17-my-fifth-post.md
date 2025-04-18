@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Red]acted.
+title: Red.acted.
 subtitle: My Beautifully Dank Paranoid Fantasy 
 image: ../images/__.PNG
 date: 2025-04-17
