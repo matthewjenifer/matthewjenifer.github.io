@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Redacted.
+title: [Red]acted.
 subtitle: My Beautifully Dank Paranoid Fantasy 
 image: ../images/__.PNG
 date: 2025-04-17
@@ -87,7 +87,7 @@ tags:
 </div> -->
 <em>(New cover art courtesy of ChatGPT. Inspired by… take a wild guess.)</em>
 
-<p>As mentioned earlier, I never told anyone the true backstory, so I doubt the album made much sense even to those in that circle of friends. I went on to record seven more projects- eight, depending on how you count-but traces of that original concept (pain) were always in there. About seven years later in 2011, I resurrected the execution motif. <a href="https://brownbuddha.bandcamp.com/track/fulfillingness-final-farewell-murder-the-myth" target="_blank"><b>Track 1</b></a> and the visual art around <a href="https://open.spotify.com/album/4yRJjirrU4ffwenkxy7Tah" target="_blank"><b>BWTPI3</b></a> form a symbolic bookend-if you know what to listen and look for-but that’s another breakdown for another day.
+<p>As mentioned earlier, I never told anyone the true backstory, so I doubt the album made much sense even to those in that circle of friends. I went on to record seven more projects- eight, depending on how you count-but traces of that original concept (pain) were always in there. About seven years later in 2011, I resurrected the execution motif. <a href="https://brownbuddha.bandcamp.com/track/fulfillingness-final-farewell-murder-the-myth" target="_blank"><b>Track 1</b></a> and the <a href="https://i.ibb.co/0pjHYtmS/2015-08-13-1439482129.jpg" target="_blank"><b>visual art</b></a> around <a href="https://open.spotify.com/album/4yRJjirrU4ffwenkxy7Tah" target="_blank"><b>BWTPI3</b></a> form a symbolic bookend-if you know what to listen and look for-but that’s another breakdown for another day.
 </p>
 
 <p>If you made it this far, you’re probably the type to spare 30 minutes to listen to a moment in time. So if you do, maybe you can get a glimpse of how this all felt. I can’t promise this will stay online forever, but now you can’t say I never told you the story-because I just did.
