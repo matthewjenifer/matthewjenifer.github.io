@@ -81,7 +81,7 @@ tags:
 <p>For one song, I imitated my own execution and literally recorded the sound of my body hitting the dorm floor (<em>track 4</em>). I remember doing this multiple times, as I insisted on capturing the precise thud that should logistically follow a singular shot to the head. I hadn’t gone to engineering school yet, so the mix was buried and distorted-ironically reflecting the haze I recorded it in.
 </p>
 
-<p>I remember multiple listeners at the time saying I sounded possessed. A few friends back home were palpably suspicious of my motives when they first heard it. Others said it sounded like I was fighting a demon- and maybe I was. Or maybe that was just Abrahamic paranoia on their part. But truthfully? I was the demon. And even though I couldn’t really face it then, in some deep way-I always knew. That’s exactly why I had to die.
+<p>I remember multiple listeners at the time saying I sounded possessed. A few friends back home were palpably suspicious of my motives when they first heard it. Others said it sounded like I was fighting a demon- and maybe I was. Or maybe that was just Abrahamic paranoia on their part. But truthfully? I was the demon. And even though I couldn’t really face it then, in some way- deep down I always knew. That’s exactly why I had to die.
 </p>
 
 <div style="position: relative; width: 100%; max-width: 100%; overflow: hidden; height: 0; padding-bottom: 56.25%;">
