@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My First $1,000 from Music Production
+title: My First $1,000 from Course Sales
 subtitle: Not bad for First Timer. 
 image: ../images/facecard.PNG
 date: 2024-11-30
