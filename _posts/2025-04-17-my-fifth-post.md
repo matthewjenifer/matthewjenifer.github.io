@@ -40,7 +40,7 @@ tags:
 <h4>The <em>FOLLOW ME</em> part had a dual meaning:</h4>
 <br>
 
-<p>..in one sense, my messiah complex was peeking through. I'd recently heard the call to follow Christ being interpreted by early adherents as an invitation to die. I kinda dug that. I also hoped whoever heard the project would stick around for whatever I recorded beyond this release, en route to what would one day be my inevitable death. Hence the title. It didn’t hurt that it had a haunting effect either -one reminiscent of Pac and Big. The 7 Day Theory was deep in rotation at the time. As was Ready to Die, among other classics.</p>
+<p>..in one sense, my messianic complex was peeking through. I'd recently heard the call to follow Christ being interpreted by early adherents as an invitation to die. I kinda dug that. I also hoped whoever heard the project would stick around for whatever I recorded beyond this release, en route to what would one day be my inevitable death. Hence the title. It didn’t hurt that it had a haunting effect either -one reminiscent of Pac and Big. The 7 Day Theory was deep in rotation at the time. As was Ready to Die, among other classics.</p>
 
 <br>
 <div style="text-align: center;">
