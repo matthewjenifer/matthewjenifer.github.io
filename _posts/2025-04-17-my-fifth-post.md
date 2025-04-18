@@ -79,7 +79,7 @@ tags:
 </p>
 
 <div style="position: relative; width: 100%; max-width: 100%; overflow: hidden; height: 0; padding-bottom: 56.25%;">
-  <iframe src="https://www.youtube.com/embed/c-oV327TXm0?si=mqR0aCeU7wm2weVJ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/c-oV327TXm0?si=mqR0aCeU7wm2weVJ?autoplay=1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <em>(New cover art courtesy of ChatGPT. Inspired by… take a wild guess.)</em>
