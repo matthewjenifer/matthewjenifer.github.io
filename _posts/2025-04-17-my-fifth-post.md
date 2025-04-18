@@ -36,7 +36,9 @@ tags:
 
 <p> The title of the album was <a href="https://i.ibb.co/PZkmqN73/fm2d.jpg" target="_blank"><b>"Follow Me to Die: Harmonic Distress Pt. 6"</b></a>. The “Part 6” was because it was my sixth attempt at what was originally going to be called <em>"Harmonic Distress"</em>. Up until that point, I had never made it as far as actually finishing the project. All I could muster were various iterations of cover art -whipped up between jotting rhymes in my stereotypical composition notebook and learning how to make beats.</p>
 
-<p> The <em>FOLLOW ME</em> part had a dual meaning: in one sense, my messiah complex was peeking through. I'd recently heard the call to follow Christ being interpreted by early adherents as an invitation to die. I kinda dug that. I also hoped whoever heard the project would stick around for whatever I recorded beyond this release, en route to what would one day be my inevitable death. Hence the title. It didn’t hurt that it had a haunting effect either -one reminiscent of Pac and Big. The 7 Day Theory was deep in rotation at the time. As was Ready to Die, among other classics.</p>
+<h4>The <em>FOLLOW ME</em> part had a dual meaning:</h4>
+
+<p>..in one sense, my messiah complex was peeking through. I'd recently heard the call to follow Christ being interpreted by early adherents as an invitation to die. I kinda dug that. I also hoped whoever heard the project would stick around for whatever I recorded beyond this release, en route to what would one day be my inevitable death. Hence the title. It didn’t hurt that it had a haunting effect either -one reminiscent of Pac and Big. The 7 Day Theory was deep in rotation at the time. As was Ready to Die, among other classics.</p>
 
 <br>
 <div style="text-align: center;">
