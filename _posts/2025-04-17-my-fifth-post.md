@@ -78,10 +78,13 @@ tags:
 <p>I remember multiple listeners at the time saying I sounded possessed. A few friends back home were palpably suspicious of my motives when they first heard it. Others said it sounded like I was fighting a demon- and maybe I was. Or maybe that was just Abrahamic paranoia on their part. But truthfully? I was the demon. And even though I couldn’t really face it then, in some deep way-I always knew. That’s exactly why I had to die.
 </p>
 
-<div style="position: relative; width: 100%; max-width: 100%; overflow: hidden; height: 0; padding-bottom: 56.25%;">
+<!-- <div style="position: relative; width: 100%; max-width: 100%; overflow: hidden; height: 0; padding-bottom: 56.25%;">
   <iframe src="https://www.youtube.com/embed/c-oV327TXm0?si=mqR0aCeU7wm2weVJ?autoplay=1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+</div> -->
+<div class="video-container">
+  <iframe width="100%" height="auto" src="https://www.youtube.com/embed/c-oV327TXm0?si=mqR0aCeU7wm2weVJ?autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+</div>
 <em>(New cover art courtesy of ChatGPT. Inspired by… take a wild guess.)</em>
 
 <p>As mentioned earlier, I never told anyone the true backstory, so I doubt the album made much sense even to those in that circle of friends. I went on to record seven more projects- eight, depending on how you count-but traces of that original concept (pain) were always in there. By 2011, I resurrected the execution motif. <a href="https://brownbuddha.bandcamp.com/track/fulfillingness-final-farewell-murder-the-myth" target="_blank"><b>Track 1</b></a> and the visual art around <a href="https://open.spotify.com/album/4yRJjirrU4ffwenkxy7Tah" target="_blank"><b>BWTPI3</b></a> form a symbolic bookend-if you know what to listen and look for-but that’s another breakdown for another day.
