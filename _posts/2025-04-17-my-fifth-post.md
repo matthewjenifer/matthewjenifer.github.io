@@ -62,7 +62,7 @@ tags:
 <h4>I didn’t listen.</h4>
 <br>
 
-<p> Behind the door was a scene that could make <a href="https://www.youtube.com/watch?v=WACkBTh0W6w" target="_blank"><b>Caligula</b></a> blush. I now realize this symbolized the many experiences I had during my high school years. After getting an eyeful, I stepped into the nearby bathroom and saw a slightly older version of myself stepping out of a shower. "Oh is that <em>your</em> girl?" he said before leaving to join the bacchanal. When I turned to looked in the mirror, my face was aged beyond recognition, like an elderly man. My teeth were crumbling like chalk and my hair fell from my head, sticking to my face like tar. There’s more I remember about that dream, as well as a few my ex was having at the time: bodies being weighed on scales like the one Anubis carries on the Day of Coming Forth ..but I’ll leave it there for now.
+<p> Behind the door was a scene that could make <a href="https://www.youtube.com/watch?v=WACkBTh0W6w" target="_blank"><b>Caligula</b></a> blush. I now realize this symbolized the many experiences I had during my high school years. After getting an eyeful, I stepped into the nearby bathroom and saw a slightly older version of myself stepping out of a shower. "Oh is that <em>your</em> girl?" he said before leaving to join the bacchanal. When I turned to look in the mirror, my face was aged beyond recognition, like an elderly man. My teeth were crumbling like chalk and my hair fell from my head, sticking to my face like tar. There’s more I remember about that dream, as well as a few my ex was having at the time: bodies being weighed on scales like the one Anubis carries on the Day of Coming Forth ..but I’ll leave it there for now.
 </p>
 
 <br>
