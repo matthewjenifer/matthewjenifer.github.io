@@ -42,18 +42,15 @@ tags:
 
 <p>..in one sense, my messianic complex was peeking through. I'd recently heard the call to follow Christ being interpreted by early adherents as an invitation to die. I kinda dug that. I also hoped whoever heard the project would stick around for whatever I recorded beyond this release, en route to what would one day be my inevitable death. Hence the title. It didn’t hurt that it had a haunting effect either - reminiscent of Pac and Big. The 7 Day Theory was deep in rotation at the time. As was Ready to Die, among other classics.</p>
 
-<br>
 <div style="text-align: center;">
 <img src="https://i.ibb.co/hJDmXRv8/11119777-732898020170007-8142953936133466584-o.jpg" width="75%" >
 </div>
-<br>
 
 <p> At the time, I was at Miles College in Alabama, during what should’ve been my freshman year. But I never went to class. I was too depressed-for multiple reasons, mainly because my high school sweetheart was sleeping with my best friend-the other half of what could’ve been a Brick City version of OutKast. Before this came to pass, we were kinda like <a href="https://www.youtube.com/watch?v=3cxv-nkecxk" target="_blank"><b>Ken and Ryu</b></a>. And when they weren’t fucking each other or taking drugs, they’d call me for advice on their complex affair. After all, I knew both of them better than they knew each other. At the time, I thought being a good friend (not to mention a forgiving Christian) meant being a good listener. I’d given them both the green light to hang out anyway. And I knew she would fuck. Him too, for that matter.</p>
 
 <div style="text-align: center;">
 <img src="https://i.ibb.co/hFq0f3Gz/Chat-GPT-Image-Apr-17-2025-02-41-31-PM.png" width="75%" >
 </div>
-<br>
 
 <p> So there I was, a million miles away, taking blunts to the face when I wasn’t writing and drinking MD 20/20. Back then I used to dip my blunts in Robitussin and dry them on the radiator, looking for an edge to my high. My dreams were often black and white, with occasional bursts of red- <a href="https://www.youtube.com/watch?v=5wCUlPNlQuA" target="_blank"><b>like something out of a Rolling Stones tune</b></a>. One dream had a gigantic dog and a frightened child. Another had a fancy restaurant with a label rep playing me a disturbing music video (<em>track 8</em>). The weirdest one? A house with a man by the doorway who told me I’d make a great boxer one day as I entered (<em>track 6</em>). Inside were three shirtless boys in red shorts with no faces. A little girl ran up to me and hugged my legs, begging me not to open the door with the red “E” on it.
 </p>
@@ -65,11 +62,9 @@ tags:
 <p> Behind the door was a scene that could make <a href="https://www.youtube.com/watch?v=WACkBTh0W6w" target="_blank"><b>Caligula</b></a> blush. I now realize this symbolized the many experiences I had during my high school years. After getting an eyeful, I stepped into the nearby bathroom and saw a slightly older version of myself stepping out of a shower. "Oh is that <em>your</em> girl?" he said before leaving to join the bacchanal. When I turned to look in the mirror, my face was aged beyond recognition, like an elderly man. My teeth were crumbling like chalk and my hair fell from my head, sticking to my face like tar. There’s more I remember about that dream, as well as a few my ex was having at the time: bodies being weighed on scales like the one Anubis carries on the Day of Coming Forth ..but I’ll leave it there for now.
 </p>
 
-<br>
 <div style="text-align: center;">
 <img src="https://i.ibb.co/cSzK0gkz/Chat-GPT-Image-Apr-17-2025-02-16-14-PM.png" width="75%" >
 </div>
-<br>
 
 <p> When I listen to this project, I can still feel the tension in my bones as I made the beats and recorded my rhymes. Weed smoke amplified things into a sort of quasi-suicidal ideation (<em>track 3</em>)-one born of repressed rage, juvenile ego, and latent fantasies of revenge. I listened to the album over and over before deciding to add and remove a lot from the original concept. The first tracklist played like I was planning to murder my friends. What ultimately resulted after numerous redactions was a muddled storyline about killing myself off before I ever got the chance to <a href="https://www.youtube.com/shorts/Ou6SQogIMyY" target="_blank"><b>kill my homeboy</b></a>-or provoke him to murder me. The ad-libs in the background reflected voices I would admittedly hallucinate at the time (<em>track 7</em>), even when I wasn't high. Arguments from down the hall that aren’t too dissimilar from... you know what... forget that part. I just needed it to sound as crowded as my thoughts were, so the headphone bleed and sound overlap was heavy.
 </p>
