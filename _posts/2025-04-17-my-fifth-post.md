@@ -11,6 +11,7 @@ categories:
   - Music Production
 tags:
   - Memoir
+  - Self Betrayal
   - Creative Process
   - Concept Album
   - Unreleased Music
