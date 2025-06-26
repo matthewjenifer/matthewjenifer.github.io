@@ -37,6 +37,12 @@ tags:
 
 <p>Since I knew I wasn't going to get much rest Tuesday morning, I decided to tackle the issue again. I'd already found success with <a href="https://github.com/mikhailsoldatkin/maschine_chords_converter" target="_blank">an executable going around online</a> (you create a bunch of folders, export MIDI files one by one on your device or MIDI plugin, drop the exe file in the folder hierarchy, run the exe file, command line opens and THEN you have your JSON files), but after all the steps involved it still required tweaking. Admittedly, it was less work than the advised note-by-note process on the device, but the chords were sometimes out of order and the octaves were all over the place. And I personally know more than a few users who would rather switch to Akai than open up an IDE editor (or learn how to use one).</p>
 
+<br>
+<div style="text-align: center;">
+<img src="https://i.ibb.co/TMvzJp6Z/disk-thumb.png">
+</div>
+<br>
+
 <h4>Doing the Work Because You Shouldn't Have To</h4>
 
 <p>Maschine isn’t interested in your “Dmin9” or “F#sus4” chord ideas unless you feed it exactly what it understands. Like any machine, really—but in the case of version 3.1's User Chord feature, it specifically wants a set of MIDI note objects contained in one of 12 JSON files.</p>
@@ -83,7 +89,7 @@ I thought mapping chords to MIDI numbers would be copy-paste simple when I first
 People often write “C#min7” or “Dbm7” or “c   maj7” with typos, weird spacing, whatever. My work on my last web app taught me that, if you don’t approach this right, most apps just spit out errors or ignore you. I wanted this one to work seamlessly. The target user barely has time to select each chord pad by pad, so who wants to fiddle with a web app that doesn't understand your chord shorthand? I leveraged my newfound prompting skills to build preemptive guardrails in the code and sanity-checked the process with ChatGPT before my brain had time to get fried on a single logic error.</li>
 <br>
 <div style="text-align: center;">
-<img src="https://i.ibb.co/TMvzJp6Z/disk-thumb.png">
+<img src="https://i.ibb.co/N6Q2CCGY/reddit.png">
 </div>
 <br>
 
