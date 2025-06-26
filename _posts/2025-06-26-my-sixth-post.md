@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I Built My Second Web App in 48 Hours
+title: I Built My Second Theory Tool in 48 Hours
 subtitle: Why a Sleep-Deprived Producer Built a Web App No One Asked For
 image: ../images/user-chord-generator.png
 date: 2025-06-26
@@ -24,7 +24,7 @@ tags:
 <link rel="stylesheet" type="text/css" href="./_css/styles.css">
 
 
-<em>I wasn’t planning to build a web app these past two days, but I couldn't sleep. If you’ve ever tried loading custom chords into Native Instruments Maschine, you already know it sucks. The process is slow and just tedious enough to make you put off engaging with the new feature. But even if you haven’t, take my word for it. Better yet, watch this short video.</em>
+<em>I wasn’t planning to build another web app these past two days, but I couldn't sleep. If you’ve ever tried loading custom chords into Native Instruments Maschine, you already know it sucks. The process is slow and just tedious enough to make you put off engaging with the new feature. But even if you haven’t, take my word for it. Better yet, watch this short video.</em>
 
 <div style="position: relative; width: 100%; max-width: 100%; overflow: hidden; height: 0; padding-bottom: 56.25%;">
   <iframe src="https://www.youtube.com/embed/er8DLKgfzX0"
@@ -41,6 +41,26 @@ tags:
 
 <p>Maschine isn’t interested in your “Dmin9” or “F#sus4” chord ideas unless you feed it exactly what it understands. Like any machine, really—but in the case of version 3.1's User Chord feature, it specifically wants a set of MIDI note objects contained in one of 12 JSON files. A unique feature of Native Instruments products is that they program middle C as C3, not the standard C4 many DAWs use. So if your mapping assumes C4, everything ends up an octave off. This may seem minuscule at first, but that difference of 8 is crucial when trying to write scripts that can predict what future users actually want to hear:</p>
 
+<p> Ultimately we're talking about the difference between this: </p> 
+
+```javascript
+{
+    "name": "Ama7",
+    "notes": [-15, 1, 4, 8]
+}
+
+```
+
+<p> ..and this: </p> 
+
+```javascript
+{
+    "name": "Ama7",
+    "notes": [0, 1, 3, 7]
+}
+
+```
+
 <h4>What Always Tripped Me Up</h4>
 
 <ol>
@@ -50,10 +70,15 @@ I thought mapping chords to MIDI numbers would be copy-paste simple when I first
 <li><b>Letting Users Be Human.</b><br>
 People often write “C#min7” or “Dbm7” or “c   maj7” with typos, weird spacing, whatever. My work on my last web app taught me that, if you don’t approach this right, most apps just spit out errors or ignore you. I wanted this one to work seamlessly. The target user barely has time to select each chord pad by pad, so who wants to fiddle with a web app that doesn't understand your chord shorthand? I leveraged my newfound prompting skills to build preemptive guardrails in the code and sanity-checked the process with ChatGPT before my brain had time to get fried on a single logic error.</li>
 
-<li><b>Letting It Be "Ugly."</b><br>
+<div style="text-align: center;">
+<img src="https://i.ibb.co/9Hnt0cH3/whoup.png">
+</div>
+<br>
+
+<li><b>Day 2 – Letting It Be "Ugly."</b><br>
 I enjoy UI a bit, but I didn’t really have time to nitpick CSS shading and general layout at the start. Tailwind CSS to the rescue. I copied what worked from open source sites, adjusted as needed, and checked it on my phone around 2am. The result not only looked fine—it worked pretty well. I figured I'd finally get some rest and clock back in the following day to tweak as I went along.</li>
 
-<li><b>Day 2 – Hosting and Hiccups.</b><br>
+<li><b> Hosting and Hiccups.</b><br>
 Deployment is usually the “fun” part—if your idea of fun is being trolled by cache errors. Thankfully, Vercel handled most of it, but I still had to search forums to fix asset paths. Once I got my bearings, the process was as painless as I remembered, and I was live and running in no time. Well, kinda.</li>
 
 <li><b>Git Drama.</b><br>
@@ -79,8 +104,6 @@ I made all the classic mistakes. Tried to push, got rejected. Pulled, made it wo
 
 <p>I could see why someone might say that. But for me, it was only half about that. Whether it’s chopping a sample or picking apart the software we chop samples on, it’s all problem-solving to me. I imagine it’s easy to look at a simple app like this and think, “what's the big deal?” But if you’re someone who needed this solution, and it now exists, it's more than big enough. Before it was even fully deployed, someone on Reddit actually offered to pay for this solution, but I'd already planned for it to be free. (Actually, I'm hoping to use it as a lead generator, but even if I don’t get a bite on that hook, there's a tip jar link if anyone wants to buy me coffee.) This is just how problems get solved: not by waiting for the solution to show up, but by giving yourself permission to show up—and to tinker until something works. Which I'm happy to say I did.</p>
 
-<p>As for the debate on Suno, Timbaland, and yadda yadda yadda... If you ask me, using LLMs and Generative AI is just part of the toolkit now. It always depends on who's using it, and I say don’t let anybody make you feel weird about it.</p>
-
 <h4>So... Next?</h4>
 
 <p>Well, I don’t have any grand plans for this browser app beyond what it already does, honestly. If enough people use it, I’ll add features: more chord type functionality, maybe a way to see chords on a piano, or change voicing. That might make for a fun personal puzzle. This is my first successful implementation of Tone.js actually, so I'm pretty happy with that for now. It all makes so much more sense to me than I remember it making at first. I may drop the link a few places online and see who engages. Take it from there.</p>
@@ -88,6 +111,8 @@ I made all the classic mistakes. Tried to push, got rejected. Pulled, made it wo
 <h4>Final Thoughts</h4>
 
 <p>If anything in your workflow feels like self-torture, maybe there's a way to build your own way out. I'm not ashamed to say I'm proud of myself every time I do that. And it's always easier than waiting for someone else. More fun too, if you ask me.</p>
+
+<p>As for the debate on Suno, Timbaland, and yadda yadda yadda... If you ask me, using LLMs and Generative AI is just part of the toolkit now. It always depends on who's using it, and I say don’t let anybody make you feel weird about it.</p>
 
 <p>Here are some tags for this post:</p>
 <ul>
