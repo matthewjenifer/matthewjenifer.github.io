@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I Built a User Chord Generator in 48 Hours
+title: I Built My Second Web App in 48 Hours
 subtitle: Why a Sleep-Deprived Producer Built a Web App No One Asked For
 image: ../images/user-chord-generator.png
 date: 2025-06-26
