@@ -27,10 +27,13 @@ tags:
 
 <em>I wasn’t planning to build a web app these past two days, but I couldn't sleep. If you’ve ever tried loading custom chords into Native Instruments Maschine, you already know it sucks. The process is slow and just tedious enough to make you put off engaging with the new feature. But even if you haven’t, take my word for it. Better yet, watch this short video.</em>
 
-<div class="video-container">
-  <iframe width="100%" height="auto" src="https://www.youtube.com/shorts/er8DLKgfzX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<div style="position: relative; width: 100%; max-width: 100%; overflow: hidden; height: 0; padding-bottom: 56.25%;">
+  <iframe src="https://www.youtube.com/embed/er8DLKgfzX0"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
 </div>
+
 <br>
 
 <p>Since I knew I wasn't going to get much rest that night, I decided to tackle the issue again. I'd already found success with an executable going around online (you create a bunch of folders, export MIDI files one by one on your device or MIDI plugin, drop the exe file in the folder hierarchy, run the exe file, command line opens and THEN you have your JSON files), but after all the steps involved it still required tweaking. Admittedly, it was less work than the advised note-by-note process on the device, but the chords were sometimes out of order and the octaves were all over the place. And I personally know more than a few users who would rather switch to Akai than open up an IDE editor (or learn how to use one).</p>
