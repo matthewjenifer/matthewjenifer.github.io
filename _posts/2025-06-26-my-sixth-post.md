@@ -27,8 +27,9 @@ tags:
 
 <em>I wasn’t planning to build a web app these past two days, but I couldn't sleep. If you’ve ever tried loading custom chords into Native Instruments Maschine, you already know it sucks. The process is slow and just tedious enough to make you put off engaging with the new feature. But even if you haven’t, take my word for it. Better yet, watch this short video.</em>
 
-<div style="text-align: center;">
-[youtube link]
+<div class="video-container">
+  <iframe width="100%" height="auto" src="https://www.youtube.com/shorts/er8DLKgfzX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 </div>
 <br>
 
