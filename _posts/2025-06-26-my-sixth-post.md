@@ -89,7 +89,7 @@ I thought mapping chords to MIDI numbers would be copy-paste simple when I first
 People often write “C#min7” or “Dbm7” or “c   maj7” with typos, weird spacing, whatever. My work on my last web app taught me that, if you don’t approach this right, most apps just spit out errors or ignore you. I wanted this one to work seamlessly. The target user barely has time to select each chord pad by pad, so who wants to fiddle with a web app that doesn't understand your chord shorthand? I leveraged my newfound prompting skills to build preemptive guardrails in the code and sanity-checked the process with ChatGPT before my brain had time to get fried on a single logic error.</li>
 <br>
 <div style="text-align: center;">
-<img src="https://i.ibb.co/N6Q2CCGY/reddit.png">
+<img src="https://ibb.co/N6Q2CCGY">
 </div>
 <br>
 
