@@ -35,11 +35,13 @@ tags:
 
 <br>
 
-<p>Since I knew I wasn't going to get much rest Tuesday morning, I decided to tackle the issue again. I'd already found success with an executable going around online (you create a bunch of folders, export MIDI files one by one on your device or MIDI plugin, drop the exe file in the folder hierarchy, run the exe file, command line opens and THEN you have your JSON files), but after all the steps involved it still required tweaking. Admittedly, it was less work than the advised note-by-note process on the device, but the chords were sometimes out of order and the octaves were all over the place. And I personally know more than a few users who would rather switch to Akai than open up an IDE editor (or learn how to use one).</p>
+<p>Since I knew I wasn't going to get much rest Tuesday morning, I decided to tackle the issue again. I'd already found success with <a href="https://github.com/mikhailsoldatkin/maschine_chords_converter" target="_blank">an executable going around online</a> (you create a bunch of folders, export MIDI files one by one on your device or MIDI plugin, drop the exe file in the folder hierarchy, run the exe file, command line opens and THEN you have your JSON files), but after all the steps involved it still required tweaking. Admittedly, it was less work than the advised note-by-note process on the device, but the chords were sometimes out of order and the octaves were all over the place. And I personally know more than a few users who would rather switch to Akai than open up an IDE editor (or learn how to use one).</p>
 
 <h4>Doing the Work Because You Shouldn't Have To</h4>
 
-<p>Maschine isn’t interested in your “Dmin9” or “F#sus4” chord ideas unless you feed it exactly what it understands. Like any machine, really—but in the case of version 3.1's User Chord feature, it specifically wants a set of MIDI note objects contained in one of 12 JSON files. A unique feature of Native Instruments products is that they program middle C as C3, not the standard C4 many DAWs use. So if your mapping assumes C4, everything ends up an octave off. This may seem minuscule at first, but that difference of 8 is crucial when trying to write scripts that can predict what future users actually want to hear:</p>
+<p>Maschine isn’t interested in your “Dmin9” or “F#sus4” chord ideas unless you feed it exactly what it understands. Like any machine, really—but in the case of version 3.1's User Chord feature, it specifically wants a set of MIDI note objects contained in one of 12 JSON files.</p>
+
+<p> A unique feature of Native Instruments products is that they program middle C as C3, not the standard C4 many DAWs use. So if your mapping assumes C4, everything ends up an octave off. This may seem minuscule at first, but that difference of 8 is crucial when trying to write scripts that can predict what future users actually want to hear:</p>
 
 <p> Ultimately we're talking about the difference between this: </p> 
 
