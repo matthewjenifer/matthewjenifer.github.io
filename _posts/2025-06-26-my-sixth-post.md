@@ -46,20 +46,30 @@ tags:
 <p> Ultimately we're talking about the difference between this: </p> 
 
 ```javascript
-{
-    "name": "Ama7",
-    "notes": [-15, 1, 4, 8]
-}
+        {
+            "name": "Ama7",
+            "notes": [
+                -15,
+                1,
+                4,
+                8
+            ]
+        }
 
 ```
 
 <p> ..and this: </p> 
 
 ```javascript
-{
-    "name": "Ama7",
-    "notes": [0, 1, 3, 7]
-}
+    {
+      "name": "Ama7",
+      "notes": [
+        -3,
+        13,
+        16,
+        20
+      ]
+    }
 
 ```
 
