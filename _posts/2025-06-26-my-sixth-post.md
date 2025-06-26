@@ -23,7 +23,6 @@ tags:
 
 <link rel="stylesheet" type="text/css" href="./_css/styles.css">
 
-<h2>I Built a User Chord Generator in 48 Hours</h2>
 
 <em>I wasn’t planning to build a web app these past two days, but I couldn't sleep. If you’ve ever tried loading custom chords into Native Instruments Maschine, you already know it sucks. The process is slow and just tedious enough to make you put off engaging with the new feature. But even if you haven’t, take my word for it. Better yet, watch this short video.</em>
 
@@ -36,7 +35,7 @@ tags:
 
 <br>
 
-<p>Since I knew I wasn't going to get much rest that night, I decided to tackle the issue again. I'd already found success with an executable going around online (you create a bunch of folders, export MIDI files one by one on your device or MIDI plugin, drop the exe file in the folder hierarchy, run the exe file, command line opens and THEN you have your JSON files), but after all the steps involved it still required tweaking. Admittedly, it was less work than the advised note-by-note process on the device, but the chords were sometimes out of order and the octaves were all over the place. And I personally know more than a few users who would rather switch to Akai than open up an IDE editor (or learn how to use one).</p>
+<p>Since I knew I wasn't going to get much rest Tuesday morning, I decided to tackle the issue again. I'd already found success with an executable going around online (you create a bunch of folders, export MIDI files one by one on your device or MIDI plugin, drop the exe file in the folder hierarchy, run the exe file, command line opens and THEN you have your JSON files), but after all the steps involved it still required tweaking. Admittedly, it was less work than the advised note-by-note process on the device, but the chords were sometimes out of order and the octaves were all over the place. And I personally know more than a few users who would rather switch to Akai than open up an IDE editor (or learn how to use one).</p>
 
 <h4>Doing the Work Because You Shouldn't Have To</h4>
 
