@@ -2,7 +2,7 @@
 layout: post
 title: I Built My Second Theory Tool in 48 Hours
 subtitle: Why a Sleep-Deprived Producer Built a Web App No One Asked For
-image: ../images/user-chord-generator.png
+image: ../images/disk thumb.png
 date: 2025-06-26
 last_modified_at: 2025-06-26
 author: M. Jenifer
