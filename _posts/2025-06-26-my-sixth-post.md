@@ -105,7 +105,7 @@ I made all the classic mistakes. Tried to push, got rejected. Pulled, made it wo
 
 <h4>Yes, I Used AI and LLMs (Get Over It)</h4>
 
-<p>When I pan out and look at this process—from day one at the bootcamp until now—I realize the first hurdle I faced (faster this second time) was with mapping my chord sets before gaining clarity on the C3/C4 issue. Enter DeepSite—an open source LLM playground that, to be honest, did most of the heavy lifting for this single page project, even if the direction and idea was all mine. Before I got into coding I would've thought this made me less of a “real” coder, but therein lies the beauty of what I now understand: for more senior devs, using new tools is half the job. Seventy percent of code is borrowed anyway.</p>
+<p>There's a bit of a debate going on at the moment. Famed beatmaker Timbaland has caught the ire of many un and comers for his embrace and endorsement of generative music and "AI" use in the production realm. But when I pan out and look at this process—from day one at the bootcamp until now—I realize the first hurdle I faced (faster this second time) was with mapping my chord sets before gaining clarity on the C3/C4 issue. Enter DeepSite—an open source LLM playground that, to be honest, did most of the heavy lifting for this single page project, even if the direction and idea was all mine. Before I got into coding I would've thought this made me less of a “real” coder, but therein lies the beauty of what I now understand: for more senior devs, using new tools is half the job. Seventy percent of code is borrowed anyway.</p>
 
 <h4>The Stack (If You Care)</h4>
 
