@@ -59,7 +59,7 @@ tags:
 
 <h4>I Did the Work Because You Shouldn't Have To</h4>
 <br>
-<p>Maschine isn’t interested in your “Dmin9” or “F#sus4” fantasies unless you feed it exactly what it understands. Like any machine it deals in numbers, but in the case of version 3.1's User Chord feature, it specifically needs a set of MIDI note objects contained in one of 12 JSON files.</p>
+<p>Maschine isn’t interested in your “Dmin9” or “F#sus4” fantasies unless you feed it exactly what it understands. Like any machine it deals in numbers, but in the case of version 3.1's User Chord feature, it specifically needs a set of <a href="https://en.wikipedia.org/wiki/MIDI" target="_blank">MIDI</a> note objects contained in one of 12 JSON files.</p>
 
 <p> A unique feature of Native Instruments products is that they program middle C as C3, not the standard C4 many DAWs use. So if your mapping assumes C4, everything ends up an octave off. This may seem minuscule at first, but that difference of 8 is crucial when trying to write scripts that can predict what your ideal user actually wants to hear:</p>
 
