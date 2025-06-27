@@ -63,7 +63,25 @@ tags:
 
 <p> A unique feature of Native Instruments products is that they program middle C as C3, not the standard C4 many DAWs use. So if your mapping assumes C4, everything ends up an octave off. This may seem minuscule at first, but that difference of 8 is crucial when trying to write scripts that can predict what your ideal user actually wants to hear:</p>
 
-<p>If this all reads to you as mumbo jumbo - ultimately we're talking about the difference between this: </p> 
+```javascript
+// Root note to MIDI note value mapping (C3 = 48, A3 = 57, etc.)
+const rootNoteMap = {
+    'C': 0, 'C#': 1, 'Db': 1, 'D': 2, 'D#': 3, 'Eb': 3,
+    'E': 4, 'F': 5, 'F#': 6, 'Gb': 6, 'G': 7, 'G#': 8,
+    'Ab': 8, 'A': 9, 'A#': 10, 'Bb': 10, 'B': 11
+};
+
+// Function to parse chord name and return note values
+function parseChord(chordName) {
+    // ... omitted ...
+    // Get base MIDI note from root (C3 = 60)
+    const rootMidi = rootNoteMap[root] + 48; // Base octave is now C3 (MIDI 48-59)
+    // ... omitted ...
+}
+```
+<br>
+<p>If this all reads to you as mumbo jumbo - ultimately we're talking about the difference between producing this: </p> 
+<br>
 
 ```javascript
 {
@@ -108,7 +126,7 @@ tags:
 }
 
 ```
-
+<br>
 <h3>MIDI Note Hell.</h3>
 <br>
 <ol>
@@ -124,7 +142,37 @@ People often write “C#min7” or “Dbm7” or “c   maj7” with typos, weir
 <br>
 <br>
 <li><h4>Letting It Look "Ugly."</h4><br>
-I enjoy UI a bit, but I didn’t really have time to nitpick CSS shading and general layout at the start. Tailwind CSS to the rescue. I copied what worked from open source sites, adjusted as needed, and checked it on my phone around 4am. The result not only looked fine—it worked pretty well. I figured I'd finally get some rest and clock back in the following day to tweak as I went along.</li>
+I enjoy UI a bit, but I didn’t really have time to nitpick CSS shading and general layout at the start. Tailwind CSS to the rescue. </li>
+<br>
+  
+```javascript
+<body class="bg-gray-900 text-gray-100 min-h-screen">
+    <div class="container mx-auto px-4 py-8">
+
+        <header class="flex flex-col items-center mt-4">
+            <img src="..." 
+                class="mb-4 w-48 h-auto rounded-xl shadow-lg cursor-pointer">
+            <h1 class="text-4xl font-bold text-purple-400 mb-2">Maschine User Chord Set Generator V1</h1>
+            <p class="text-gray-400">Create your custom chord set JSON files with ease!</p>
+        </header>
+
+        <div class="max-w-4xl mx-auto mt-8 p-6 bg-gray-800 rounded-xl">
+            <h2 class="text-xl font-semibold text-purple-400 mb-4">Installation Path</h2>
+            <!-- ... -->
+        </div>
+
+        <div class="max-w-4xl mx-auto mt-8 p-6 bg-gray-800 rounded-xl">
+            <h2 class="text-xl font-semibold text-purple-400 mb-4">Supported Chord Types</h2>
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+                <!-- ... -->
+            </div>
+        </div>
+        <!-- ... -->
+    </div>
+</body>
+
+```
+ <em>I copied what worked from open source sites, adjusted as needed, and checked it on my phone around 4am. The result not only looked fine—it worked pretty well. I figured I'd finally get some rest and clock back in the following day to tweak as I went along.</em> 
 <br>
 <h3>Day 2</h3> 
 <br>
