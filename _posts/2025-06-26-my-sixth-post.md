@@ -97,7 +97,7 @@ tags:
 
 ```
 
-<h2>MIDI Note Hell.</h2>
+<h3>MIDI Note Hell.</h3>
 <br>
 <ol>
 <li><h4>What Used to Trip Me Up</h4><br>
@@ -114,7 +114,7 @@ People often write “C#min7” or “Dbm7” or “c   maj7” with typos, weir
 <li><h4>Letting It Look "Ugly."</h4><br>
 I enjoy UI a bit, but I didn’t really have time to nitpick CSS shading and general layout at the start. Tailwind CSS to the rescue. I copied what worked from open source sites, adjusted as needed, and checked it on my phone around 2am. The result not only looked fine—it worked pretty well. I figured I'd finally get some rest and clock back in the following day to tweak as I went along.</li>
 <br>
-<h2>Day 2</h2> 
+<h3>Day 2</h3> 
 <br>
 <li><h4> Hosting and Hiccups.</h4><br>
 Deployment is usually the “fun” part—if your idea of fun is being trolled by cache errors. Thankfully, Vercel handled most of it, but I still had to search forums to fix asset paths. Once I got my bearings, the process was as painless as I remembered, and <a href="https://github.com/matthewjenifer/customchordgenerator_v1" target="_blank">I was live and running in no time.</a> Well, kinda.</li>
