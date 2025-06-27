@@ -171,7 +171,6 @@ I enjoy UI a bit, but I didn’t really have time to nitpick CSS shading and gen
         <!-- ... -->
     </div>
 </body>
-
 ```
  
 
