@@ -148,7 +148,7 @@ I made all the classic mistakes. Tried to push, got rejected. Pulled, made it wo
 
 <br>
 <div style="text-align: center;">
-<img src="https://i.ibb.co/N2mDWCz6/redditreplies.png">
+<img src="https://i.ibb.co/DgHcNrb0/redditreplies2.png">
 </div>
 <br>
 
