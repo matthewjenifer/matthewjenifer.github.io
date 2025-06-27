@@ -193,7 +193,7 @@ I'll admit it. I made all the classic mistakes: Tried to push, got rejected. Pul
 
 <h2>Final Thoughts</h2>
 
-<p>If anything in your workflow ever feels like self-torture, maybe there's a path to build your own way out. I admittely feel most proud of myself whenever I do that. And it's always easier than waiting for someone else. More fun too, imo. As for the debate on <a href="https://www.youtube.com/shorts/kjdNshQ-i-E" target="_blank">Suno, Timbaland, and yadda yadda yadda</a>... If you ask me, using LLMs and Generative AI is just part of the toolkit now. It will always depends on who's using it, and I say don’t let anybody make you feel weird about it.</p>
+<p>If anything in your workflow ever feels like self-torture, maybe there's a path to build your own way out. I admittely feel most proud of myself whenever I do that. And it's always easier than waiting for someone else. More fun too, imo. As for the debate on <a href="https://www.youtube.com/shorts/kjdNshQ-i-E" target="_blank">Suno, Timbaland, and yadda yadda yadda</a>... If you ask me, using LLMs and Generative AI is just part of the toolkit now. It will always depends on the creativity of who's using it, and I say don’t let anybody make you feel weird about it.</p>
 
 <p>Here are some tags for this post:</p>
 <ul>
