@@ -134,6 +134,13 @@ I made all the classic mistakes. Tried to push, got rejected. Pulled, made it wo
 <li>StackOverflow, Native Instruments community forum, and of course ChatGPT.</li>
 </ul>
 
+<br>
+<div style="text-align: center;">
+<img src="https://i.ibb.co/0RPyRXyv/Screenshot-20250627-050208-Chat-GPT.jpg">
+</div>
+<br>
+<br>
+
 <h2>Isn't This Overkill for a Trivial Feature Update?</h2>
 
 <p>I could see why someone might say that. But for me, it was only half about that. Whether it’s chopping a sample or picking apart the software we chop samples on, it’s all problem-solving to me. I imagine it’s easy to look at a simple app like this and think, “what's the big deal?” But if you’re someone who needed this solution, and it now exists, it's more than big enough. Before it was even fully deployed, someone on Reddit actually offered to pay for this solution, but I'd already planned for it to be free. (Actually, I'm hoping to use it as a lead generator, but even if I don’t get a bite on that hook, there's a tip jar link if anyone wants to buy me coffee.) This is just how problems get solved: not by waiting for the solution to show up, but by giving yourself permission to show up—and to tinker until something works. Which I'm happy to say I did.</p>
