@@ -136,7 +136,7 @@ I made all the classic mistakes. Tried to push, got rejected. Pulled, made it wo
 
 <br>
 <div style="text-align: center;">
-<img src="https://i.ibb.co/0RPyRXyv/Screenshot-20250627-050208-Chat-GPT.jpg">
+<img src="https://i.ibb.co/9kRHkvHS/Screenshot-20250627-050208-Chat-GPT.jpg">
 </div>
 <br>
 <br>
