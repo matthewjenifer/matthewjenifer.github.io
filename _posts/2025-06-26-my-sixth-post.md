@@ -42,6 +42,7 @@ tags:
 <div style="text-align: center;">
 <a href="https://customchordgenerator-v1.vercel.app/" target="_blank"><img src="https://i.ibb.co/TMvzJp6Z/disk-thumb.png"></a>
 </div>
+<em>Notice anything strange about this image? AI is responsible for 50% of it. I used photopea to edit it a bit. Give it a floppy disk overlay, but the original version had a piano keyboard with no G# originally. And I wasn't having that. </em>
 <br>
 
 <h4>I Did the Work Because You Shouldn't Have To</h4>
