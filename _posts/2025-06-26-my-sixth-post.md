@@ -36,7 +36,13 @@ tags:
 <br>
 <p>So There's a bit of a debate going on at the moment. Famed beatmaker <a href="https://www.youtube.com/shorts/5Vwda2SR96Q" target="_blank">Timbaland</a> has caught the ire of many up and comers for his embrace and endorsement of generative music and "AI" use in the production realm. But when I pan out and look at my journey bootcamp up to the last few days—I realize the first hurdle I faced (faster this time around) was mapping my chord tools to Maschine before gaining clarity on the C3/C4 issue (more on that later).</p>
 
-<p>Enter DeepSite—an open source LLM playground that, to be honest, did most of the heavy lifting for this single page app I made, while I directed from the pilot's seat. Before I got into coding I would've thought this would make me less of a “real” coder, but therein lies the beauty of what I now understand: for more senior devs, using new tools is half the job. 70% of code is borrowed anyway.</p>
+<br>
+<div style="text-align: center;">
+<img src="https://i.ibb.co/mrXS4h1K/e0768043-f16d-5667-a3cd-c51a212d68ac-removebg-preview.png">
+</div>
+<br>
+
+<p>Enter DeepSeek—an open source LLM playground that, to be honest, did most of the heavy lifting for this single page app I made, while I directed from the pilot's seat. Before I got into coding I would've thought this would make me less of a “real” coder, but therein lies the beauty of what I now understand: for more senior devs, using new tools is half the job. 70% of code is borrowed anyway.</p>
 
 <p>Since I knew I wasn't going to get much rest Tuesday morning, I decided to tackle a familiar issue again. I'd already found success with <a href="https://github.com/mikhailsoldatkin/maschine_chords_converter" target="_blank">an executable going around online</a> (you create a bunch of folders, export MIDI files one by one on your device or MIDI plugin, drop the exe file in the folder hierarchy, run the exe file, command line opens and THEN you have your JSON files), but after all the steps involved it still required tweaking. Admittedly, it was less work than the advised note-by-note process, but the chords were sometimes out of order and the octaves were all over the place. And I personally know more than a few users who would rather switch to Akai than open up an IDE editor (or learn how to use one). So..</p>
 
@@ -109,7 +115,7 @@ I thought mapping chords to MIDI numbers would be copy-paste simple when I first
 People often write “C#min7” or “Dbm7” or “c   maj7” with typos, weird spacing, whatever. My work on my last web app taught me: if you don’t approach this right, most apps just spit out errors or ignore you. I wanted this one to work seamlessly. The target user barely has time to select each chord pad by pad, so who wants to fiddle with a web app that doesn't understand your chord shorthand? I leveraged my newfound prompting skills to both build preemptive guardrails into the code and sanity-check the process with ChatGPT before my brain could have time to get fried on a single logic error.</li>
 <br>
 <div style="text-align: center;">
-<img src="https://i.ibb.co/xSPqLLr5/reddit.png">
+<img src="https://i.ibb.co/pjqDc7W2/who-up.png">
 </div>
 <br>
 <br>
@@ -135,7 +141,7 @@ I made all the classic mistakes. Tried to push, got rejected. Pulled, made it wo
 
 <h3>The Stack (If You Care)</h3>
 <ul>
-<li>DeepSite for AI-assisted sanity checks and batch boilerplate work.</li>
+<li>DeepSeek for AI-assisted sanity checks and batch boilerplate work.</li>
 <li>Tailwind CSS for not having to think about pixels.</li>
 <li>StackOverflow, Native Instruments community forum, and of course ChatGPT.</li>
 <li>Tone.js so users could hear chords before exporting them.</li>
