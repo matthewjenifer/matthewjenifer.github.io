@@ -145,6 +145,12 @@ I made all the classic mistakes. Tried to push, got rejected. Pulled, made it wo
 
 <p>I could see why someone might say that. But for me, it was only half about that. Whether it’s chopping a sample or picking apart the software we chop samples on, it’s all problem-solving to me. I imagine it’s easy to look at a simple app like this and think, “what's the big deal?” But if you’re someone who needed this solution, and it now exists, it's more than big enough. Before it was even fully deployed, someone on Reddit actually offered to pay for this solution, but I'd already planned for it to be free. (Actually, I'm hoping to use it as a lead generator, but even if I don’t get a bite on that hook, there's a tip jar link if anyone wants to buy me coffee.) This is just how problems get solved: not by waiting for the solution to show up, but by giving yourself permission to show up—and to tinker until something works. Which I'm happy to say I did.</p>
 
+<br>
+<div style="text-align: center;">
+<img src="https://i.ibb.co/N2mDWCz6/redditreplies.png">
+</div>
+<br>
+
 <h3>So... Next?</h3>
 
 <p>Well, I don’t have any grand plans for this browser app beyond what it already does, honestly. If enough people use it, I’ll add features: more chord type functionality, maybe a way to see chords on a piano, or change voicing. That might make for a fun personal puzzle. This is my first successful implementation of Tone.js actually, so I'm pretty happy with that for now. It all makes so much more sense to me than I remember it making at first. I may drop the link a few places online and see who engages. Take it from there.</p>
