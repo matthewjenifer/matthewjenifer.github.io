@@ -34,7 +34,7 @@ tags:
 </div>
 
 <br>
-<p>So There's a bit of a debate going on at the moment. Famed beatmaker <a href="https://www.youtube.com/shorts/5Vwda2SR96Q" target="_blank">Timbaland</a> has caught the ire of many up and comers for his embrace and endorsement of generative music and "AI" use in the production realm. But when I pan out and look at my journey bootcamp up to the last few days—I realize the first hurdle I faced (faster this time around) was mapping my chord tools to Maschine before gaining clarity on the C3/C4 issue (more on that later).</p>
+<p>So There's a bit of a debate going on at the moment. Famed beatmaker <a href="https://afrotech.com/timbaland-signs-ai-generated-artist" target="_blank">Timbaland has caught the ire of many up and comers</a> for his embrace and endorsement of generative music and "AI" use in the production realm. But when I pan out and look at my journey from bootcamp up to the last few days - I realize the first hurdle I faced (faster this time around) was mapping my code to Maschine's logic before gaining clarity on the true location of middle C (more on that later).</p>
 
 <br>
 <div style="text-align: center;">
@@ -42,9 +42,13 @@ tags:
 </div>
 <br>
 
-<p>Enter DeepSeek—an open source LLM playground that, to be honest, did most of the heavy lifting for this single page app I made, while I directed from the pilot's seat. Before I got into coding I would've thought this would make me less of a “real” coder, but therein lies the beauty of what I now understand: for more senior devs, using new tools is half the job. 70% of code is borrowed anyway.Since I knew I wasn't going to get much rest Tuesday morning, I decided to tackle a familiar issue again. I'd already found success with <a href="https://github.com/mikhailsoldatkin/maschine_chords_converter" target="_blank">an executable going around online</a> (you create a bunch of folders, export MIDI files one by one on your device or MIDI plugin, drop the exe file in the folder hierarchy, run the exe file, command line opens and THEN you have your JSON files), but after all the steps involved it still required tweaking.</p>
+<p>Enter DeepSeek—an open source LLM playground that, to be honest, did most of the heavy lifting for this single page app, while I directed from the pilot's seat. Before I got into coding I would've thought this would make me less of a “real” coder, but therein lies the beauty of what I now understand: for more senior devs, using new tools is half the job.</p> 
+  
+<h6>70% of code is borrowed anyway.</h6>
 
-<p>Admittedly, it was less work than the advised note-by-note process, but the chords were sometimes out of order and the octaves were all over the place. And I personally know more than a few users who would rather switch to Akai than open up an IDE editor (or learn how to use one). So..</p>
+<p>Since I knew I wasn't going to get much rest Tuesday morning, I decided to tackle a familiar issue again. I'd already found success with <a href="https://github.com/mikhailsoldatkin/maschine_chords_converter" target="_blank">an executable going around online</a> (you create a bunch of folders, export MIDI files one by one via your device or MIDI plugin, drop the exe file in the folder hierarchy, run the exe file, command line opens and THEN you have your JSON files), but after all the steps involved it still required tweaking.</p>
+
+<p>Admittedly, this was less work than the advised note-by-note process, but the chords were sometimes out of order and the octaves were all over the place. Not to mention, I personally know more than a few users who would rather switch to Akai than open up an IDE editor (or learn how to use one). So..</p>
 
 <br>
 <div style="text-align: center;">
@@ -54,12 +58,12 @@ tags:
 <br>
 
 <h4>I Did the Work Because You Shouldn't Have To</h4>
-
+<br>
 <p>Maschine isn’t interested in your “Dmin9” or “F#sus4” fantasies unless you feed it exactly what it understands. Like any machine it deals in numbers, but in the case of version 3.1's User Chord feature, it specifically needs a set of MIDI note objects contained in one of 12 JSON files.</p>
 
-<p> A unique feature of Native Instruments products is that they program middle C as C3, not the standard C4 many DAWs use. So if your mapping assumes C4, everything ends up an octave off. This may seem minuscule at first, but that difference of 8 is crucial when trying to write scripts that can predict what future users actually want to hear:</p>
+<p> A unique feature of Native Instruments products is that they program middle C as C3, not the standard C4 many DAWs use. So if your mapping assumes C4, everything ends up an octave off. This may seem minuscule at first, but that difference of 8 is crucial when trying to write scripts that can predict what your ideal user actually wants to hear:</p>
 
-<p> Ultimately we're talking about the difference between this: </p> 
+<p>If this all reads to you as mumbo jumbo - ultimately we're talking about the difference between this: </p> 
 
 ```javascript
 {
@@ -109,10 +113,10 @@ tags:
 <br>
 <ol>
 <li><h4>What Used to Trip Me Up</h4><br>
-I thought mapping chords to MIDI numbers would be copy-paste simple when I first started down this path. Maschine uses its own unique mapping, the “documentation” is often just forum scraps, and few devs I know are as curious as I am about music theory-related problems. Ultimately I ended up studying my own test JSON files, analyzing what was numerically generated by the provided preset chord voicings, and cross-referencing my way to a conclusion. If you’ve ever done code archaeology with headphones on—or even made the type of lofi beats many coders listen to—you know the feeling. I built my own note map, broke it a few times, rebuilt it, tested again, broke it again. And then suddenly, it worked.</li>
+I thought mapping chords to MIDI numbers would be "copy-paste" simple when I first started down this path. Lo and behold, Maschine uses its own unique mapping, the “documentation” is often just forum scraps, and few devs I know are as curious as I am about music theory-related problems. Ultimately I ended up studying my own test JSON files (I didnt both with actual chords. Just random discordant notes), analyzing against what was numerically generated by the provided preset chord voicings, and cross-referencing my way to a conclusion. If you’ve ever done code archaeology with headphones on—or even made the type of lofi music coders listen to—you know the feeling. I built my own note map, broke it a few times, rebuilt it, tested again, broke it again. And then suddenly, it all gelled.</li>
 <br>
 <li><h4>Enlisting AI to let Users Be Human.</h4><br>
-People often write “C#min7” or “Dbm7” or “c   maj7” with typos, weird spacing, whatever. My work on my last web app taught me: if you don’t approach this right, most apps just spit out errors or ignore you. I wanted this one to work seamlessly. The target user barely has time to select each chord pad by pad, so who wants to fiddle with a web app that doesn't understand your chord shorthand? I leveraged my newfound prompting skills to both build preemptive guardrails into the code and sanity-check the process with ChatGPT before my brain could have time to get fried on a single logic error.</li>
+People often write “C#min7” or “Dbm7” or “c   maj7” with typos, weird spacing, or sometimes missing a whole letter. My work on my last web app taught me: if you don’t approach this right, your app will just spit out errors or ignore you. I needed this one to work seamlessly. The target user barely has time to select each chord pad by pad, so who wants to fiddle with a web app that doesn't understand your chord shorthand and appears not to work? I leveraged my prompting skills to both build preemptive guardrails into the code and sanity-check the process with ChatGPT before my brain could have time to get fried on a single logic error. I can't describe how happy I am I made that choice.</li>
 <br>
 <div style="text-align: center;">
 <img src="https://i.ibb.co/pjqDc7W2/who-up.png">
@@ -125,10 +129,10 @@ I enjoy UI a bit, but I didn’t really have time to nitpick CSS shading and gen
 <h3>Day 2</h3> 
 <br>
 <li><h4> Hosting and Hiccups.</h4><br>
-Deployment is usually the “fun” part—if your idea of fun is being trolled by cache errors. Thankfully, Vercel handled most of it, but I still had to search forums to fix asset paths. Once I got my bearings, the process was as painless as I remembered, and <a href="https://github.com/matthewjenifer/customchordgenerator_v1" target="_blank">I was live and running in no time.</a> Well, kinda.</li>
+Deployment is usually the “fun” part—if your idea of fun is being trolled by cache errors, and chasing your tail a few times. Thankfully, Vercel handled most of it, but I still had to search forums to fix asset paths, and retrace familiar steps. Once I got my bearings, the process was as painless as I remembered, and <a href="https://github.com/matthewjenifer/customchordgenerator_v1" target="_blank">I was live and running in no time.</a> Well, kinda.</li>
 <br>
 <li><h4>Git Drama.</h4><br>
-I made all the classic mistakes. Tried to push, got rejected. Pulled, made it worse. In the end, I just deleted everything and cloned fresh. If you ever feel stupid doing this, don’t—every developer does it and just doesn’t talk about it. Once again, anything I forgot, I knew between ChatGPT and Perplexity I could arrive at an answer quickly. The rest was muscle memory, and it made me reflect on how long things took my first week in bootcamp.</li>
+I'll admit it. I made all the classic mistakes: Tried to push, got rejected. Pulled, made it worse. In the end, I just deleted everything and cloned fresh. If you ever feel stupid for starting over? don’t—every developer does it and just doesn’t talk about it. Producer's too for that matter. Once again, anything I forgot, I knew between ChatGPT and Perplexity I could arrive at an answer quickly. The rest was muscle memory, and it made me reflect on how long things took my first week in bootcamp. And look at me now! </li>
 </ol>
 
 
@@ -141,18 +145,20 @@ I made all the classic mistakes. Tried to push, got rejected. Pulled, made it wo
 
 <h3>The Stack (If You Care)</h3>
 <ul>
-<li>DeepSeek for AI-assisted sanity checks and batch boilerplate work.</li>
+<li>DeepSeek for batch boilerplate work.</li>
 <li>Tailwind CSS for not having to think about pixels.</li>
-<li>StackOverflow, Native Instruments community forum, and of course ChatGPT.</li>
+<li>StackOverflow, Native Instruments community forum, and of course ChatGPT for AI-assisted sanity checks.</li>
 <li>Tone.js so users could hear chords before exporting them.</li>
 <li>VSCode</li>
 <li>Vercel for hosting, because it’s one click and done.</li>
 </ul>
 
 
-<h2>Isn't This Overkill for a Trivial Feature Update?</h2>
+<h2>Isn't This Overkill for Such a Trivial Feature Update?</h2>
 
-<p>I could see why someone might say that. But for me, it was only half about that. Whether it’s chopping a sample or picking apart the software we chop samples on, it’s all problem-solving to me. I imagine it’s easy to look at a simple app like this and think, “what's the big deal?” But if you’re someone who needed this solution, and it now exists, it's more than big enough. Before it was even fully deployed, someone on Reddit actually offered to pay for this solution, but I'd already planned for it to be free. (Actually, I'm hoping to use it as a lead generator, but even if I don’t get a bite on that hook, there's a tip jar link if anyone wants to buy me coffee.) This is just how problems get solved: not by waiting for the solution to show up, but by giving yourself permission to show up—and to tinker until something works. Which I'm happy to say I did.</p>
+<p>I could see why someone might say that. But for me, it was only half about that. Whether it’s chopping a sample or picking apart the software we chop on, it’s all problem-solving to me. I imagine it’s easy to look at a simple app like this and think, “what's the big deal?” But if you’re someone who needed this solution, and it now exists, it's more than big enough.</p>
+
+<p> Before it was even fully deployed, someone on Reddit offered to pay for this solution, but I'd already planned for it to be free. (Tbh it double as a lead generator as is, but even if I don’t get a sale from it, there's a tip jar link if anyone thinks this deserves coffee.) I just know I wanted to solve a problem: not by waiting for the solution to show up, but by giving myself permission to show up—and the freedom to tinker until something works.</p>
 
 <br>
 <div style="text-align: center;">
@@ -162,13 +168,11 @@ I made all the classic mistakes. Tried to push, got rejected. Pulled, made it wo
 
 <h3>So... Next?</h3>
 
-<p>Well, I don’t have any grand plans for this browser app beyond what it already does, honestly. If enough people use it, I’ll add features: more chord type functionality, maybe a way to see chords on a piano, or change voicing. That might make for a fun personal puzzle. This is my first successful implementation of Tone.js actually, so I'm pretty happy with that for now. It all makes so much more sense to me than I remember it making at first. I may drop the link a few places online and see who engages. Take it from there.</p>
+<p>Well, I don’t have any grand plans for this browser app beyond what it already does, honestly. It doesn't need too much more but if enough people use it, I’ll add features. More chord type functionality, maybe a way to see chords on a piano, or change voicing. That might make for a fun personal project. This is also my first successful implementation of <a href="https://tonejs.github.io/" target="_blank">Tone.js</a> by the way, so I'm pretty happy with that for now. It all makes so much more sense to me than I remember it making when I read the documentation years ago. I may drop the app link a few places online and see who engages. Take it from there.</p>
 
 <h2>Final Thoughts</h2>
 
-<p>If anything in your workflow feels like self-torture, maybe there's a way to build your own way out. I'm not ashamed to say I'm proud of myself every time I do that. And it's always easier than waiting for someone else. More fun too, if you ask me.</p>
-
-<p>As for the debate on Suno, Timbaland, and yadda yadda yadda... If you ask me, using LLMs and Generative AI is just part of the toolkit now. It always depends on who's using it, and I say don’t let anybody make you feel weird about it.</p>
+<p>If anything in your workflow ever feels like self-torture, maybe there's a path to build your own way out. I admittely feel most proud of myself whenever I do that. And it's always easier than waiting for someone else. More fun too, imo. As for the debate on <a href="https://www.youtube.com/shorts/kjdNshQ-i-E" target="_blank">Suno, Timbaland, and yadda yadda yadda</a>... If you ask me, using LLMs and Generative AI is just part of the toolkit now. It will always depends on who's using it, and I say don’t let anybody make you feel weird about it.</p>
 
 <p>Here are some tags for this post:</p>
 <ul>
