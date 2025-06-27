@@ -142,45 +142,15 @@ People often write “C#min7” or “Dbm7” or “c   maj7” with typos, weir
 <br>
 <br>
 <li><h4>Letting It Look "Ugly."</h4><br>
-I enjoy UI a bit, but I didn’t really have time to nitpick CSS shading and general layout at the start. Tailwind CSS to the rescue. I copied what worked from open source sites, adjusted as needed, and checked it on my phone around 4am. The result not only looked fine—it worked pretty well. I figured I'd finally get some rest and clock back in the following day to tweak as I went along.</li>
+I enjoy UI a bit, but I didn’t really have time to nitpick CSS shading and general layout at the start. <a href="https://github.com/matthewjenifer/customchordgenerator_v1" target="_blank">Tailwind CSS to the rescue</a>. I copied what worked from open source sites, adjusted as needed, and checked it on my phone around 4am. The result not only looked fine—it worked pretty well. I figured I'd finally get some rest and clock back in the following day to tweak as I went along.</li>
 
   <br>
   
-```javascript
 
-<body class="bg-gray-900 text-gray-100 min-h-screen">
-    <div class="container mx-auto px-4 py-8">
-
-        <header class="flex flex-col items-center mt-4">
-            <img src="..." 
-                class="mb-4 w-48 h-auto rounded-xl shadow-lg cursor-pointer">
-            <h1 class="text-4xl font-bold text-purple-400 mb-2">Maschine User Chord Set Generator V1</h1>
-            <p class="text-gray-400">Create your custom chord set JSON files with ease!</p>
-        </header>
-
-        <div class="max-w-4xl mx-auto mt-8 p-6 bg-gray-800 rounded-xl">
-            <h2 class="text-xl font-semibold text-purple-400 mb-4">Installation Path</h2>
-            <!-- ... -->
-        </div>
-
-        <div class="max-w-4xl mx-auto mt-8 p-6 bg-gray-800 rounded-xl">
-            <h2 class="text-xl font-semibold text-purple-400 mb-4">Supported Chord Types</h2>
-            <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
-                <!-- ... -->
-            </div>
-        </div>
-        <!-- ... -->
-    </div>
-</body>
-
-```
- 
-
-<br>
 <h3>Day 2</h3> 
 <br>
 <li><h4> Hosting and Hiccups.</h4><br>
-Deployment is usually the “fun” part—if your idea of fun is being trolled by cache errors, and chasing your tail a few times. Thankfully, Vercel handled most of it, but I still had to search forums to fix asset paths, and retrace familiar steps. Once I got my bearings, the process was as painless as I remembered, and <a href="https://github.com/matthewjenifer/customchordgenerator_v1" target="_blank">I was live and running in no time.</a> Well, kinda.</li>
+Deployment is usually the “fun” part—if your idea of fun is being trolled by cache errors, and chasing your tail a few times. Thankfully, Vercel handled most of it, but I still had to search forums to fix asset paths, and retrace familiar steps. Once I got my bearings, the process was as painless as I remembered, and <a href="https://customchordgenerator-v1.vercel.app/" target="_blank">I was live and running in no time.</a> Well, kinda.</li>
 <br>
 <li><h4>Git Drama.</h4><br>
 I'll admit it. I made all the classic mistakes: Tried to push, got rejected. Pulled, made it worse. In the end, I just deleted everything and cloned fresh. If you ever feel stupid for starting over? don’t—every developer does it and just doesn’t talk about it. Producer's too for that matter. Once again, anything I forgot, I knew between ChatGPT and Perplexity I could arrive at an answer quickly. The rest was muscle memory, and it made me reflect on how long things took my first week in bootcamp. And look at me now! </li>
