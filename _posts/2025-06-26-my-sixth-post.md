@@ -53,7 +53,7 @@ tags:
 <p> Ultimately we're talking about the difference between this: </p> 
 
 ```javascript
-        {
+{
   "chords": [
     {
       "name": "Amaj7",
