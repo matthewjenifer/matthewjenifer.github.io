@@ -147,6 +147,7 @@ I enjoy UI a bit, but I didn’t really have time to nitpick CSS shading and gen
   <br>
   
 ```javascript
+
 <body class="bg-gray-900 text-gray-100 min-h-screen">
     <div class="container mx-auto px-4 py-8">
 
@@ -171,6 +172,7 @@ I enjoy UI a bit, but I didn’t really have time to nitpick CSS shading and gen
         <!-- ... -->
     </div>
 </body>
+
 ```
  
 
