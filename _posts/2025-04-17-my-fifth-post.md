@@ -2,7 +2,7 @@
 layout: post
 title: Red.acted
 subtitle: My Beautifully Dank Paranoid Fantasy 
-image: ../images/__.PNG
+image: ../images/hereliessah.png
 date: 2025-04-17
 last_modified_at: 2025-04-17
 author: M. Jenifer
