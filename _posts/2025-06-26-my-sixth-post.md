@@ -38,7 +38,7 @@ tags:
 
 <br>
 <div style="text-align: center;">
-<img src="https://i.ibb.co/mrXS4h1K/e0768043-f16d-5667-a3cd-c51a212d68ac-removebg-preview.png">
+  <img src="https://i.ibb.co/mrXS4h1K/e0768043-f16d-5667-a3cd-c51a212d68ac-removebg-preview.png" width="100" height="100">
 </div>
 <br>
 
