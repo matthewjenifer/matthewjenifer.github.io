@@ -123,8 +123,15 @@ Deployment is usually the “fun” part—if your idea of fun is being trolled 
 I made all the classic mistakes. Tried to push, got rejected. Pulled, made it worse. In the end, I just deleted everything and cloned fresh. If you ever feel stupid doing this, don’t—every developer does it and just doesn’t talk about it. Once again, anything I forgot, I knew between ChatGPT and Perplexity I could arrive at an answer quickly. The rest was muscle memory, and it made me reflect on how long things took my first week in bootcamp.</li>
 </ol>
 
-<h3>The Stack (If You Care)</h3>
 
+<br>
+<div style="text-align: center;">
+<img src="https://i.ibb.co/9kRHkvHS/Screenshot-20250627-050208-Chat-GPT.jpg">
+</div>
+<br>
+<br>
+
+<h3>The Stack (If You Care)</h3>
 <ul>
 <li>Vercel for hosting, because it’s one click and done.</li>
 <li>Tailwind CSS for not having to think about pixels.</li>
@@ -134,12 +141,6 @@ I made all the classic mistakes. Tried to push, got rejected. Pulled, made it wo
 <li>StackOverflow, Native Instruments community forum, and of course ChatGPT.</li>
 </ul>
 
-<br>
-<div style="text-align: center;">
-<img src="https://i.ibb.co/9kRHkvHS/Screenshot-20250627-050208-Chat-GPT.jpg">
-</div>
-<br>
-<br>
 
 <h2>Isn't This Overkill for a Trivial Feature Update?</h2>
 
