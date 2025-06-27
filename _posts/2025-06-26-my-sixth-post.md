@@ -43,9 +43,9 @@ tags:
 <br>
 
 <p>Enter DeepSeek—an open source LLM playground that, to be honest, did most of the heavy lifting for this single page app, while I directed from the pilot's seat. Before I got into coding I would've thought this would make me less of a “real” coder, but therein lies the beauty of what I now understand: for more senior devs, using new tools is half the job.</p> 
-  
+  <br>
 <h6>70% of code is borrowed anyway.</h6>
-
+<br>
 <p>Since I knew I wasn't going to get much rest Tuesday morning, I decided to tackle a familiar issue again. I'd already found success with <a href="https://github.com/mikhailsoldatkin/maschine_chords_converter" target="_blank">an executable going around online</a> (you create a bunch of folders, export MIDI files one by one via your device or MIDI plugin, drop the exe file in the folder hierarchy, run the exe file, command line opens and THEN you have your JSON files), but after all the steps involved it still required tweaking.</p>
 
 <p>Admittedly, this was less work than the advised note-by-note process, but the chords were sometimes out of order and the octaves were all over the place. Not to mention, I personally know more than a few users who would rather switch to Akai than open up an IDE editor (or learn how to use one). So..</p>
