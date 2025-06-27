@@ -2,6 +2,7 @@
 layout: post
 title: Hello World
 subtitle: A Subtitle
+image: ../images/katebush.jpg
 date: 2023-04-28
 last_modified_at: 2023-04-29
 author: M. Jenifer
