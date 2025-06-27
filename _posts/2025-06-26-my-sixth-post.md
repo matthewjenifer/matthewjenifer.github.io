@@ -40,7 +40,7 @@ tags:
 
 <br>
 <div style="text-align: center;">
-<img src="https://i.ibb.co/TMvzJp6Z/disk-thumb.png">
+<a href="https://customchordgenerator-v1.vercel.app/" target="_blank"><img src="https://i.ibb.co/TMvzJp6Z/disk-thumb.png"></a>
 </div>
 <br>
 
