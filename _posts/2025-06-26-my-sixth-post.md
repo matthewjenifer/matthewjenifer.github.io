@@ -135,12 +135,12 @@ I made all the classic mistakes. Tried to push, got rejected. Pulled, made it wo
 
 <h3>The Stack (If You Care)</h3>
 <ul>
-<li>Vercel for hosting, because it’s one click and done.</li>
-<li>Tailwind CSS for not having to think about pixels.</li>
-<li>Tone.js so users could hear chords before exporting them.</li>
 <li>DeepSite for AI-assisted sanity checks and batch boilerplate work.</li>
-<li>VSCode</li>
+<li>Tailwind CSS for not having to think about pixels.</li>
 <li>StackOverflow, Native Instruments community forum, and of course ChatGPT.</li>
+<li>Tone.js so users could hear chords before exporting them.</li>
+<li>VSCode</li>
+<li>Vercel for hosting, because it’s one click and done.</li>
 </ul>
 
 
