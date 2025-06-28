@@ -24,7 +24,7 @@ tags:
 <link rel="stylesheet" type="text/css" href="./_css/styles.css">
 
 
-<em>I wasn’t planning to build another web app these past two days, but I couldn't sleep. If you’ve ever tried loading custom chords into Native Instruments Maschine, you already know it sucks. The process is slow and just tedious enough to make you put off engaging with the new feature. But even if you haven’t, take my word for it. Better yet, watch this 60 sec video.</em>
+<em>I wasn’t planning to build another web app these past two days, but I couldn't sleep. If you’ve ever tried loading custom chords into Native Instruments Maschine, you already know it sucks. The process is slow and just tedious enough to make you put off engaging with the new feature. But even if you haven’t, take my word for it. Better yet, watch this 60 sec video..</em>
 
 <div style="position: relative; width: 100%; max-width: 100%; overflow: hidden; height: 0; padding-bottom: 56.25%;">
   <iframe src="https://www.youtube.com/embed/er8DLKgfzX0"
