@@ -180,7 +180,7 @@ People often write “C#min7” or “Dbm7” or “c   maj7” with typos, weir
 ```
   
 <br>
-<li><h4>Letting It Look "Ugly."</h4><br>
+<li><h4>Letting It Be "Ugly."</h4><br>
 I enjoy UI a bit, but I didn’t really have time to nitpick CSS shading and general layout at the start. <a href="https://github.com/matthewjenifer/customchordgenerator_v1" target="_blank">Tailwind CSS to the rescue</a>. I copied what worked from open source sites, adjusted as needed, and checked it on my phone around 4am. The result not only looked fine—it worked pretty well. I figured I'd finally get some rest and clock back in the following day to tweak as I went along.</li>
 
   <br>
