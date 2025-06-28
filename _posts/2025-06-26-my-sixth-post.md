@@ -191,7 +191,7 @@ I'll admit it. I made all the classic mistakes: Tried to push, got rejected. Pul
 </div>
 
 
-<p> Before it was even fully deployed, someone on Reddit offered to pay for this solution, but I'd already planned for it to be free. (Tbh it double as a lead generator as is, but even if I don’t get a sale from it, there's a tip jar link if anyone thinks this deserves coffee.) I just know I wanted to solve a problem: not by waiting for the solution to show up, but by giving myself permission to show up—and the freedom to tinker until something works.</p>
+<p> Before it was even fully deployed, someone on Reddit offered to pay for this solution, but I'd already planned for it to be free. (Tbh it double as a lead generator as is, but even if I don’t get a sale from it, there's a tip jar link if anyone thinks this deserves coffee.) I just know I wanted to solve a problem: not wait for the solution to show up, but by give myself permission to show up—and freedom to tinker until something works.</p>
 
 
 <br>
