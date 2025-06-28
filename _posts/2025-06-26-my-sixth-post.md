@@ -118,7 +118,7 @@ function parseChord(chordName) {
     {
       "name": "Amaj7",
       "notes": [
-        -3, // Closer to middle C but the following triad is an octave out of randger
+        -3, // Closer to middle C but the following triad is an octave out of range
         13,
         16,
         20
