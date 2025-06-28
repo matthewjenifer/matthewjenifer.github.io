@@ -49,7 +49,6 @@ tags:
 <br>
 <p>Since I knew I wasn't going to get much rest Tuesday morning, I decided to tackle a familiar issue again. I'd already found success with <a href="https://github.com/mikhailsoldatkin/maschine_chords_converter" target="_blank">an executable going around online</a> (you create a bunch of folders, export MIDI files one by one via your device or MIDI plugin, drop the exe file in the folder hierarchy, run the exe file, command line opens and THEN you have your JSON files), but after all the steps involved it still required tweaking.</p>
 
-<br>
 <div style="text-align: center;">
 <img src="https://i.ibb.co/5XbpxXgG/utility.png">
 </div>
