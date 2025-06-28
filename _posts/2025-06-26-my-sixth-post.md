@@ -154,6 +154,11 @@ I enjoy UI a bit, I might actually prefer front-end - but I didn’t really have
   <br>
   <br>
 
+
+<div style="text-align: center;">
+<img src="https://i.ibb.co/9kRHkvHS/Screenshot-20250627-050208-Chat-GPT.jpg">
+</div>
+<br>
 <h3 class="text-center">Day 2</h3> 
 <br>
 <li><h4> Hosting and Hiccups.</h4><br>
@@ -163,11 +168,6 @@ Deployment is usually the “fun” part—if your idea of fun is being trolled 
 I'll admit it. I made all the classic mistakes: Tried to push, got rejected. Pulled, made it worse. In the end, I just deleted everything and cloned fresh. If you ever feel stupid for starting over? don’t—every developer does it and just doesn’t talk about it. Producer's too for that matter. Once again, anything I forgot, I knew between ChatGPT and Perplexity I could arrive at an answer quickly. The rest was muscle memory, and it made me reflect on how long things took my first week in bootcamp. </li>
 </ol>
 
-
-<div style="text-align: center;">
-<img src="https://i.ibb.co/9kRHkvHS/Screenshot-20250627-050208-Chat-GPT.jpg">
-</div>
-<br>
 
 <h3>The Stack (If You Care)</h3>
 <ul>
