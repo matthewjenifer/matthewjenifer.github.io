@@ -149,7 +149,7 @@ People often write “C#min7” or “Dbm7” or “c   maj7” with typos, weir
 I enjoy UI a bit, but I didn’t really have time to nitpick CSS shading and general layout at the start. <a href="https://github.com/matthewjenifer/customchordgenerator_v1" target="_blank">Tailwind CSS to the rescue</a>. I copied what worked from open source sites, adjusted as needed, and checked it on my phone around 4am. The result not only looked fine—it worked pretty well. I figured I'd finally get some rest and clock back in the following day to tweak as I went along.</li>
 
   <br>
-  
+  <br>
 
 <h3 class="text-center">Day 2</h3> 
 <br>
@@ -191,7 +191,7 @@ I'll admit it. I made all the classic mistakes: Tried to push, got rejected. Pul
 <p> Before it was even fully deployed, someone on Reddit offered to pay for this solution, but I'd already planned for it to be free. (Tbh it double as a lead generator as is, but even if I don’t get a sale from it, there's a tip jar link if anyone thinks this deserves coffee.) I just know I wanted to solve a problem: not by waiting for the solution to show up, but by giving myself permission to show up—and the freedom to tinker until something works.</p>
 
 
-
+<br>
 <h3>So... Next?</h3>
 
 <p>Well, I don’t have any grand plans for this browser app beyond what it already does, honestly. It doesn't need too much more but if enough people use it, I’ll add features. More chord type functionality, maybe a way to see chords on a piano, or change voicing. That might make for a fun personal project. This is also my first successful implementation of <a href="https://tonejs.github.io/" target="_blank">Tone.js</a> by the way, so I'm pretty happy with that for now. It all makes so much more sense to me than I remember it making when I read the documentation years ago. I may drop the app link a few places online and see who engages. Take it from there.</p>
