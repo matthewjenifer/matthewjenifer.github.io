@@ -61,7 +61,7 @@ tags:
 <div style="text-align: center;">
 <a href="https://customchordgenerator-v1.vercel.app/" target="_blank"><img src="https://i.ibb.co/TMvzJp6Z/disk-thumb.png"></a>
 </div>
-<em>Notice anything strange about this image? AI is responsible for 50% of it. I used photopea to edit it a bit. I gave it a floppy disk overlay, but the original keybed had no G# originally. And I was having none of that. </em>
+<em>Notice anything strange about this image? AI is responsible for 50% of it. I used photopea to edit it a bit. I gave it a floppy disk overlay, but the original keybed had no G# at first. And I was having none of that. </em>
 <br>
 
 
