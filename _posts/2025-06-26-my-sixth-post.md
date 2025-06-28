@@ -144,12 +144,12 @@ I thought mapping chords to MIDI numbers would be "copy-paste" simple when I fir
 </div>
 <br>
 <li><h4>Enlisting AI to let Users Be Human.</h4><br>
-People often write “C#min7” or “Dbm7” or “c   maj7” with typos, weird spacing, or sometimes missing a whole letter. My work on <a href="https://fif-finder-t2.vercel.app/" target="_blank">my last web app</a> taught me: if you don’t approach this right, your app will just spit out errors or ignore you. I needed this one to work seamlessly. The target user barely has time to select each chord pad by pad, so who wants to fiddle with a web app that doesn't understand your chord shorthand and appears not to work? I leveraged my prompting skills to both build preemptive guardrails into the code and sanity-check the process with ChatGPT before my brain could have time to get fried on a single logic error. I can't describe how happy I am I made that choice.</li>
+People often write “C#min7” or “Dbm7” or “c   maj7” with typos, weird spacing, or sometimes missing a whole letter. My work on <a href="https://fif-finder-t2.vercel.app/" target="_blank">my last web app</a> taught me: if you don’t approach this right, your script will just spit out errors or ignore you. I needed this one to work seamlessly. The target user barely has time to select each chord pad by pad, so who wants to fiddle with a web app that doesn't understand your chord shorthand and appears not to work? I leveraged my prompting skills to both build preemptive guardrails into the code and sanity-check the process with ChatGPT before my brain could have time to get fried on a single logic error. I can't describe how happy I am I made that choice.</li>
 
 
 <br>
 <li><h4>Letting It Look "Ugly."</h4><br>
-I enjoy UI a bit, but I didn’t really have time to nitpick CSS shading and general layout at the start. <a href="https://github.com/matthewjenifer/customchordgenerator_v1" target="_blank">Tailwind CSS to the rescue</a>. I copied what worked from open source sites, adjusted as needed, and checked it on my phone around 4am. The result not only looked fine—it worked pretty well. I figured I'd finally get some rest and clock back in the following day to tweak as I went along.</li>
+I enjoy UI a bit, I might actually prefer front-end - but I didn’t really have time to nitpick CSS shading and general layout at the start. <a href="https://github.com/matthewjenifer/customchordgenerator_v1" target="_blank">Tailwind CSS to the rescue</a>. I copied what worked from open source sites, adjusted as needed, and checked it on my phone around 4am. The result not only looked fine—it worked pretty well. I figured I'd finally get some rest and clock back in the following day to tweak as I went along.</li>
 
   <br>
   <br>
