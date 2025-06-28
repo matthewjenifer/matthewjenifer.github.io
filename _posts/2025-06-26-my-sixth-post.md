@@ -179,13 +179,16 @@ I'll admit it. I made all the classic mistakes: Tried to push, got rejected. Pul
 
 <p>I could see why someone might say that. But for me, it was only half about that. Whether it’s chopping a sample or picking apart the software we chop on, it’s all problem-solving to me. I imagine it’s easy to look at a simple app like this and think, “what's the big deal?” But if you’re someone who needed this solution, and it now exists, it's more than big enough.</p>
 
-<p> Before it was even fully deployed, someone on Reddit offered to pay for this solution, but I'd already planned for it to be free. (Tbh it double as a lead generator as is, but even if I don’t get a sale from it, there's a tip jar link if anyone thinks this deserves coffee.) I just know I wanted to solve a problem: not by waiting for the solution to show up, but by giving myself permission to show up—and the freedom to tinker until something works.</p>
 
 <br>
 <div style="text-align: center;">
 <img src="https://i.ibb.co/DgHcNrb0/redditreplies2.png">
 </div>
 <br>
+
+<p> Before it was even fully deployed, someone on Reddit offered to pay for this solution, but I'd already planned for it to be free. (Tbh it double as a lead generator as is, but even if I don’t get a sale from it, there's a tip jar link if anyone thinks this deserves coffee.) I just know I wanted to solve a problem: not by waiting for the solution to show up, but by giving myself permission to show up—and the freedom to tinker until something works.</p>
+
+
 
 <h3>So... Next?</h3>
 
