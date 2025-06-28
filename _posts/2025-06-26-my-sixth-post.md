@@ -146,6 +146,7 @@ I thought mapping chords to MIDI numbers would be "copy-paste" simple when I fir
 People often write “C#min7” or “Dbm7” or “c   maj7” with typos, weird spacing, or sometimes missing a whole letter. My work on <a href="https://fif-finder-t2.vercel.app/" target="_blank">my last web app</a> taught me: if you don’t approach this right, your app will just spit out errors or ignore you. I needed this one to work seamlessly. The target user barely has time to select each chord pad by pad, so who wants to fiddle with a web app that doesn't understand your chord shorthand and appears not to work? I leveraged my prompting skills to both build preemptive guardrails into the code and sanity-check the process with ChatGPT before my brain could have time to get fried on a single logic error. I can't describe how happy I am I made that choice.</li>
 
 ```javascript
+
 // Function to copy JSON to clipboard
  function copyToClipboard() {
    navigator.clipboard.writeText(jsonOutput.textContent)
@@ -175,6 +176,7 @@ People often write “C#min7” or “Dbm7” or “c   maj7” with typos, weir
       document.body.removeChild(a);
       URL.revokeObjectURL(url);
   }
+
 ```
   
 <br>
