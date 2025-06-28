@@ -90,11 +90,11 @@ function parseChord(chordName) {
 
 ```javascript
 {
-  "chords": [
+  "chords": [ 
     {
       "name": "Amaj7",
       "notes": [
-        -15,
+        -15, // Root note dropped for fuller voicing
         1,
         4,
         8
@@ -117,7 +117,7 @@ function parseChord(chordName) {
     {
       "name": "Amaj7",
       "notes": [
-        -3,
+        -3, // Closer to middle C but the following triad is an octave out of randger
         13,
         16,
         20
