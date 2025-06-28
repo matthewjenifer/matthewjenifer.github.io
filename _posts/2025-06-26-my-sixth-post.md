@@ -53,7 +53,7 @@ tags:
 </div>
 <em>(you create a bunch of folders, export MIDI files one by one via your device or MIDI plugin, drop the exe file in the folder hierarchy, run the exe file, command line opens and THEN you have your JSON files)</em>
 <br>
-
+<br>
 <p>Admittedly, this was less work than the advised note-by-note process, but the chords were sometimes out of order and the octaves were all over the place. Not to mention, I personally know more than a few users who would rather switch to Akai than open up an IDE editor (or learn how to use one). So..</p>
 <br>
 <h4>I Did the Work Because You Shouldn't Have To</h4>
