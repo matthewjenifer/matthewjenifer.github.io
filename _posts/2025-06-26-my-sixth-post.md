@@ -159,7 +159,7 @@ I enjoy UI a bit, but I didn’t really have time to nitpick CSS shading and gen
 Deployment is usually the “fun” part—if your idea of fun is being trolled by cache errors, and chasing your tail a few times. Thankfully, Vercel handled most of it, but I still had to search forums to fix asset paths, and retrace familiar steps. Once I got my bearings, the process was as painless as I remembered, and <a href="https://customchordgenerator-v1.vercel.app/" target="_blank">I was live and running in no time.</a> Well, kinda.</li>
 <br>
 <li><h4>Git Drama.</h4><br>
-I'll admit it. I made all the classic mistakes: Tried to push, got rejected. Pulled, made it worse. In the end, I just deleted everything and cloned fresh. If you ever feel stupid for starting over? don’t—every developer does it and just doesn’t talk about it. Producer's too for that matter. Once again, anything I forgot, I knew between ChatGPT and Perplexity I could arrive at an answer quickly. The rest was muscle memory, and it made me reflect on how long things took my first week in bootcamp. And look at me now! </li>
+I'll admit it. I made all the classic mistakes: Tried to push, got rejected. Pulled, made it worse. In the end, I just deleted everything and cloned fresh. If you ever feel stupid for starting over? don’t—every developer does it and just doesn’t talk about it. Producer's too for that matter. Once again, anything I forgot, I knew between ChatGPT and Perplexity I could arrive at an answer quickly. The rest was muscle memory, and it made me reflect on how long things took my first week in bootcamp. </li>
 </ol>
 
 
