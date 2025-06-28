@@ -46,11 +46,12 @@ tags:
 <h6 class="text-center">70% of code is borrowed anyway.</h6>
 
 <br>
-<p>Since I knew I wasn't going to get much rest Tuesday morning, I decided to tackle a familiar issue again. I'd already found success with <a href="https://github.com/mikhailsoldatkin/maschine_chords_converter" target="_blank">an executable going around online</a> (you create a bunch of folders, export MIDI files one by one via your device or MIDI plugin, drop the exe file in the folder hierarchy, run the exe file, command line opens and THEN you have your JSON files), but after all the steps involved it still required tweaking.</p>
+<p>Since I knew I wasn't going to get much rest Tuesday morning, I decided to tackle a familiar issue again. I'd already found success with <a href="https://github.com/mikhailsoldatkin/maschine_chords_converter" target="_blank">an executable going around online</a>, but after all the steps involved it still required tweaking.</p>
 
 <div style="text-align: center;">
 <img src="https://i.ibb.co/5WZSF4gS/utility2.png">
 </div>
+<em>(you create a bunch of folders, export MIDI files one by one via your device or MIDI plugin, drop the exe file in the folder hierarchy, run the exe file, command line opens and THEN you have your JSON files)</em>
 <br>
 
 <p>Admittedly, this was less work than the advised note-by-note process, but the chords were sometimes out of order and the octaves were all over the place. Not to mention, I personally know more than a few users who would rather switch to Akai than open up an IDE editor (or learn how to use one). So..</p>
