@@ -44,7 +44,8 @@ tags:
 
 <p>Enter DeepSeek—an open source LLM playground that, to be honest, did most of the heavy lifting for this single page app, while I directed from the pilot's seat. Before I got into coding I would've thought this would make me less of a “real” coder, but therein lies the beauty of what I now understand: for more senior devs, using new tools is half the job.</p> 
   <br>
-<h6>70% of code is borrowed anyway.</h6>
+<h6 class="text-center">70% of code is borrowed anyway.</h6>
+
 <br>
 <p>Since I knew I wasn't going to get much rest Tuesday morning, I decided to tackle a familiar issue again. I'd already found success with <a href="https://github.com/mikhailsoldatkin/maschine_chords_converter" target="_blank">an executable going around online</a> (you create a bunch of folders, export MIDI files one by one via your device or MIDI plugin, drop the exe file in the folder hierarchy, run the exe file, command line opens and THEN you have your JSON files), but after all the steps involved it still required tweaking.</p>
 
@@ -153,7 +154,7 @@ I enjoy UI a bit, but I didn’t really have time to nitpick CSS shading and gen
   <br>
   
 
-<h3>Day 2</h3> 
+<h3 class="text-center">Day 2</h3> 
 <br>
 <li><h4> Hosting and Hiccups.</h4><br>
 Deployment is usually the “fun” part—if your idea of fun is being trolled by cache errors, and chasing your tail a few times. Thankfully, Vercel handled most of it, but I still had to search forums to fix asset paths, and retrace familiar steps. Once I got my bearings, the process was as painless as I remembered, and <a href="https://customchordgenerator-v1.vercel.app/" target="_blank">I was live and running in no time.</a> Well, kinda.</li>
